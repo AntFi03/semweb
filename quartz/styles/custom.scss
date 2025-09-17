@@ -26,6 +26,9 @@
   src: url("/static/fonts/Raleway-Regular.otf") format("opentype");
 }
 
+.katex {
+    font-size: 1.05rem !important;
+}
 
 // Callouts
 .callout[data-callout="pista"] {

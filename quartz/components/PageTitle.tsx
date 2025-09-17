@@ -31,6 +31,13 @@ PageTitle.css = `
   margin-right: 10px;
 }
 
+
+@media (max-width: 800px) {
+  .Logo {
+    max-width: 200px;
+  }
+}
+
 /* Default = light */
 .Logo--light { display: block; }
 .Logo--dark { display: none; }

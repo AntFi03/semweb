@@ -16,6 +16,7 @@ body {
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
+  // font-size: 1.05rem;  // non serve para igual latex e non-latex
   color: var(--darkgray);
 }
 
@@ -275,7 +276,7 @@ a {
     }
     & .page-header,
     & .page-footer {
-      margin-top: 1rem;
+      margin-top: rem;
     }
 
     & .page-header {
