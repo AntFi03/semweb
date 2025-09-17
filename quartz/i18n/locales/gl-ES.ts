@@ -54,7 +54,7 @@ export default {
       searchBarPlaceholder: "Busca algo",
     },
     tableOfContents: {
-      title: "Táboa de Contidos",
+      title: "Índice",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `Lese en ${minutes} min`,

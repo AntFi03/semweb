@@ -5,7 +5,8 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { JSXInternal } from "preact/src/jsx"
 import { FontSpecification, getFontSpecificationName, ThemeKey } from "./theme"
 import path from "path"
-import { QUARTZ } from "./path"
+import { joinSegments, QUARTZ } from "./path"
+import { promises as fs } from "fs"
 import { formatDate, getDate } from "../components/Date"
 import readingTime from "reading-time"
 import { i18n } from "../i18n"
@@ -14,41 +15,72 @@ import { styleText } from "util"
 const defaultHeaderWeight = [700]
 const defaultBodyWeight = [400]
 
+const texGyreFontPath = path.resolve(QUARTZ, "static", "fonts", "texgyreschola-regular.otf")
+const gamePausedFontPath = path.resolve(QUARTZ, "static", "fonts", "game-paused-demo.otf")
+const ralewayFontPath = path.resolve(QUARTZ, "static", "fonts", "Raleway-Regular.otf")
+
 export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: FontSpecification) {
   // Get all weights for header and body fonts
-  const headerWeights: FontWeight[] = (
-    typeof headerFont === "string"
-      ? defaultHeaderWeight
-      : (headerFont.weights ?? defaultHeaderWeight)
-  ) as FontWeight[]
-  const bodyWeights: FontWeight[] = (
+  // const headerWeights: FontWeight[] = (
+  //   typeof headerFont === "string"
+  //     ? defaultHeaderWeight
+  //     : (headerFont.weights ?? defaultHeaderWeight)
+  // ) as FontWeight[]
+  // const bodyWeights: FontWeight[] = (
+  //   typeof bodyFont === "string" ? defaultBodyWeight : (bodyFont.weights ?? defaultBodyWeight)
+  // ) as FontWeight[]
+
+  // const headerFontName = typeof headerFont === "string" ? headerFont : headerFont.name
+  // const bodyFontName = typeof bodyFont === "string" ? bodyFont : bodyFont.name
+
+  // Default weights
+  const headerWeights: FontWeight[] =
+    typeof headerFont === "string" ? defaultHeaderWeight : (headerFont.weights ?? defaultHeaderWeight)
+  const bodyWeights: FontWeight[] =
     typeof bodyFont === "string" ? defaultBodyWeight : (bodyFont.weights ?? defaultBodyWeight)
-  ) as FontWeight[]
 
   const headerFontName = typeof headerFont === "string" ? headerFont : headerFont.name
   const bodyFontName = typeof bodyFont === "string" ? bodyFont : bodyFont.name
 
   // Fetch fonts for all weights and convert to satori format in one go
+  // const headerFontPromises = headerWeights.map(async (weight) => {
+  //   const data = await fetchTtf(headerFontName, weight)
+  //   if (!data) return null
+  //   return {
+  //     name: headerFontName,
+  //     data,
+  //     weight,
+  //     style: "normal" as const,
+  //   }
+  // })
+
+  // const bodyFontPromises = bodyWeights.map(async (weight) => {
+  //   const data = await fetchTtf(bodyFontName, weight)
+  //   if (!data) return null
+  //   return {
+  //     name: bodyFontName,
+  //     data,
+  //     weight,
+  //     style: "normal" as const,
+  //   }
+  // })
+
+  // const [headerFonts, bodyFonts] = await Promise.all([
+  //   Promise.all(headerFontPromises),
+  //   Promise.all(bodyFontPromises),
+  // ])
+
+  // Fetch Google Fonts
   const headerFontPromises = headerWeights.map(async (weight) => {
     const data = await fetchTtf(headerFontName, weight)
     if (!data) return null
-    return {
-      name: headerFontName,
-      data,
-      weight,
-      style: "normal" as const,
-    }
+    return { name: headerFontName, data, weight, style: "normal" as const }
   })
 
   const bodyFontPromises = bodyWeights.map(async (weight) => {
     const data = await fetchTtf(bodyFontName, weight)
     if (!data) return null
-    return {
-      name: bodyFontName,
-      data,
-      weight,
-      style: "normal" as const,
-    }
+    return { name: bodyFontName, data, weight, style: "normal" as const }
   })
 
   const [headerFonts, bodyFonts] = await Promise.all([
@@ -57,9 +89,57 @@ export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: Fo
   ])
 
   // Filter out any failed fetches and combine header and body fonts
+  // const fonts: SatoriOptions["fonts"] = [
+    // ...headerFonts.filter((font): font is NonNullable<typeof font> => font !== null),
+    // ...bodyFonts.filter((font): font is NonNullable<typeof font> => font !== null),
+    
+    // ...headerFontData.map((data, idx) => ({
+    //   name: headerFontName,
+    //   data,
+    //   weight: headerWeights[idx],
+    //   style: "normal" as const,
+    // })),
+    // ...bodyFontData.map((data, idx) => ({
+    //   name: bodyFontName,
+    //   data,
+    //   weight: bodyWeights[idx],
+    //   style: "normal" as const,
+    // })),
+    // {
+    //   name: "Tex Gyre Schola",
+    //   data: await fs.readFile(texgyreScholaPath),
+    //   weight: 400,
+    //   style: "normal" as const,
+    // },
+  // ]
+
+  // Load your local font
+  const texGyreFont = {
+    name: "Tex Gyre Schola",
+    data: await fs.readFile(texGyreFontPath),
+    weight: 400,
+    style: "normal" as const,
+  }
+  const gamePausedFont = {
+    name: "Game Paused DEMO",
+    data: await fs.readFile(gamePausedFontPath),
+    weight: 400,
+    style: "normal" as const,
+  }
+  const ralewayFont = {
+    name: "Raleway",
+    data: await fs.readFile(ralewayFontPath),
+    weight: 400,
+    style: "normal" as const,
+  }
+
+  // Combine fonts
   const fonts: SatoriOptions["fonts"] = [
-    ...headerFonts.filter((font): font is NonNullable<typeof font> => font !== null),
-    ...bodyFonts.filter((font): font is NonNullable<typeof font> => font !== null),
+    ...headerFonts.filter((f): f is NonNullable<typeof f> => f !== null),
+    gamePausedFont,
+    ralewayFont,
+    ...bodyFonts.filter((f): f is NonNullable<typeof f> => f !== null),
+    texGyreFont,
   ]
 
   return fonts
