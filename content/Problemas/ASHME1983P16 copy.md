@@ -1,0 +1,35 @@
+---
+title: ASHME2018P12
+draft: false
+tags:
+  - Problemas
+  - Preuniversitario
+  - Dificultade2
+  - Combinatoria
+---
+
+## Enunciado
+
+Sexa o número:
+$$
+    x = 0.123456789101112\dots998999,
+$$
+onde os díxitos se obteñen concatenando os enteiros dende o $1$ ata o $999$ en orde. Atopar o díxito que está na posición $1983$ logo do punto decimal.
+
+---
+
+## Resolución
+
+> [!pista]- Pista
+> Atopar o díxito que está na posición 1983 logo do punto decimal.
+
+> [!solution2]- Solución
+> Sendo $z$ o díxito na posición 1983, podemos dividir o número en 3 seccións:
+> $$
+>   0.\underbrace{123456789}_{A}\underbrace{1011\dots9899}_{B}\underbrace{100101\dots z}_{C}.
+> $$
+> Hai 9 díxitos en $A$, e $2 \cdot 90 = 180$ díxitos en $B$, entón $C$ terá 1794 díxitos. Dividindo 1794 entre 3 obtemos 598 con resto 0. Entón $C$ está formada polos primeiros 598 enteiros de 3 díxitos. Como o primeiro enteiro de 3 díxitos que estamos considerando é 100, o 598º enteiro de 3 díxitos será:
+> $$
+>   598 + 99 = 697,
+> $$
+> tendo $z = 7$.
