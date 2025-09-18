@@ -18,8 +18,13 @@ export const sharedPageComponents: SharedLayout = {
         // from data-category-id
         categoryId: 'DIC_kwDOPxRdQM4CvmlO',
         // from data-lang
-        lang: 'en'
-      }
+        lang: 'en',
+      
+        // Other options
+        themeUrl: "https://example.com/static/giscus", // corresponds to quartz/static/giscus/
+        lightTheme: "light-theme", // corresponds to light-theme.css in quartz/static/giscus/
+        darkTheme: "dark-theme", // corresponds to dark-theme.css quartz/static/giscus/
+    }
     }),
   ],
   footer: Component.Footer({
