@@ -11,11 +11,11 @@ export const sharedPageComponents: SharedLayout = {
       options: {
         repo: 'AntFi03/semweb',
         repoId: 'R_kgDOPxRdQA',
-        category: 'General',
+        category: 'Announcements',
         categoryId: 'DIC_kwDOPxRdQM4CvmlO',
         lang: 'en',
         themeUrl: "https://sementeira.maega.gal/static/giscus",
-        lightTheme: "quartz/static/giscus/light-theme",
+        lightTheme: "light-theme",
         darkTheme: "dark-theme",
         mapping: "title",
         strict: false,
