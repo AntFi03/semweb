@@ -14,7 +14,7 @@ export const sharedPageComponents: SharedLayout = {
         category: 'Announcements',
         categoryId: 'DIC_kwDOPxRdQM4CvmlO',
         lang: 'en',
-        themeUrl: "https://sementeira.maega.gal/static/giscus",
+        themeUrl: "https://sementeira.maega.gal/static/giscus/",
         lightTheme: "light-theme",
         darkTheme: "dark-theme",
         mapping: "title",
