@@ -9,21 +9,24 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        // from data-repo
         repo: 'AntFi03/semweb',
-        // from data-repo-id
         repoId: 'R_kgDOPxRdQA',
-        // from data-category
         category: 'General',
-        // from data-category-id
         categoryId: 'DIC_kwDOPxRdQM4CvmlO',
-        // from data-lang
         lang: 'en',
-      }
+        themeUrl: "https://sementeira.maega.gal/static/giscus",
+        lightTheme: "quartz/static/giscus/light-theme",
+        darkTheme: "dark-theme",
+        mapping: "title",
+        strict: false,
+        reactionsEnabled: false,
+        inputPosition: "bottom",
+      },
     }),
   ],
   footer: Component.Footer({
     links: {
+      Etiquetas: "/tags",
       Maega: "https://maega.gal/gl",
       GitHub: "https://github.com/maega-gal/",
     },
