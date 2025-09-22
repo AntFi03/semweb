@@ -18,21 +18,12 @@ jobs:
   dispatch:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger repository_dispatch in semweb-obsidian Repo
-        uses: actions/github-script@v6
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
         with:
-          github-token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          script: |
-            await github.rest.repos.createDispatchEvent({
-              owner: 'AntFi03',
-              repo: 'semweb-obsidian',
-              event_type: 'repo-semweb-merged',
-              client_payload: {
-                pr_number: context.payload.pull_request.number,
-                merge_commit: context.payload.pull_request.merge_commit_sha,
-                merged_by: context.payload.pull_request.merged_by?.login
-              }
-            })
+          token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          repository: AntFi03/semweb-obsidian
+          event-type: sync-in-semweb
 
   build:
     runs-on: ubuntu-22.04
