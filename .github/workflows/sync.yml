@@ -27,9 +27,10 @@ jobs:
       - name: Clone Obsidian Vault
         uses: actions/checkout@v4
         with:
-          repository: AntFi03/semweb-obsidian
-          path: semweb-obsidian
+          repository: "AntFi03/semweb-obsidian"
+          ref: main
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          path: semweb-obsidian
       - name: Copy Obsidian content into Quartz content
         run: |
           rm -rf content/*
