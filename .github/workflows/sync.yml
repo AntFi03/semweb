@@ -1,8 +1,10 @@
-name: Update vault content
+name: Sync from semweb-obsidian
 
 on:
-  schedule:
-    - cron: "0 * * * *" # Run every Monday at 11 AM UTC
+  repository_dispatch:
+    types: [sync-in-semweb-obsidian]
+  # schedule:
+  #   - cron: "0 * * * *" # Run every Monday at 11 AM UTC
   workflow_dispatch:
 
 jobs:
