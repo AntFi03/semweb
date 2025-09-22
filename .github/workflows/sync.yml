@@ -40,7 +40,7 @@ jobs:
           echo -e "\n----- Copying over Markdown files"
           cp -vr . ../semweb/content
           cd ../semweb/content
-          rm -rf .obsidian .git .github
+          rm -rf .obsidian .git .github .config _templates
           # mv <PUBLIC_ATTACHMENTS_FOLDER> _files
         # ^ Include this last line if you want to rename your public folder
 
