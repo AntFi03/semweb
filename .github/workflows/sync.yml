@@ -95,8 +95,8 @@ jobs:
           # echo "----- Copying over public-only attachments"
           # cp -vr <PUBLIC_ATTACHMENTS_FOLDER> ../semweb/content
           echo -e "\n----- Copying over Markdown files"
-          cp -vr semweb-obsidian/. ../semweb/content
-          cd ../semweb/content
+          cp -vr . ../semweb/content
+          # cd ../semweb/content
           # mv <PUBLIC_ATTACHMENTS_FOLDER> _files
         # ^ Include this last line if you want to rename your public folder
 
