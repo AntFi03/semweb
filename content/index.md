@@ -9,4 +9,4 @@ tags:
 **Sementeira** é o *club de resolución de problemas* da facultade matemáticas da Universidade de Santiago de Compostela (USC). Centrámonos principalmente na resolución de problemas de olimpíadas matemáticas.
 
 Neste web poderás atopar distintos **recursos** que fumos creando ao longo dos anos:
-- [Banco de problemas de olimpíadas matemáticas](/Problemas/).
+- [Banco de problemas de olimpíadas matemáticas](/Problemas/)
