@@ -1,0 +1,25 @@
+name: Dispatch to semweb-obsidian Repo on PR merge
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  dispatch:
+    if: ${{ github.event.pull_request.merged == true }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger repository_dispatch in semweb-obsidian Repo
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          script: |
+            await github.repos.createDispatchEvent({
+              owner: 'AntFi03',
+              repo: 'semweb-obsidian',
+              event_type: 'repo-semweb-merged',
+              client_payload: {
+                pr_number: context.payload.pull_request.number,
+                merge_commit: context.payload.pull_request.merge_commit_sha,
+                merged_by: context.payload.pull_request.merged_by?.login
+              }
+            })
