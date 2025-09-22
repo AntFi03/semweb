@@ -65,7 +65,7 @@ jobs:
 
       - name: Setup Git config (user and email), necessary for commits
         run: |
-          git config --global user.name "MaEGA_gal"
+          git config --global user.name "MaEGA-gal"
           git config --global user.email "maega@gmail.com"
 
       - name: Sync Quartz repo
