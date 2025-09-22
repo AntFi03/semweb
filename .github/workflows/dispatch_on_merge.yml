@@ -7,7 +7,6 @@ on:
 
 jobs:
   dispatch:
-    if: ${{ github.event.pull_request.merged == true }}
     runs-on: ubuntu-latest
     steps:
       - name: Trigger repository_dispatch in semweb-obsidian Repo
