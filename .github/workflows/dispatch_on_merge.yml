@@ -15,7 +15,7 @@ jobs:
         with:
           github-token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           script: |
-            await github.repos.createDispatchEvent({
+            await github.rest.repos.createDispatchEvent({
               owner: 'AntFi03',
               repo: 'semweb-obsidian',
               event_type: 'repo-semweb-merged',
