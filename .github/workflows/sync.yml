@@ -39,7 +39,8 @@ jobs:
           # cp -vr <PUBLIC_ATTACHMENTS_FOLDER> ../semweb/content
           echo -e "\n----- Copying over Markdown files"
           cp -vr . ../semweb/content
-          # cd ../semweb/content
+          cd ../semweb/content
+          rm -rf .obsidian .git
           # mv <PUBLIC_ATTACHMENTS_FOLDER> _files
         # ^ Include this last line if you want to rename your public folder
 
