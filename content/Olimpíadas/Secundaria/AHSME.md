@@ -7,7 +7,7 @@ lang: gl-ES
 draft: false
 enableToc: true
 tags:
-  - Problemas
+  - Olimpíadas
 date: 2025-09-23
 ---
 > [!info]+
