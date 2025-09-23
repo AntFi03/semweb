@@ -1,5 +1,5 @@
 ---
-title: Problemas
+title: Seminarios
 description:
 draft: false
 comments: false
