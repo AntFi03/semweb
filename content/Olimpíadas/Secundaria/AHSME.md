@@ -15,8 +15,8 @@ date: 2025-09-23
 > Está organizada pola AMC (*American Mathematics Competitions*) que á súa vez tamén organiza outras olimpíadas como as [[AMC12]] ou [[AMC10]].
 
 ## Problemas no Banco de Problemas (galego)
-- [[ASHME-1983-P16]]
-- [[ASHME-1988-P18]]
+- [[AHSME-1983-P16]]
+- [[AHSME-1988-P18]]
 
 ## Todos os problemas (inglés)
 - [AoPS - Problemas e solucións da ASHME](https://artofproblemsolving.com/wiki/index.php?title=AHSME_Problems_and_Solutions)

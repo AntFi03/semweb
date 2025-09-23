@@ -10,4 +10,4 @@ date:
 ---
 ## Primeiro cuadrimestre
 ### Sesión 7
-- [[ASHME-1988-P18]]
+- [[AHSME-1988-P18]]
