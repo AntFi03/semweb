@@ -10,3 +10,5 @@ tags:
 
 Nesta web poderás atopar distintos **recursos** que fumos creando ao longo dos anos:
 - [[Problemas/_index|Banco de problemas de olimpíadas matemáticas]]
+- [[Olimpíadas/_index|Guía de preparación de olimpíadas matemáticas]]
+- [[Seminarios/_index|Resumos dos seminarios presenciais de Sementeira na USC]]

@@ -6,7 +6,7 @@ lang: gl-ES
 draft: false
 enableToc: true
 tags:
-  - Olimpíadas
+  - Olimpíada
 date: 2025-09-23
 ---
 > [!info]+
@@ -19,4 +19,4 @@ date: 2025-09-23
 - [[AHSME-1988-P18]]
 
 ## Todos os problemas (inglés)
-- [AoPS - Problemas e solucións da ASHME](https://artofproblemsolving.com/wiki/index.php?title=AHSME_Problems_and_Solutions)
+- [AoPS - Problema e solucións da ASHME](https://artofproblemsolving.com/wiki/index.php?title=AHSME_Problems_and_Solutions)

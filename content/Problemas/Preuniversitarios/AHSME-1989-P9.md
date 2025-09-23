@@ -5,7 +5,7 @@ comments: true
 draft: false
 enableToc: true
 tags:
-  - Problemas
+  - Problema
   - Preuniversitario
   - Fácil
   - Combinatoria

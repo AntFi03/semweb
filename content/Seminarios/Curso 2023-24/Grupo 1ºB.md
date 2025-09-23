@@ -5,7 +5,7 @@ comments: false
 draft: false
 enableToc: true
 tags:
-  - Seminarios
+  - Seminario
 date:
 ---
 ## Segundo cuadrimestre

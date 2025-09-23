@@ -22,7 +22,7 @@ export default {
       quote: "Cita",
     },
     backlinks: {
-      title: "Páxinas que enlazan aquí",
+      title: "Páxinas relacionadas",
       noBacklinksFound: "Non se atoparon enlaces a esta páxina",
     },
     themeToggle: {
@@ -73,7 +73,7 @@ export default {
     folderContent: {
       folder: "Carpeta",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 artigo en esta carpeta." : `${count} artigos en esta carpeta.`,
+        count === 1 ? "1 artigo nesta carpeta." : `${count} artigos nesta carpeta.`,
     },
     tagContent: {
       tag: "Etiqueta",

@@ -5,6 +5,6 @@ comments: false
 draft: false
 enableToc: true
 tags:
-  - Seminarios
-date:
+  - Seminario
+date: 2025-09-20
 ---
