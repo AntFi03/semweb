@@ -1,5 +1,6 @@
 ---
 title: American High School Mathematics Examination (AHSME)
+permalink: AHSME
 description:
 comments: false
 lang: gl-ES
