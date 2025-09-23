@@ -1,5 +1,5 @@
 ---
-title: Benvidos a Sementeira! (Beta)
+title: Benvidos a Sementeira! (Beta v0.1)
 draft: false
 comments: false
 date: 2025-09-17
