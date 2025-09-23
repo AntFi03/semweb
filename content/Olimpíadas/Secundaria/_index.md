@@ -1,5 +1,5 @@
 ---
-title: Olimpíadas de Secundaria
+title: Secundaria
 draft: false
 comments: false
 tags:
