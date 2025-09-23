@@ -11,3 +11,4 @@ date:
 ## Primeiro cuadrimestre
 ### Sesión 7
 - [[AHSME-1988-P18]]
+- [[AIME-1991-P5]]
