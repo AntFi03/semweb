@@ -14,9 +14,9 @@ export const sharedPageComponents: SharedLayout = {
         category: 'Announcements',
         categoryId: 'DIC_kwDOPxRdQM4CvmlO',
         lang: 'en',
-        themeUrl: "https://sementeira.maega.gal/static/giscus/",
-        lightTheme: "light-theme",
-        darkTheme: "dark-theme",
+        // themeUrl: "https://sementeira.maega.gal/static/giscus",
+        // lightTheme: "light-theme",
+        // darkTheme: "dark-theme",
         mapping: "title",
         strict: false,
         reactionsEnabled: false,
@@ -41,8 +41,8 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    // Component.ContentMeta(),
+    // Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
@@ -62,8 +62,10 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     // Component.Graph(),
     // Component.DesktopOnly(Component.TableOfContents()),
+    Component.TagList(),
     Component.TableOfContents(),
     Component.Backlinks(),
+    // Component.RecentNotes(),
   ],
 }
 

@@ -20,6 +20,15 @@ body {
   color: var(--darkgray);
 }
 
+p {
+  font-size: 1.25rem;
+}
+
+.katex,
+.math {
+  font-size: 1.33rem !important;
+}
+
 .text-highlight {
   background-color: var(--textHighlight);
   padding: 0 0.1rem;
