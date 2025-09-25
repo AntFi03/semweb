@@ -1,5 +1,5 @@
 ---
-title: Grupo 2º (23-24)
+title: Grupo 1ºC (23-24)
 description:
 comments: false
 draft: false
@@ -9,5 +9,6 @@ tags:
 date:
 ---
 ## Segundo cuadrimestre
-### Sesión 3
-- [[AMO-2017-Final-R1-P4]]
+### Sesión 4
+- [[AIME-1998-P7]]
+- [[ANEM-LM-2324-TeoNum-P1]]

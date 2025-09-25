@@ -9,6 +9,8 @@ tags:
 date: 2025-09-21
 ---
 ## Primeiro cuadrimestre
+### Sesión 2
+- [[ANEM-LM-2324-Desig-P1]]
 ### Sesión 7
 - [[AHSME-1988-P18]]
 - [[AIME-1991-P5]]

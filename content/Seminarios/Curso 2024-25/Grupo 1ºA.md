@@ -9,3 +9,5 @@ tags:
 date: 2025-09-22
 ---
 ## Primeiro cuadrimestre
+### Sesión 3
+- [[ANEM-LM-2324-Desig-P1]]
