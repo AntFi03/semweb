@@ -8,6 +8,11 @@ tags:
   - Seminario
 date:
 ---
+## Primeiro cuadrimestre
+### Sesión 6
+- [[BMC-2020-P1]]
 ## Segundo cuadrimestre
 ### Sesión 3
 - [[AMO-2017-Final-R1-P4]]
+### Sesión 5
+- [[BMO-2023-P1]]

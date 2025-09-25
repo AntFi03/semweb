@@ -8,7 +8,12 @@ tags:
   - Seminario
 date:
 ---
+## Primeiro cuadrimestre
+## Sesión 2
+- [[BAMO-2014-P1]]
 ## Segundo cuadrimestre
 ### Sesión 4
 - [[AIME-1998-P7]]
-- [[ANEM-LM-2324-TeoNum-P1]]
+- [[ANEM-LM-2324-TNum-P1]]
+### Sesión 7
+- [[APMC-2000-P6]]

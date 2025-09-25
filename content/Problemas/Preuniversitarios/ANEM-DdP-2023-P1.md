@@ -23,7 +23,6 @@ Demostra que independentemente do número de gasolineiras e do reparto da gasoli
 
 ## Resolución
 
-> [!example]
 > Aínda non hai ningunha solución rexistrada para este problema. Se queres colaborar con nós, mándanos a túa!!
 
 

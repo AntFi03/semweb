@@ -20,7 +20,7 @@ date:
 - [[AHSME-1989-P9]]
 ### Sesión 5
 - [[AMO-2017-Final-R1-P4]]
-- [[ANEM-LM-2324-TeoNum-P1]]
+- [[ANEM-LM-2324-TNum-P1]]
 ### Sesión 7
 - [[ANEM-DdP-2021-P1]]
 ### Sesión 8
