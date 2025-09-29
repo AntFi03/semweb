@@ -1,5 +1,5 @@
 ---
-title: Infantil
+title: Escolar
 draft: false
 comments: false
 tags:
