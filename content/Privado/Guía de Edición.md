@@ -2,13 +2,13 @@
 title: Guía de Edición
 description:
 comments: true
-draft: false
-enableToc: true
+draft: true
+enableToc: false
 tags:
 date: 2025-09-29
 ---
 
-
+Por facer...
 
 
 ---

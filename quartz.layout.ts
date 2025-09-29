@@ -28,7 +28,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Etiquetas: "/tags",
       Maega: "https://maega.gal/gl",
-      GitHub: "https://github.com/maega-gal/",
+      GitHub: "https://github.com/AntFi03/semweb",
+      Contacto: "mailto:sementeira.problemas@gmail.com"
     },
   }),
 }
@@ -71,7 +72,7 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
