@@ -2,7 +2,7 @@
 title: Guía de Edición
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
 date: 2025-09-29
