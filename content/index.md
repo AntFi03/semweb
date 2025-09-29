@@ -13,7 +13,7 @@ Nesta web poderás atopar distintos **recursos** que fumos creando ao longo dos 
 ## [[Problemas/_index|Colección de problemas de olimpíadas matemáticas]]
 Na carpeta correspondente pódense atopar unha recua de **16** problemas de olimpíadas matemáticas, cada un en cadansúa páxina. Ao final da páxina de cada un deles hai unha sección de comentarios nas que é posible plasmar as dúbidas que poidades ter resolvendo os problemas ou mesmo onde poder compartir as vosas propias solucións dos mesmos.
 
-Os problemas clasifícanse en tres grupos segundo as ferramentas matemáaticas que precisan para resolverse:
+Os problemas clasifícanse en tres grupos segundo as ferramentas matemáticas que precisan para resolverse:
 
 | Grupo de problemas  | Público obxectivo                    |
 | ------------------- | ------------------------------------ |
