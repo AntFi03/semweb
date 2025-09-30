@@ -29,7 +29,8 @@ export const sharedPageComponents: SharedLayout = {
       Etiquetas: "/tags",
       Maega: "https://maega.gal/gl",
       GitHub: "https://github.com/AntFi03/semweb",
-      Contacto: "mailto:sementeira.problemas@gmail.com"
+      Contacto: "mailto:sementeira.problemas@gmail.com",
+      "Colabora con nós!": "https://maega.gal/gl/proxectos/sementeira/gu%C3%ADa-de-uso-da-web/"
     },
   }),
 }
