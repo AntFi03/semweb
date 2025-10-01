@@ -10,7 +10,7 @@ tags:
 date: 2025-09-23
 ---
 > [!info]+
-> A *American High School Mathematics Examination (AHSME)* é unha competición, que se celebra nos Estados Unidos, na que participan alumnos/as de entre 3º da ESO e 2º de Bacharelato.
+> A *American High School Mathematics Examination (AHSME)* é unha competición, que se celebra nos Estados Unidos, na que participan estudantes de entre 3º da ESO e 2º de Bacharelato.
 > 
 > Está organizada pola AMC (*American Mathematics Competitions*) que á súa vez tamén organiza outras olimpíadas como as [[AMC12]] ou [[AMC10]].
 
