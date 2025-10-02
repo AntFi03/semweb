@@ -3,7 +3,7 @@ title: American High School Mathematics Examination (AHSME)
 description:
 comments: false
 lang: gl-ES
-draft: false
+draft: true
 enableToc: true
 tags:
   - Olimpíada
