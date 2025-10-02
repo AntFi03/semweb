@@ -1,5 +1,5 @@
 ---
-title: Grupo 1º (24-25)
+title: Grupo 1º (25-26)
 description:
 comments: false
 draft: false

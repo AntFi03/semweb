@@ -1,5 +1,5 @@
 ---
-title: Grupo 3º-4º (24-25)
+title: Grupo 3º-4º (25-26)
 description:
 comments: false
 draft: false
