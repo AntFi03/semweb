@@ -34,7 +34,7 @@ PageTitle.css = `
 
 @media (max-width: 800px) {
   .Logo {
-    max-width: 150px;
+    max-width: 140px;
   }
 }
 
