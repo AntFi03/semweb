@@ -1,5 +1,5 @@
 ---
-title: AHSME
+title: Outros
 draft: false
 comments: false
 tags:
