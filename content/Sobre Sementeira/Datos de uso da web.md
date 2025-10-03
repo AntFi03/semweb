@@ -1,5 +1,5 @@
 ---
-title: Acerca de
+title: Datos de uso da web
 description:
 comments: true
 draft: false
