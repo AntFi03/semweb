@@ -10,9 +10,10 @@ date:
 ---
 ## Primeiro cuadrimestre
 ### Sesión 5
-- [[EKC-1935-P3]]
+- [[EKC-1934-P3]]
 ### Sesión 6
 - [[BMC-2020-P1]]
+- [[FEHTST-E2_12_6]]
 ## Segundo cuadrimestre
 ### Sesión 3
 - [[AMO-2017-Final-R1-P4]]

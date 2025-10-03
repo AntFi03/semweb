@@ -11,8 +11,10 @@ date:
 ## Primeiro cuadrimestre
 ## Sesión 2
 - [[BAMO-2014-P1]]
+### Sesión 3
+- [[EKC-1939-P1]]
 ### Sesión 4
-- [[EKC-1935-P3]]
+- [[EKC-1934-P3]]
 ## Segundo cuadrimestre
 ### Sesión 4
 - [[AIME-1998-P7]]
