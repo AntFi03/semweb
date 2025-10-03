@@ -1,5 +1,5 @@
 ---
-title: AIME
+title: CMO
 draft: false
 comments: false
 tags:

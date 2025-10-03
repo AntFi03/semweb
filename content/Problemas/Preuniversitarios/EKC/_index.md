@@ -1,5 +1,5 @@
 ---
-title: AIME
+title: EKC
 draft: false
 comments: false
 tags:

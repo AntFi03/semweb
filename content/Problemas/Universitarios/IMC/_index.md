@@ -1,5 +1,5 @@
 ---
-title: AIME
+title: IMC
 draft: false
 comments: false
 tags:

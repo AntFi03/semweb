@@ -1,5 +1,5 @@
 ---
-title: AIME
+title: IMO
 draft: false
 comments: false
 tags:
