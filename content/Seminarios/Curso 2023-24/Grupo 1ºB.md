@@ -10,10 +10,13 @@ date:
 ---
 ## Primeiro cuadrimestre
 ### Sesión 2
-- [[ANEM-DdP-2023-P1]].
+- [[ANEM-DdP-2023-P1]]
+### Sesión 3
+- [[BrMO-2000-P2]]
 ## Segundo cuadrimestre
 ### Sesión 1
 - [[AIME-1987-P5]]
+- [[BrMO-2005-P1]]
 ### Sesión 4
 - [[AHSME-1983-P16]]
 - [[AHSME-1988-P18]]
