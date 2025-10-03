@@ -17,6 +17,7 @@ date:
 ### Sesión 1
 - [[AIME-1987-P5]]
 - [[BrMO-2005-P1]]
+- [[CDR-Junior-2013-E2-P3]]
 ### Sesión 4
 - [[AHSME-1983-P16]]
 - [[AHSME-1988-P18]]

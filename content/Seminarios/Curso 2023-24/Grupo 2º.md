@@ -16,3 +16,6 @@ date:
 - [[AMO-2017-Final-R1-P4]]
 ### Sesión 5
 - [[BMO-2023-P1]]
+### Sesión 6
+- [[CMO-1982-P2]]
+- [[CMO-2018-P1]]
