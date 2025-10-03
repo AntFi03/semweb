@@ -5,7 +5,6 @@ comments: false
 draft: true
 enableToc: true
 tags:
-  - Problema
 date:
 ---
 ## Visualizacións

@@ -9,8 +9,11 @@ tags:
 date:
 ---
 ## Primeiro cuadrimestre
+### Sesión 1
+- [[IMO-1985-LL-VIE-P3]]
 ### Sesión 2
 - [[BrMO-2022-P1]]
+- [[IMC-2022-D1-P1]]
 ### Sesión 5
 - [[BrMO-2000-P2]]
 - [[IMC-2004-D2-P1]]

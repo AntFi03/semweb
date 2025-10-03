@@ -11,6 +11,7 @@ date:
 ## Primeiro cuadrimestre
 ### Sesión 1
 - [[IMC-2004-D1-P1]]
+- [[IMC-2022-D1-P1]]
 ### Sesión 5
 - [[EKC-1934-P3]]
 - [[FEHTST-E3_9_1]]

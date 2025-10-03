@@ -11,6 +11,7 @@ date: 2025-09-21
 ## Primeiro cuadrimestre
 ### Sesión 2
 - [[ANEM-LM-2324-Desig-P1]]
+- [[IMO-1985-LL-VIE-P3]]
 ### Sesión 5
 - [[BrMO-2022-P1]]
 ### Sesión 7
