@@ -13,6 +13,7 @@ date:
 - [[BrMO-2022-P1]]
 ### Sesión 5
 - [[BrMO-2000-P2]]
+- [[IMC-2004-D2-P1]]
 ## Segundo cuadrimestre
 ### Sesión 1
 - [[AIME-1987-P5]]

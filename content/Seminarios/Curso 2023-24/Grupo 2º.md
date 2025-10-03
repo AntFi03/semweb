@@ -9,8 +9,11 @@ tags:
 date:
 ---
 ## Primeiro cuadrimestre
+### Sesión 1
+- [[IMC-2004-D1-P1]]
 ### Sesión 5
 - [[EKC-1934-P3]]
+- [[FEHTST-E3_9_1]]
 ### Sesión 6
 - [[BMC-2020-P1]]
 - [[FEHTST-E2_12_6]]
