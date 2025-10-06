@@ -5,7 +5,7 @@ draft: true
 comments: false
 tags:
 ---
-### Revisar enunciado
+### Revisar enunciado 
 ```dataview
 TABLE draft, date, notas
 FROM #Problema 
