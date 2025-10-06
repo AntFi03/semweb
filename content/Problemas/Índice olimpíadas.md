@@ -24,7 +24,14 @@ date: 2025-09-21
 ##M
 ##N
 ##O
+- [OME: Olimpíada Matemática Española](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html)
 ##P
 ##R
 ##S
 ##T
+##U
+##V
+##W
+##X
+##Y
+##Z
