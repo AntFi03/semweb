@@ -9,6 +9,8 @@
   &:has(button.toc-header.collapsed) {
     flex: 0 1 1.4rem;
   }
+
+  font-family: var(--headerFont);
 }
 
 button.toc-header {

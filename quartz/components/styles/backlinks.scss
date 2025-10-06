@@ -2,6 +2,7 @@
 
 .backlinks {
   flex-direction: column;
+  font-family: var(--headerFont);
 
   & > h3 {
     font-size: 1rem;

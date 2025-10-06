@@ -6,6 +6,7 @@
       <description>Últimas 10 notas on Sementeira</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+<<<<<<< HEAD
     <title>ASHME2018P12</title>
     <link>https://sementeira.maega.gal/Problemas/ASHME1983P16-copy</link>
     <guid>https://sementeira.maega.gal/Problemas/ASHME1983P16-copy</guid>
@@ -17,12 +18,67 @@
     <guid>https://sementeira.maega.gal/Problemas/ASHME1983P16</guid>
     <description><![CDATA[ Enunciado Sexa o número: x = 0.123456789101112\dots998999, onde os díxitos se obteñen concatenando os enteiros dende o 1 ata o 999 en orde. ]]></description>
     <pubDate>Wed, 17 Sep 2025 12:06:32 GMT</pubDate>
+=======
+    <title>Grupo 1º (24-25)</title>
+    <link>https://sementeira.maega.gal/Seminarios/Curso-2025-26/Grupo-1%C2%BA</link>
+    <guid>https://sementeira.maega.gal/Seminarios/Curso-2025-26/Grupo-1%C2%BA</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 29 Sep 2025 09:23:00 GMT</pubDate>
+>>>>>>> origin/main
   </item><item>
-    <title>Benvidos a Sementeira!</title>
-    <link>https://sementeira.maega.gal/</link>
-    <guid>https://sementeira.maega.gal/</guid>
-    <description><![CDATA[ Sementeira é o club de resolución de problemas da facultade matemáticas da Universidade de Santiago de Compostela (USC). ]]></description>
-    <pubDate>Tue, 16 Sep 2025 22:00:00 GMT</pubDate>
+    <title>Universitarios</title>
+    <link>https://sementeira.maega.gal/Problemas/Universitarios/</link>
+    <guid>https://sementeira.maega.gal/Problemas/Universitarios/</guid>
+    <description><![CDATA[ Cada unha das seguintes páxinas correspóndese con un problema. Á dereita pódense ver as etiquetas que clasifican aos mesmos. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 09:18:33 GMT</pubDate>
+  </item><item>
+    <title>Problemas</title>
+    <link>https://sementeira.maega.gal/Problemas/</link>
+    <guid>https://sementeira.maega.gal/Problemas/</guid>
+    <description><![CDATA[ Selecciona a categoría dos problemas que queres consultar segundo as ferramentas matemáticas que precisan para resolverse. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 09:18:33 GMT</pubDate>
+  </item><item>
+    <title>Secundaria</title>
+    <link>https://sementeira.maega.gal/Olimp%C3%ADadas/Secundaria/</link>
+    <guid>https://sementeira.maega.gal/Olimp%C3%ADadas/Secundaria/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 29 Sep 2025 09:10:44 GMT</pubDate>
+  </item><item>
+    <title>Olimpíadas Matemáticas</title>
+    <link>https://sementeira.maega.gal/Olimp%C3%ADadas/</link>
+    <guid>https://sementeira.maega.gal/Olimp%C3%ADadas/</guid>
+    <description><![CDATA[ Selecciona o ámbito das olimpíadas. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 08:58:39 GMT</pubDate>
+  </item><item>
+    <title>Escolares (&lt;2º ESO)</title>
+    <link>https://sementeira.maega.gal/Problemas/Escolares/</link>
+    <guid>https://sementeira.maega.gal/Problemas/Escolares/</guid>
+    <description><![CDATA[ Cada unha das seguintes páxinas correspóndese con un problema. Á dereita pódense ver as etiquetas que clasifican aos mesmos. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 08:58:39 GMT</pubDate>
+  </item><item>
+    <title>Preuniversitarios</title>
+    <link>https://sementeira.maega.gal/Problemas/Preuniversitarios/</link>
+    <guid>https://sementeira.maega.gal/Problemas/Preuniversitarios/</guid>
+    <description><![CDATA[ Cada unha das seguintes páxinas correspóndese con un problema. Á dereita pódense ver as etiquetas que clasifican aos mesmos. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 08:46:24 GMT</pubDate>
+  </item><item>
+    <title>Etiqueta: Escolar</title>
+    <link>https://sementeira.maega.gal/tags/Escolar</link>
+    <guid>https://sementeira.maega.gal/tags/Escolar</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 29 Sep 2025 08:46:24 GMT</pubDate>
+  </item><item>
+    <title>Grupo 1ºB (23-24)</title>
+    <link>https://sementeira.maega.gal/Seminarios/Curso-2023-24/Grupo-1%C2%BAB</link>
+    <guid>https://sementeira.maega.gal/Seminarios/Curso-2023-24/Grupo-1%C2%BAB</guid>
+    <description><![CDATA[ Primeiro cuadrimestre Sesión 2 ANEM-DdP-2023-P1. ]]></description>
+    <pubDate>Thu, 25 Sep 2025 10:42:29 GMT</pubDate>
+  </item><item>
+    <title>Grupo 1ºC (23-24)</title>
+    <link>https://sementeira.maega.gal/Seminarios/Curso-2023-24/Grupo-1%C2%BAC</link>
+    <guid>https://sementeira.maega.gal/Seminarios/Curso-2023-24/Grupo-1%C2%BAC</guid>
+    <description><![CDATA[ Primeiro cuadrimestre Sesión 2 BAMO-2014-P1 Segundo cuadrimestre Sesión 4 AIME-1998-P7 ANEM-LM-2324-TNum-P1 Sesión 7 APMC-2000-P6 . ]]></description>
+    <pubDate>Thu, 25 Sep 2025 10:42:29 GMT</pubDate>
   </item>
     </channel>
   </rss>

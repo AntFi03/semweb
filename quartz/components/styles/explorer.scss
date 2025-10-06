@@ -102,7 +102,7 @@ button.desktop-explorer {
   align-items: center;
 
   & h2 {
-    font-size: 1rem;
+    font-size: 1.1rem;
     display: inline-block;
     margin: 0;
   }
@@ -113,6 +113,8 @@ button.desktop-explorer {
   overflow: hidden;
   overflow-y: auto;
   margin-top: 0.5rem;
+  font-family: var(--headerFont);
+  font-size: 1.1rem;
 
   & ul {
     list-style: none;
@@ -159,10 +161,11 @@ button.desktop-explorer {
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
-    font-size: 0.95rem;
+    font-size: 1.1rem;
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
     display: inline-block;
+    padding-bottom: 0.25rem;
   }
 
   & div > a:hover {

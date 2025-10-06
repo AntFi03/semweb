@@ -5,11 +5,32 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: 'AntFi03/semweb',
+        repoId: 'R_kgDOPxRdQA',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOPxRdQM4CvmlO',
+        lang: 'en',
+        // themeUrl: "https://sementeira.maega.gal/static/giscus",
+        // lightTheme: "light-theme",
+        // darkTheme: "dark-theme",
+        mapping: "title",
+        strict: false,
+        reactionsEnabled: false,
+        inputPosition: "bottom",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
+      Etiquetas: "/tags",
       Maega: "https://maega.gal/gl",
-      GitHub: "https://github.com/maega-gal/",
+      GitHub: "https://github.com/AntFi03/semweb",
+      Contacto: "mailto:sementeira.problemas@gmail.com",
+      "Colabora con nós!": "https://maega.gal/gl/proxectos/sementeira/gu%C3%ADa-de-uso-da-web/"
     },
   }),
 }
@@ -22,8 +43,8 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    // Component.ContentMeta(),
+    // Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
@@ -43,14 +64,16 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     // Component.Graph(),
     // Component.DesktopOnly(Component.TableOfContents()),
+    Component.TagList(),
     Component.TableOfContents(),
     Component.Backlinks(),
+    // Component.RecentNotes(),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

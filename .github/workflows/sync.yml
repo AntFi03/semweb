@@ -1,0 +1,76 @@
+name: Sync from semweb-obsidian
+
+on:
+  repository_dispatch:
+    types: [sync-in-semweb-obsidian]
+  # schedule:
+  #   - cron: "0 * * * *" # Run every Monday at 11 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update_vault_content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone AntFi03/semweb-obsidian
+        uses: actions/checkout@v4
+        with:
+          repository: "AntFi03/semweb-obsidian"
+          ref: main
+          token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          path: semweb-obsidian
+
+      - name: Clone this repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          path: semweb
+
+      - name: Delete everything in content/ except index.md
+        run: |
+          cd semweb
+          # mv content/index.md .
+          rm -rf content
+          mkdir content
+          # mv index.md content
+
+      - name: Copy over media and files
+        run: |
+          cd semweb-obsidian
+          # echo "----- Copying over public-only attachments"
+          # cp -vr <PUBLIC_ATTACHMENTS_FOLDER> ../semweb/content
+          echo -e "\n----- Copying over Markdown files"
+          cp -vr . ../semweb/content
+          cd ../semweb/content
+          rm -rf .obsidian .git .github .config _templates
+          # mv <PUBLIC_ATTACHMENTS_FOLDER> _files
+        # ^ Include this last line if you want to rename your public folder
+
+      - name: Print out current state of filesystem
+        run: |
+          echo "----- Folder: semweb/"
+          cd semweb
+          ls | cat
+          echo -e "\n----- Folder: semweb/content/"
+          ls content | cat
+        # ^ NOTE: this uses the renamed folder name from above
+
+      - name: Install Bun just to run literally two commands
+        uses: oven-sh/setup-bun@v2.0.1
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: |
+          cd semweb
+          bun i
+
+      - name: Setup Git config (user and email), necessary for commits
+        run: |
+          git config --global user.name "MaEGA-gal"
+          git config --global user.email "maega@gmail.com"
+
+      - name: Sync Quartz repo
+        run: |
+          cd semweb
+          bun quartz sync
