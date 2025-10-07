@@ -2,7 +2,7 @@
 title: YT-PolyaMath-21082025
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
   - Problema
