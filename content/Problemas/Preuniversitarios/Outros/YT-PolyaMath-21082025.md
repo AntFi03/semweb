@@ -8,6 +8,7 @@ tags:
   - Problema
   - Asequible
   - Preuniversitario
+  - Xeometría
 date: 2025-10-02
 notas: https://www.youtube.com/watch?v=_2L46I9ErQ4
 ---
