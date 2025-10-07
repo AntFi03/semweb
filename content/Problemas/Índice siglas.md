@@ -9,16 +9,20 @@ tags:
 date: 2025-09-21
 ---
 ## A
+- [AHSME: American High School Mathematics Examination](https://artofproblemsolving.com/wiki/index.php/American_High_School_Mathematics_Examination)
 - AIME: American Invitational Mathematics Exam
+- [AMC12: American Mathematics Contest 12](https://maa.org/math-competitions/american-mathematics-contest-12-amc-12)
 - [AMO: Austrian Mathematical Olympiad](https://www.math.aau.at/OeMO/problems/)
 - ANEMLM: Liga Matemática Universitaria da ANEM.
 - [APMC: Austrian-Polish Mathematical Competition. Individual Competition](https://imomath.com/index.cgi?page=collectionApo)
 ## B
 - [BAMO: Bay Area Mathematical Olympiad](https://www.bamo.org/)
 - BMC: Barcelona Mathematics Competition
+- [BMO: Balkan Math Olympiad](https://bmo2023.tubitak.gov.tr/problems)
 - [BrMO: British Mathematical Olympiad](https://bmos.ukmt.org.uk/)
 ## C
 - CDR: Copa Danubio $\textit{Cupa Dunării}$, Romanía.
+- [CMO: Canadian Mathematical Olympiad](https://cms.math.ca/competitions/cmo/)
 ## D
 ## E
 - [EGMO: European Girls' Mathematical Olympiad](https://www.egmo.org/)
