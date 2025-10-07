@@ -26,6 +26,7 @@ date: 2025-09-21
 - CDR: Copa Danubio $\textit{Cupa Dunării}$, Romanía.
 - CGMO: China Girls' Mathematical Olympiad
 - [CMO: Canadian Mathematical Olympiad](https://cms.math.ca/competitions/cmo/)
+- COMGEP: $\textit{Cuadernos de Olimpiadas Matemáticas. Geometría: Ejercicios y problemas}$ por Radmila Dulajich e José Antonio Gómez.
 - [CPMSOC: UNSW Competitive Programming and Mathematics Society](https://www.unswcpmsoc.com/)
 - CWMO: China Western Mathematical Olympiad
 ## D
