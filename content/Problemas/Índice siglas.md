@@ -29,7 +29,7 @@ date: 2025-09-21
 - [IGO: Iranian Geometry Olympiad](https://igo-official.com/?lang=en)
 - [IMC: International Mathematical Competition](https://www.imc-math.org.uk/)
 - [IMO: International Mathematical Olympiad](http://www.imo-official.org/) 
-- [IZHO: International Zhautykov Olympiad]()
+- [IZHO: International Zhautykov Olympiad](https://izho.kz/)
 ## J
 ## K
 ## L
