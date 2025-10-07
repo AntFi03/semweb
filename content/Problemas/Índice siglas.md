@@ -28,6 +28,7 @@ date: 2025-09-21
 - [CMO: Canadian Mathematical Olympiad](https://cms.math.ca/competitions/cmo/)
 - COMGEP: $\textit{Cuadernos de Olimpiadas Matemáticas. Geometría: Ejercicios y problemas}$ por Radmila Dulajich e José Antonio Gómez.
 - [CPMSOC: UNSW Competitive Programming and Mathematics Society](https://www.unswcpmsoc.com/)
+- CTMB: $\textit{Critical Thinking}$ por Max Black.
 - CWMO: China Western Mathematical Olympiad
 ## D
 ## E
@@ -53,9 +54,11 @@ date: 2025-09-21
 - MONKAIME: $\textit{Monk}$ American Invitational Mathematics Exam
 - [MSCAK: Mathnity Sunday Challenge por Andrzej Kukla](https://www.instagram.com/mathinity_sunday_challenge/)
 - [MSE: Math Stack Exchange](https://math.stackexchange.com/)
+- MTCU: $\textit{Matemática para todos y códigos ultrasecretos}$ por Martin Gardner.
 - [MUSAJMO:AoPS Mock United States of America Junior Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/Mock_USAJMO)
 ## N
 - [NMC: Nordic Mathematical Contest](https://www.georgmohr.dk/nmcperm/)
+- NPM: $\textit{Novos pasatempos matemáticos}$ por Martin Gardner.
 - [NZMO: New Zealand Maths Olympiad](https://www.mathsolympiad.org.nz/)
 ## O
 - ODPI: Olimpíada do Día de $\pi$ da ANEM.
@@ -74,6 +77,8 @@ date: 2025-09-21
 - [PUTNAM: William Lowell Putnam Mathematical Competition](https://kskedlaya.org/putnam-archive/).
 ## R
 ## S
+- SEM: Problemas propostos polos membros de $\textit{Sementeira}$.
+- SID: "Sen ID", Problemas sen identificar.
 - SPGISMOC: $\textit{Solving Problems in Geometry: Insights and Strategies for Mathematical Olympiad and Competitions}$ por Kim, H. H. e Haibin, W.
 ## T
 - TRPC: $\textit{Taller de Resolución de Problemas de Concurso}$, Universidade de Puerto Rico, Colexio Universitario de Cayey polo Dr. David A. Santos.
@@ -81,7 +86,7 @@ date: 2025-09-21
 ## U
 - UOPB: The USSR Olympiad Problem Book} por Shklarsky, Chentzov e Yaglom.
 - [USAMO:United States of America Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/USAMO_Problems_and_Solutions).
-## V
+- USCGrao: Exercicios de Probas do Grao en Matemáticas da USC.
 ## W
 ## X
 ## Y
