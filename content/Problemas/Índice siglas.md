@@ -10,6 +10,7 @@ date: 2025-09-21
 ---
 ## A
 - AIME: American Invitational Mathematics Exam
+- [AMO: Austrian Mathematical Olympiad](https://www.math.aau.at/OeMO/problems/)
 - ANEMLM: Liga Matemática Universitaria da ANEM.
 - [APMC: Austrian-Polish Mathematical Competition. Individual Competition](https://imomath.com/index.cgi?page=collectionApo)
 ## B
