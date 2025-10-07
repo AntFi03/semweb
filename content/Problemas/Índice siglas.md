@@ -79,7 +79,7 @@ date: 2025-09-21
 ## S
 - SEM: Problemas propostos polos membros de $\textit{Sementeira}$.
 - SID: "Sen ID", Problemas sen identificar.
-- SPGISMOC: $\textit{Solving Problems in Geometry: Insights and Strategies for Mathematical Olympiad and Competitions}$ por Kim, H. H. e Haibin, W.
+- SPGISMOC: $\textit{Solving Problems in Geometry: Insights and Strategies for}$ $\textit{Mathematical Olympiad and Competitions}$ por Kim, H. H. e Haibin, W.
 ## T
 - TRPC: $\textit{Taller de Resolución de Problemas de Concurso}$, Universidade de Puerto Rico, Colexio Universitario de Cayey polo Dr. David A. Santos.
 - [TURGOR: International Mathematical Tournament of Towns](https://www.turgor.ru/en/).
