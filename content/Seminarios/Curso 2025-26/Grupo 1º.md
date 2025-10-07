@@ -12,3 +12,4 @@ date:
 ### Sesión 1
 - [[CTMB-1964-P1]]
 ### Sesión 2
+- [[CGMO-2003-I-P2]]
