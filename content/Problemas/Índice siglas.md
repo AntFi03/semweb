@@ -33,6 +33,7 @@ date: 2025-09-21
 - [EGMO: European Girls' Mathematical Olympiad](https://www.egmo.org/)
 - [EKC: Eötvös-Kürschák Competitions organized by János Bolyai Mathematical Society](http://www.batmath.it/matematica/raccolte_es/ek_competitions/ek_competitions.pdf)
 ## F
+- FEHTST: $\textit{Functional equations and how to solve them}$ por Small, Christopher G.
 ## G
 ## H
 - HDRM: $\textit{Cómo hablar, demostrar y resolver en Matemáticas}$ por Miguel de Guzmán.
@@ -72,6 +73,7 @@ date: 2025-09-21
 - [PUTNAM: William Lowell Putnam Mathematical Competition](https://kskedlaya.org/putnam-archive/).
 ## R
 ## S
+- SPGISMOC: $\textit{Solving Problems in Geometry: Insights and Strategies for Mathematical Olympiad and Competitions}$ por Kim, H. H. e Haibin, W.
 ## T
 - TRPC: $\textit{Taller de Resolución de Problemas de Concurso}$, Universidade de Puerto Rico, Colexio Universitario de Cayey polo Dr. David A. Santos.
 - [TURGOR: International Mathematical Tournament of Towns](https://www.turgor.ru/en/).
