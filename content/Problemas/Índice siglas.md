@@ -31,6 +31,7 @@ date: 2025-09-21
 ## L
 ## M
 - MONKAIME: $\textit{Monk}$ American Invitational Mathematics Exam
+- [MUSAJMO:AoPS Mock United States of America Junior Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/Mock_USAJMO)
 ## N
 ## O
 - ODPI: Olimpíada do Día de $\pi$ da ANEM.
@@ -46,6 +47,7 @@ date: 2025-09-21
 ## S
 ## T
 ## U
+- [USAMO:United States of America Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/USAMO_Problems_and_Solutions) 
 ## V
 ## W
 ## X
