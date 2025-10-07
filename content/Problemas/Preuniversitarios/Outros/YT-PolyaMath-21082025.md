@@ -20,7 +20,14 @@ Tardáronse varios anos en demostrar que é posible counstruír un cadrado con c
 
 ## Resolución
 
-Vexamos que non é posible. Supañamos que si o é. Entón, cada cara deste cubo é un dos cadrados anteriormente mencionados (en particular, a inferior). Fixémonos no máis pequeno desta cara. Realmente, este cadradiño é un cubiño rodeado de cubos máis grandes, polo que a parte superior deste cubo ten que estar cuberta por cubos máis pequenos para non deixar ocos. Pero entón, podemos repetir este argumento coa cara que se forma na parte superior do noso cubiño. Así, temos infinitos cubos de lados enteiros cada vez máis pequenos, o que é unha contradición (Descenso infinito de Fermat).
+> [!pista]-
+> Como é a cada cara deste cubo?
+
+> [!pista]-
+> Podes usar o descenso infinito de Fermat dalgunha maneira?
+
+> [!solution2]- Solución
+> Vexamos que non é posible. Supañamos que si o é. Entón, cada cara deste cubo é un dos cadrados anteriormente mencionados (en particular, a inferior). Fixémonos no máis pequeno desta cara. Realmente, este cadradiño é un cubiño rodeado de cubos máis grandes, polo que a parte superior deste cubo ten que estar cuberta por cubos máis pequenos para non deixar ocos. Pero entón, podemos repetir este argumento coa cara que se forma na parte superior do noso cubiño. Así, temos infinitos cubos de lados enteiros cada vez máis pequenos, o que é unha contradición (Descenso infinito de Fermat).
 
 ---
 
