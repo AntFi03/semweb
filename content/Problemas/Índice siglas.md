@@ -11,6 +11,7 @@ date: 2025-09-21
 ## A
 - AIME: American Invitational Mathematics Exam
 - ANEMLM: Liga Matemática Universitaria da ANEM.
+- [APMC: Austrian-Polish Mathematical Competition. Individual Competition](https://imomath.com/index.cgi?page=collectionApo)
 ## B
 - [BAMO: Bay Area Mathematical Olympiad](https://www.bamo.org/)
 - BMC: Barcelona Mathematics Competition
@@ -19,20 +20,25 @@ date: 2025-09-21
 - CDR: Copa Danubio $\textit{Cupa Dunării}$, Romanía.
 ## D
 ## E
+- [EGMO: European Girls' Mathematical Olympiad](https://www.egmo.org/)
 - [EKC: Eötvös-Kürschák Competitions organized by János Bolyai Mathematical Society](http://www.batmath.it/matematica/raccolte_es/ek_competitions/ek_competitions.pdf)
 ## F
 ## G
 ## H
 ## I
+- [IGO: Iranian Geometry Olympiad](https://igo-official.com/?lang=en)
 - [IMC: International Mathematical Competition](https://www.imc-math.org.uk/)
 - [IMO: International Mathematical Olympiad](http://www.imo-official.org/) 
+- [IZHO: International Zhautykov Olympiad]()
 ## J
 ## K
 ## L
 ## M
+- [MDC: Mathematical Danube Competition](https://pregatirematematicaolimpiadejuniori.wordpress.com/mathematical-danube-competition/)
 - MONKAIME: $\textit{Monk}$ American Invitational Mathematics Exam
 - [MUSAJMO:AoPS Mock United States of America Junior Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/Mock_USAJMO)
 ## N
+- [NMC: Nordic Mathematical Contest](https://www.georgmohr.dk/nmcperm/)
 ## O
 - ODPI: Olimpíada do Día de $\pi$ da ANEM.
 - OIMU: Olimpíada Iberoamericada de Matemática Universitaria.
