@@ -22,4 +22,4 @@ date:
 - Complicado:
 #### Xogos de lóxica
 - Doado: [[BAMO-2014-P1]]
-- Complicado: 
+- Complicado: [[OME-1999-P3]]
