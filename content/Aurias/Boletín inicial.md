@@ -9,13 +9,12 @@ tags:
 date:
 ---
 #### Combinatoria e probabilidade
-- Doado combinatoria: 
+- Doado combinatoria: [[AHSME-1989-P9]]
 - Doado probabilidade: 
 #### Ecuacións funcionais
-- Doado: 
-- Medio: 
-- Complicado: 
-#### Teoría de números
+- Doado: [[AHSMC-2014-II-P4]]
+- Medio:  [[MSCAK-P1]]
+#### Teoría de números / álxebra
 - Doado: 
 ####  Xeometría
 - Doado:
