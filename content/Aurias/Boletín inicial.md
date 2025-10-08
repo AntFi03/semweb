@@ -10,12 +10,12 @@ date:
 ---
 #### Combinatoria e probabilidade
 - Doado combinatoria: [[AHSME-1989-P9]]
-- Doado probabilidade: 
+- Doado probabilidade: [[CAMQ-1998-P4]]
 #### Ecuacións funcionais
-- Doado: [[AHSMC-2014-II-P4]]
+- Doado: 
 - Medio:  [[MSCAK-P1]]
 #### Teoría de números / álxebra
-- Doado: 
+- Doado: [[AHSMC-2014-II-P4]]
 ####  Xeometría
 - Doado:
 - Complicado:
