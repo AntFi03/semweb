@@ -25,4 +25,4 @@ Para cada un dos grupos anteriores temos problemas máis ou menos complexos. En 
 Por último, tamén clasificamos os problemas segundo a súa temática, é dicir, en función da parte das matemáticas ás que fan referencia. Na seguinte táboa podemos ver a poboación de problemas cos que contamos: %%
 
 ## Seminarios presenciais de Sementeira na USC
-Se asistes (ou asistiches en cursos anteriores) aos seminarios presenciais de Sementeira que se imparten na facultade de matemáticas da USC, podes revisar na carpeta [[Seminarios/_index|Seminarios]] as listas cos problemas traballados nas sesións correspondentes.
+Se asistes (ou asistiches en cursos anteriores) aos seminarios presenciais de Sementeira que se imparten na facultade de matemáticas da USC, podes revisar na carpeta [[Seminarios/_index|Seminarios]] as listas cos problemas traballados nas súas sesións.
