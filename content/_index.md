@@ -9,7 +9,7 @@ tags:
 
 Nesta web poderás atopar distintos **recursos** que fumos creando ao longo dos anos. Destaca a nosa colección de problemas de olimpíadas matemáticas traducidos ao galego.
 
-## [[Problemas/_index|Colección de problemas de olimpíadas matemáticas]]
+## Colección de problemas de olimpíadas matemáticas
 Na carpeta de [[Problemas/_index|Problemas]] pódense atopar unha recua de enunciados (coas correspondentes solucións) de diversas olimpíadas matemáticas. Cada problema atópase nunha páxina individual. Ao final da páxina de cada un deles hai unha sección de comentarios nas que é posible plasmar as dúbidas que poidades ter resolvendo os problemas ou mesmo onde poder compartir as vosas propias solucións dos mesmos.
 
 %% Os problemas clasifícanse en dous grupos segundo as ferramentas matemáticas que precisan para resolverse:
@@ -24,5 +24,5 @@ Para cada un dos grupos anteriores temos problemas máis ou menos complexos. En 
 
 Por último, tamén clasificamos os problemas segundo a súa temática, é dicir, en función da parte das matemáticas ás que fan referencia. Na seguinte táboa podemos ver a poboación de problemas cos que contamos: %%
 
-## [[Seminarios/_index|Seminarios presenciais de Sementeira na USC]]
-Se asistes (ou asistiches en cursos anteriores) aos seminarios presenciais de Sementeira que se imparten na facultade de matemáticas da USC, podes revisar os problemas traballados nas sesións nos resumos correspondentes.
+## Seminarios presenciais de Sementeira na USC
+Se asistes (ou asistiches en cursos anteriores) aos seminarios presenciais de Sementeira que se imparten na facultade de matemáticas da USC, podes revisar na carpeta [[Seminarios/_index|Seminarios]] as listas cos problemas traballados nas sesións correspondentes.
