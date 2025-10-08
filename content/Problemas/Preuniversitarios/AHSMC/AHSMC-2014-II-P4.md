@@ -9,7 +9,7 @@ tags:
   - Preuniversitario
   - Fácil
   - Álxebra
-date: 2025-09-12
+date: 2025-10-08
 ---
 
 ## Enunciado   
