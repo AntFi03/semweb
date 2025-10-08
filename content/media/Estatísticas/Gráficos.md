@@ -20,10 +20,10 @@ data:
     value: 32
   - label: 2025-10
     serie: Visitas
-    value: 71
+    value: 86
   - label: 2025-10
     serie: Usuarios
-    value: 34
+    value: 45
 
 options:
   xField: label
