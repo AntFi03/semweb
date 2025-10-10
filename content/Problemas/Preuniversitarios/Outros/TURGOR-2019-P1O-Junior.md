@@ -2,7 +2,7 @@
 title: TURGOR-2019-P1O-Junior
 description:
 comments: true
-draft: false
+draft: true
 enableToc: true
 tags:
   - Problema
