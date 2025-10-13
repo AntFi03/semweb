@@ -14,4 +14,4 @@ date:
 ### Sesión 2
 - [[CGMO-2003-I-P2]]
 ### Sesión 3
-- [[AHSMC-2024-II-P4]]
+- [[AHSMC-2024-II-P2]]
