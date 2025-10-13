@@ -24,6 +24,9 @@ date: 2025-10-03
 >  As posicións nas que pode estar son as dos extremos. 
 >  Por unha banda, non é posíbel comezar nas posicións interiores, xa que se a carta queda na posición do medio, o ilusionista non poderá evitar retirala por simetría. 
 >  Vexamos as distintas estratexias que pode adoptar o público se comezamos nun das posicións interiores:
+>   - Se a audiencia só escolle posicións interiores, o cal garante que non se descartan os extremos. Se se chega a ter só cartas sobre a mesa, a do medio será a do tres de trevos, que será descartada. 
+>   - Se a audiencia sempre escolle a posición do tres de trevos, o ilusionista descartará a do outro lado, acurtando a distancia entre o tres de trevos e os extremos, facendo que nalgún momento o tres de trevos estea no medio.
+
 
 ---
 
