@@ -24,7 +24,9 @@ $ABCD$ é un cuadrilátero convexo tal que $\angle BAC=15º, \angle CAD=30º, \a
 >Emprega a lei dos cosenos
 
 > [!solution1]- Solución
+> 
 >![[ahsmc2016II4 2.png|300]]
+>
 >Sexa $AD = a, DE=\frac{a}{\sqrt(3)}, BE= a(1-\frac{1}{\sqrt{3}}), AB=a\sqrt{2}$. $\triangle AEB$ é semellante a $\triangle CED$, así $\frac{AB}{DC} = \frac{EB}{ED}$ e $DC = a\frac{\sqrt{2}+\sqrt{6}}{2}$. 
 >Empregando a lei dos cosenos en $\triangle BDC$:
 $$BC^2 = DB^2 + DC^2 -2DB\cdot DC \cos(45º) = $$
