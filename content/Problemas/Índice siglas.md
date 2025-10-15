@@ -46,8 +46,6 @@ date: 2025-09-21
 - [IMOMATH: IMOmath training](https://imomath.com/index.cgi)
 - [IrMO: Irish Mathematical Olympiad](http://www.irmo.ie/)
 - [IZHO: International Zhautykov Olympiad](https://izho.kz/)
-## J
-## K
 ## L
 ## M
 - [MDC: Mathematical Danube Competition](https://pregatirematematicaolimpiadejuniori.wordpress.com/mathematical-danube-competition/)
@@ -87,7 +85,6 @@ date: 2025-09-21
 - UOPB: The USSR Olympiad Problem Book} por Shklarsky, Chentzov e Yaglom.
 - [USAMO:United States of America Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/USAMO_Problems_and_Solutions).
 - USCGrao: Exercicios de Probas do Grao en Matemáticas da USC.
-## W
 ## X
 ## Y
 ## Z
