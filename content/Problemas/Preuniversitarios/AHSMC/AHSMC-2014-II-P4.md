@@ -20,7 +20,7 @@ date: 2025-10-08
 
 ---
 
-## Resolución 
+## Resolución
 
 > [!solution1]- Solución
 > 1)  Buscamos un polinomio con dous coeficientes indeterminados. O primeiro intento é $p(x)=ax+b$. Así $5=p(1)=a+b$ e $11=p(-1)=-a+b$, polo que $a=-3$ e $b=8$, pero a única raíz do polinomio sería $x=\frac{8}{3}$. Aínda así, é doado transformar o polinomio en $p(x)=8x^2-3x$, incluíndo a solución enteira $x=0$.
