@@ -15,13 +15,16 @@ Debido a unha brecha na contención no **Cárcere de problemas**, dende o minist
 Como sabemos que difundir todos os nomes dos fuxitivos podería provocar pánico entre a xente de a pé, iremos publicando unha lista cada **dúas semanas** cos problemas máis urxentes por capturar. Non todos os problemas son igual de sinxelos de cazar; por iso tamén os temos organizados en **tres niveis** de dificultade:
 
 -**Nivel 1**: Pensado para aqueles cazadores que non teñen ningunha experiencia en resolver problemas (pero si algunha idea de matemáticas)
+
 -**Nivel 2**: Pensado para aqueles cazadores que están aínda cursando a carreira e queren probarse cun problema algo máis complicado
+
 -**Nivel 3**: Din que nin os cazadores máis expertos son quen de cazalos...
 
 Para saber quen é o mellor cazador de todos, por cada problema que un cazarrecompensas resolva, aportaráselle a **mesma cantidade de puntos que o nivel propio do problema**. 
 Tamén entendemos que non todos cazan da mesma forma, por iso ofrecemos outras alternativas para conseguir puntos:
 
--**Rapidez**: Gustaríanos saber quén é *O máis rápido do Lexano Oeste* por iso ó que primeiro resolva un problema levará un bonus de **0,5 puntos**.
+-**Rapidez**: Gustaríanos saber quén é *O máis rápido do Lonxano Oeste* por iso ó que primeiro resolva un problema levará un bonus de **0,5 puntos**.
+
 -**Beleza**: Dispararlle cun teorema a un problema e matalo é cousa sinxela; por iso, dende o Gremio queremos fomentar aquelas ideas máis creativas polo que o que resolva un problema da forma máis bonita levará outro bonus de **0,5 puntos**.
 
 Cada problema ten un prazo de **dúas semanas** para ser resolto. Se alguén o resolve, o resto de cazarrecompensas poden seguir resolvéndoo nese prazo. 
