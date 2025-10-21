@@ -36,4 +36,4 @@ E, como non, o cazador coa maior cantidade de puntos, co maior número de proble
 
 ***"Que gane o mellor!"***
 
-Se tedes algunha dúbida, podedes contactar á organización empregando o seguinte **[correo](mestrecazador@gmail.com.md)**.
+Se tedes algunha dúbida, podedes contactar á organización empregando o seguinte [correo (mestrecazador@gmail.com)](mailto::mestrecazador@gmail.com).
