@@ -19,13 +19,18 @@ Para inaugurar a cacería, esta semana publicaremos o dobre de problemas, pero o
 > Demostra que existen infinitos números primos.
 
 [!pista]- Nivel 2, Problema 1
-> Sexan $a$ e $b$ dous números reais non negativos. Probar que $\sqrt{ab}\leq \frac{a+b}{2}$.
+> Sexa $(x_{n})_{n\in\mathbb{N}}$ unha sucesión de números reais limitada. Dicimos que $(x_{n_{k}})_{k\in\mathbb{N}}\sim(x_{m_{k}})_{k\in\mathbb{N}}$ (as dúas subsucesións están relacionadas) se $\lim_{ k \to \infty }(x_{n_{k}}-x_{m_{k}})=0$. Sexa $C$ o conxunto de clases de equivalencia. Probar que $\lvert C \rvert=1$ ou $C$ é non numerable.
 
 [!pista]- Nivel 2, Problema 2
 > Sexan $a$ e $b$ dous números reais non negativos. Probar que $\sqrt{ab}\leq \frac{a+b}{2}$.
 
+<<<<<<< HEAD
+[!pista]- Nivel 3, Problema 1
+> Sexan $a$ e $b$ enteiros positivos tales que $a^n+b^n\lvert(ab)^n+1, \forall n\in\mathbb{N}$. Proba que $\min\{a,b\}=1$
+=======
 [!pista]- Nivel 3, Problema 2
 > Sexan $a$ e $b$ dous números reais non negativos. Probar que $\sqrt{ab}\leq \frac{a+b}{2}$.
+>>>>>>> origin/main
 
 [!pista]- Nivel 3, Problema 2
 > Atopar tódalas $f\in\mathcal{S}(\mathbb{R})$ tales que $f'(x)=f(x+1)-f(x)$.
