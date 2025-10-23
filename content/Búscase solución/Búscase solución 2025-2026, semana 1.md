@@ -15,19 +15,19 @@ Para inaugurar a cacería, esta semana publicaremos o dobre de problemas, pero o
 > [!pista]- Nivel 1, Problema 1
 > Sexan $a$ e $b$ dous números reais non negativos. Probar que $\sqrt{ab}\leq \frac{a+b}{2}$.
 
-[!pista2]- Nivel 1, Problema 2
+[!pista]- Nivel 1, Problema 2
 > Demostra que existen infinitos números primos.
 
-[!pista3]- Nivel 2, Problema 1
+[!pista]- Nivel 2, Problema 1
 > Sexan $a$ e $b$ dous números reais non negativos. Probar que $\sqrt{ab}\leq \frac{a+b}{2}$.
 
-[!pista4]- Nivel 2, Problema 2
+[!pista]- Nivel 2, Problema 2
 > Sexan $a$ e $b$ dous números reais non negativos. Probar que $\sqrt{ab}\leq \frac{a+b}{2}$.
 
-[!pista5]- Nivel 3, Problema 2
+[!pista]- Nivel 3, Problema 2
 > Sexan $a$ e $b$ dous números reais non negativos. Probar que $\sqrt{ab}\leq \frac{a+b}{2}$.
 
-[!pista6]- Nivel 3, Problema 2
+[!pista]- Nivel 3, Problema 2
 > Atopar tódalas $f\in\mathcal{S}(\mathbb{R})$ tales que $f'(x)=f(x+1)-f(x)$.
 > Nota: $\mathcal{S}(\mathbb{R})=\{g\in \mathcal{C}^{\infty}(\mathbb{R}) : \underset{x\in \mathbb{R}}{\sup}\lvert x^{n}f^{k)}(x) \rvert<\infty,\forall n,k \in\mathbb{Z}^{+} \}$
 
