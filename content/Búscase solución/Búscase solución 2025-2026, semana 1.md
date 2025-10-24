@@ -2,7 +2,7 @@
 title: Búscase solución 2025-2026, semana 1
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
 date: 2025-10-24
