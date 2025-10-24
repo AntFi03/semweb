@@ -8,7 +8,7 @@ tags:
 date: 2025-10-24
 ---
 
-Benvido, cazador. Se aínda non estás rexistrado no **Gremio de Cazarrecompensas** preme na seguinte **[ligazón]([Búscase solución 2025-2026](https://sementeira.maega.gal/B%C3%BAscase-soluci%C3%B3n/B%C3%BAscase-soluci%C3%B3n-2025-2026))**. Se xa estás rexistrado, le as instrucións que veñen a continuación.
+Benvido, cazador. Se aínda non estás rexistrado no **Gremio de Cazarrecompensas** preme na seguinte **[ligazón](https://sementeira.maega.gal/B%C3%BAscase-soluci%C3%B3n/B%C3%BAscase-soluci%C3%B3n-2025-2026)**. Se xa estás rexistrado, le as instrucións que veñen a continuación.
 
 Para inaugurar a cacería, esta semana publicaremos o dobre de problemas, pero o habitual será que publiquemos un problema por categoría cada dúas semanas (os venres á 13:00).
 
