@@ -25,14 +25,14 @@ Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de in
 
 >[!solution3]- Nivel 2, Problema 2
 > Sexan $C_{n}=\frac{1}{n+1}\binom{2n}{n},\forall n\in\mathbb{N},$ o $n$-ésimo número de Catalan e $P(x)$ un polinomio con coeficientes reais. Proba que é impsible que $P(k)=C_{n(k)},\forall k\in\mathbb{N}$, onde $\{C_{n(k)}:k\in\mathbb{N}\}$ é unha colección infinita numerable de números de Catalan.
-> Nota: O número $n$-ésimo número de Catalan é o número de formas posibles de organizar unha multiplicación de $n$ números cando en cada paso faise a multiplicación de dous números. Por exemplo: se $n = 4$, temos que $C_{n} = 5$ porque podemos facer "$[(a\cdot b) \cdot c ] \cdot d$", "$(a\cdot b) \cdot (c \cdot d)$", "$a \cdot [b \cdot (c \cdot d)]$", "$[a\cdot (b \cdot c )] \cdot d$" e "$a \cdot [(b \cdot c) \cdot d]$"
+> Nota: O número $n$-ésimo número de Catalan é o número de formas posibles de organizar unha multiplicación de $n$ números cando en cada paso faise a multiplicación de dous números. Por exemplo: se $n = 4$, temos que $C_{n} = 5$ porque podemos facer "$[(a\cdot b) \cdot c ] \cdot d$", "$(a\cdot b) \cdot (c \cdot d)$", "$a \cdot [b \cdot (c \cdot d)]$", "$[a\cdot (b \cdot c )] \cdot d$" e "$a \cdot [(b \cdot c) \cdot d]$".
 
 >[!solution5]- Nivel 3, Problema 1
-> Sexan $a$ e $b$ enteiros positivos tales que $a^n+b^n\lvert(ab)^n+1, \forall n\in\mathbb{N}$. Proba que $\min\{a,b\}=1$
+> Sexan $a$ e $b$ enteiros positivos tales que $a^n+b^n\lvert(ab)^n+1, \forall n\in\mathbb{N}$. Proba que $\min\{a,b\}=1$.
 
 >[!solution5]- Nivel 3, Problema 2
 > Atopa tódalas $f\in\mathcal{S}(\mathbb{R})$ tales que $f'(x)=f(x+1)-f(x)$.
-> Nota: $\mathcal{S}(\mathbb{R})=\{g\in \mathcal{C}^{\infty}(\mathbb{R}) : \underset{x\in \mathbb{R}}{\sup}\lvert x^{n}f^{k)}(x) \rvert<\infty,\forall n,k \in\mathbb{Z}^{+} \}$
+> Nota: $\mathcal{S}(\mathbb{R})=\{g\in \mathcal{C}^{\infty}(\mathbb{R}) : \underset{x\in \mathbb{R}}{\sup}\lvert x^{n}f^{k)}(x) \rvert<\infty,\forall n,k \in\mathbb{Z}^{+} \}$.
 
 ***"Que gane o mellor!"***
 
