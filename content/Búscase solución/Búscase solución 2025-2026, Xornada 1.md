@@ -32,7 +32,7 @@ Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de in
 
 >[!solution5]- Nivel 3, Problema 2
 > Atopa tódalas $f\in\mathcal{S}(\mathbb{R})$ tales que $f'(x)=f(x+1)-f(x)$.
-> Nota: $\mathcal{S}(\mathbb{R})=\{g\in \mathcal{C}^{\infty}(\mathbb{R}) : \underset{x\in \mathbb{R}}{\sup}\lvert x^{n}f^{k)}(x) \rvert<\infty,\forall n,k \in\mathbb{Z}^{+} \}$.
+> Nota: $\mathcal{S}(\mathbb{R})=\{g\in \mathcal{C}^{\infty}(\mathbb{R}) : \underset{x\in \mathbb{R}}{\sup}\lvert x^{n}g^{k)}(x) \rvert<\infty,\forall n,k \in\mathbb{Z}^{+} \}$.
 
 ***"Que gane o mellor!"***
 
