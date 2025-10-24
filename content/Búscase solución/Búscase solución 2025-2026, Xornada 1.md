@@ -1,5 +1,5 @@
 ---
-title: Búscase solución 2025-2026, semana 1
+title: Búscase solución 2025-2026, xornada 1
 description:
 comments: true
 draft: false
