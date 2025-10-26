@@ -16,7 +16,7 @@ Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de in
 > Enunciado.
 
 >[!solution3]- Nivel 2
-> Enunciado.
+> Sexan $x_{1},..., x_{n}$ $n$ números reais positivos. Entón: $\left(\sum_{i=1}^{n}x_{i}\right)\left(\sum_{i=1}^{n}\frac{1}{x_{i}}\right)\geq n^{2}$.
 
 >[!solution5]- Nivel 3
 > Enunciado.
