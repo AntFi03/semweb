@@ -5,6 +5,7 @@ comments: true
 draft: false
 enableToc: true
 tags:
+  - Concurso
 date: 2025-10-18
 ---
 
@@ -19,6 +20,7 @@ Como sabemos que difundir todos os nomes dos fuxitivos podería provocar pánico
 - **Nivel 3**: Dise que nin os cazadores máis expertos son quen de cazalos...
 
 Para saber quen é o mellor cazador de todos, por cada problema que un cazarrecompensas resolva, achegaráselle a **mesma cantidade de puntos que o nivel propio do problema**. 
+
 Tamén entendemos que non todos cazan da mesma forma, por iso ofrecemos outras alternativas para conseguir puntos:
 
 - **Rapidez**: Gustaríanos saber quen é *O máis rápido do Lonxano Oeste* por iso ó que primeiro resolva un problema levará un bonus de **0,5 puntos**.

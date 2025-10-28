@@ -17,14 +17,12 @@ Demostra que todo número primo maior que 3 é igual a un múltiplo de 6 máis u
 ---
 
 ## Resolución
-> [!solution1] Solución
+> [!solution1]-
 >  Analicemos os outros posíbeis casos en módulo 6 para o número $n$:
 >  - $n\equiv 0$. Contradición
 >  - $n\equiv2 \Longrightarrow n= 6k+2 = 2(3k+1)$
 >  - $n\equiv3 \Longrightarrow n= 6k+3 = 3(2k+1)$
 >  - $n\equiv4 \Longrightarrow n= 6k+4 = 2(2k+2)$
-
-
  
 
 ---
