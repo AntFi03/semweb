@@ -1,5 +1,5 @@
 ---
-title: Búscase solución 2025-2026, xornada 2
+title: Búscase solución 2025-2026, xornada 3
 description:
 comments: true
 draft: true
@@ -15,10 +15,10 @@ Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de in
 Recordámosvos tamén que o Problema 1 de Nivel 3 da Xornada 1 segue sen resolver, polo que a súa puntuación aumenta nun punto adicional.
 
 > [!solution2]- Nivel 1
-> Demostra que $\frac{1}{\sqrt{ 2 }\cdot10}< \frac{1}{2}\cdot\frac{3}{4}\cdot\frac{5}{6}\cdot\dots \cdot \frac{99}{100} < \frac{1}{10}$.
+> Enunciado.
 
 >[!solution3]- Nivel 2
-> Sexan $x_{1},..., x_{n}$ $n$ números reais positivos. Proba que $\left(\sum_{i=1}^{n}x_{i}\right)\left(\sum_{i=1}^{n}\frac{1}{x_{i}}\right)\geq n^{2}$.
+> Enunciado.
 
 >[!solution5]- Nivel 3
 > Enunciado.
