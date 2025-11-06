@@ -1,5 +1,5 @@
 ---
-title: FEHTST-7-50
+title: FEHTST-E2_12_7
 description:
 comments: true
 draft: false
@@ -28,7 +28,7 @@ Sexan $h:\mathbb{R}^{+}\to\mathbb{R}^{+}$ continua e $f:\mathbb{R}^{+}\times\mat
 > [!pista2]- Pista
 > Podes reducir a ecuación funcional sobre $h$ á ecuación funcional de Cauchy ou a unha delas?
 
-> [!solution4]- Solución
+> [!solution2]- Solución
 > É fácil ver que $h(t^n)=h(t)^n$ aplicando a propiedade a $f(t^nx,t^ny)$ de golpe e paso a paso.
 > Considerando $g=\log \circ h\circ\exp$, sabemos que $g(nx)=ng(x)$ e que $g$ é continua. Polo tanto, $g$ é solución da ecuación funcional de Cauchy e $g(x)=ax$ para algún $a\in\mathbb{R}$. Así, $h(t)=t^a,\forall t\in\mathbb{R}^+$.
 

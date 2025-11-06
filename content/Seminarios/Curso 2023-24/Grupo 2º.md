@@ -14,10 +14,10 @@ date:
 - [[IMC-2022-D1-P1]]
 ### Sesión 5
 - [[EKC-1934-P3]]
-- [[FEHTST-E3_9_1]]
+- [[FEHTST-E3_9_3]]
 ### Sesión 6
 - [[BMC-2020-P1]]
-- [[FEHTST-E2_12_6]]
+- [[FEHTST-E2_12_8]]
 ## Segundo cuadrimestre
 ### Sesión 3
 - [[AMO-2017-Final-R1-P4]]
