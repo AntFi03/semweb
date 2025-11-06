@@ -21,7 +21,8 @@ Recordámosvos tamén que o Problema 1 de Nivel 3 da Xornada 1 segue sen resolve
 > Sexan $x_{1},..., x_{n}$ $n$ números reais positivos. Proba que $\left(\sum_{i=1}^{n}x_{i}\right)\left(\sum_{i=1}^{n}\frac{1}{x_{i}}\right)\geq n^{2}$.
 
 >[!solution5]- Nivel 3
-> Enunciado.
+>Dado un taboleiro cadrado perforado, con $(2n+1)^{2}-1$ casillas, tal que lle falta a casilla do centro, escollemos un conxunto de casillas do taboleiro perforado, $A$, e diremos que $A$ é "invariante" se cumpre que en cada fila, columna e diagonal do taboleiro hai un número par de casillas que pertenzan a $A$.
+>Calcula cantos conxuntos "invariantes" hai no taboleiro en función de $n$.
 
 ***"Que gane o mellor!"***
 
