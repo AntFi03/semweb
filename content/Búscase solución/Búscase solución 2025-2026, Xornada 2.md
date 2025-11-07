@@ -2,7 +2,7 @@
 title: 'Búscase solución 2025-2026, xornada 2'
 description: null
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags: null
 date: 2025-11-07T00:00:00.000Z
