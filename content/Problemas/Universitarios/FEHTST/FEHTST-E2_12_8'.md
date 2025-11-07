@@ -1,6 +1,6 @@
 ---
 title: FEHTST-E2_12_8'
-description:
+description: Xeralización de FEHTST-E2_12_8 a varias variables
 comments: true
 draft: false
 enableToc: true
@@ -43,7 +43,6 @@ para todo $x,y \in \mathbb{R}^m$.
 > [!solution3]- Solución 2
 > $$0\leq \lim_{ y \to x } \frac{\lvert |f(y)-f(x)| \rvert}{\lvert |y-x| \rvert}\leq \lim_{ y \to x } K\lvert |y-x| \rvert=0$$
 > Polo tanto, $f$ diferenciable e a súa diferencial é a aplicación $0$ en todo punto. En consecuencia, $f$ é constante.
-
 
 ---
 
