@@ -1,11 +1,11 @@
 ---
-title: Búscase solución 2025-2026, xornada 2
-description:
+title: 'Búscase solución 2025-2026, xornada 2'
+description: null
 comments: true
 draft: true
 enableToc: true
-tags:
-date: 2025-11-07
+tags: null
+date: 2025-11-07T00:00:00.000Z
 ---
 
 Benvido, cazador. Se aínda non estás rexistrado no **Gremio de Cazarrecompensas** preme na seguinte **[ligazón](https://sementeira.maega.gal/B%C3%BAscase-soluci%C3%B3n/B%C3%BAscase-soluci%C3%B3n-2025-2026)**. Se xa estás rexistrado, le as instrucións que veñen a continuación.
