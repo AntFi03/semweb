@@ -35,7 +35,7 @@ para todo $x,y \in \mathbb{R}^m$.
 > Así, temos que, aplicando a desigualdade triangular e a condición do enunciado:
 > $$
 > \begin{align*}
-> \lVert f(b)-f(a) \rVert \leq \sum_i \lVert f(x_i)-f(x_{i-1}) \rVert \leq \sum_i K(x_i-x_{i-1})^2 =\\ =\sum_i K \frac{(b-a)^2}{n^2} = K \frac{(b-a)^2}{n} \xrightarrow{n\to\infty} 0
+> \lVert f(b)-f(a) \rVert \leq \sum_i \lVert f(x_i)-f(x_{i-1}) \rVert \leq \sum_i K\lVert x_i-x_{i-1}\rVert^2 =\\ =\sum_i K \frac{\lVert b-a\rVert^2}{n^2} = K \frac{\lVert b-a\rVert^2}{n} \xrightarrow{n\to\infty} 0
 > \end{align*}
 > $$
 > Polo tanto, $f$ debe ser necesariamente constante.
