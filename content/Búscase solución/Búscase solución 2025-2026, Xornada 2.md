@@ -12,7 +12,7 @@ Benvido, cazador. Se aínda non estás rexistrado no **Gremio de Cazarrecompensa
 
 Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de inscribirvos ao [correo (mestrecazador@gmail.com)](mailto::mestrecazador@gmail.com) poñendo como asunto "Xornada2.NivelX". Un correo por problema.
 
-Recordámosvos tamén que o Problema 1 de Nivel 3 da Xornada 1 segue sen resolver, polo que a súa puntuación aumenta nun punto adicional.
+Tódolos problemas da anterior xornada foron resoltos por alguén. Seguide así, **Gremio de Cazarrecompensas**.
 
 > [!solution2]- Nivel 1
 > Demostra que $\frac{1}{\sqrt{ 2 }\cdot10}< \frac{1}{2}\cdot\frac{3}{4}\cdot\frac{5}{6}\cdot\dots \cdot \frac{99}{100} < \frac{1}{10}$.
