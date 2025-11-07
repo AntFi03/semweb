@@ -1,5 +1,5 @@
 ---
-title: FEHTST-E2_12_8
+title: FEHTST-E2_12_8'
 description:
 comments: true
 draft: false
@@ -9,13 +9,14 @@ tags:
   - Universitario
   - Fácil
   - Análise
-date: 2025-10-03
+  - Xeneralización
+date: 2025-10-16
 ---
 ## Enunciado
 
-Atopar todas as funcións $f: \mathbb{R} \longrightarrow \mathbb{R}$ tal que existe $K\in\mathbb{R}$ de tal xeito que
-$$|f(x)-f(y)|\leq K(x-y)^2$$
-para todo $x,y \in \mathbb{R}$.
+Atopar todas as funcións $f: \mathbb{R}^m \longrightarrow \mathbb{R}^n$ tal que existe $K\in\mathbb{R}^+$ de tal xeito que
+$$\lvert|f(x)-f(y)\rvert|\leq K\lvert|x-y\rvert|^2$$
+para todo $x,y \in \mathbb{R}^m$.
 
 ---
 
@@ -25,7 +26,7 @@ para todo $x,y \in \mathbb{R}$.
 > Considerar dous puntos arbitrarios e unha partición entre eles. A condición reduce de forma considerable as distancias. Outra opción é pensar na derivada.
 
 > [!solution1]- Solución
-> Sexan $a,b \in \mathbb{R}$. Consideramos unha partición do intervalo $[a,b]$ tal que
+> Sexan $a,b \in \mathbb{R}^m$. Consideramos unha partición do segmento $L[a,b]$ tal que
 > $$
 > 
 > x_i = a + \frac{b-a}{n}i
@@ -40,8 +41,9 @@ para todo $x,y \in \mathbb{R}$.
 > Polo tanto, $f$ debe ser necesariamente constante.
 
 > [!solution3]- Solución 2
-> $$0\leq \lim_{ y \to x } \frac{\lvert f(y)-f(x) \rvert}{\lvert y-x \rvert}\leq \lim_{ y \to x } K\lvert y-x \rvert=0$$
-> Polo tanto, $f$ deriavle e a súa derivada é nula en todo punto. En consecuencia, $f$ é constante.
+> $$0\leq \lim_{ y \to x } \frac{\lvert |f(y)-f(x)| \rvert}{\lvert |y-x| \rvert}\leq \lim_{ y \to x } K\lvert |y-x| \rvert=0$$
+> Polo tanto, $f$ diferenciable e a súa diferencial é a aplicación $0$ en todo punto. En consecuencia, $f$ é constante.
+
 
 ---
 

@@ -14,7 +14,7 @@ date:
 ### Sesión 2
 ### Sesión 3
 ### Sesión 4
-- [[FEHTST-E2_12_8]]
+- [[FEHTST-E2_12_8']]
 ### Sesión 5
 ### Sesión 6
 - [[FEHTST-E2_12_7]]
