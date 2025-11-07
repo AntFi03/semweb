@@ -8,7 +8,6 @@ tags:
   - Problema
   - Análise
   - EcuaciónsFuncionais
-  - Seminario
   - Intrincado
   - Preuniversitario
 date: 2025-11-06
