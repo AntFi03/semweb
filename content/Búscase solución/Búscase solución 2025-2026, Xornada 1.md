@@ -5,6 +5,7 @@ comments: true
 draft: false
 enableToc: true
 tags:
+  - Concurso
 date: 2025-10-24
 ---
 
