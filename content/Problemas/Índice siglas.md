@@ -21,6 +21,7 @@ date: 2025-09-21
 - BMC: Barcelona Mathematics Competition
 - [BMO: Balkan Math Olympiad](https://bmo2023.tubitak.gov.tr/problems)
 - [BrMO: British Mathematical Olympiad](https://bmos.ukmt.org.uk/)
+- [BS: Búscase solución](https://sementeira.maega.gal/B%C3%BAscase-soluci%C3%B3n/)
 ## C
 - [CAMQ: Concour de l'association Mathématique du Québec](https://www.amq.math.ca/concours/)
 - CDR: Copa Danubio $\textit{Cupa Dunării}$, Romanía.

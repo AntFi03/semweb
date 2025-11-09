@@ -9,7 +9,7 @@ tags:
 date: 2025-10-18
 ---
 
-Benvido, cazador. Se aínda non estás rexistrado no **Gremio de Cazarrecompensas** preme na seguinte **[ligazón](https://forms.gle/65D4Z7g4dXFESRBr6)**. Se xa estás rexistrado, le as instrucións que veñen a continuación.
+Benvido, cazador. Se aínda non estás rexistrado no **Gremio de Cazarrecompensas**, preme na seguinte **[ligazón](https://forms.gle/65D4Z7g4dXFESRBr6)**. Se xa estás rexistrado, le as instrucións que veñen a continuación.
 
 Debido a unha brecha na contención no **Cárcere de problemas**, dende o ministerio de **Sementeira**, que forma parte de **MaEGA**, vémonos faltos de capacidade para combater a todos estes fuxitivos. Por iso, vémonos obrigados a crear o **Gremio de Cazarrecompensas**.
 
