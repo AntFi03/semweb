@@ -17,7 +17,7 @@ date: 2025-10-03
 ---
 
 ## Resolución
-> [!solution3] Solución
+> [!solution3]- Solución
 > Sexa $m=n-9$ e, para achar unha contradición, asumimos que $m$ ten un factor primo $p\neq3$. Expresemos $p=9q+r$ onde $0\leq r \leq 8$ ($r$ é o resto de dividir $p$ por 9 e $q$ o cociente). Como mcd(9,$p$)=1, $r\in \{ 1,2,4,5,7,8\}$. Analicemos por casos para chegar a unha contradición:
 > -  $r=1$: escollemos $x=1$ así $9x+1=9q+1=p$
 > - $r=2$: escollemos $x=5q+1$ así $9x+1=45q+10=5p$

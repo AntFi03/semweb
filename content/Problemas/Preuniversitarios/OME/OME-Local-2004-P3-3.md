@@ -18,7 +18,7 @@ Atopa todas as posibles formas de expresar 2003 como suma de dous cadrados perfe
 
 ## Resolución
 
-> [!solution1] Solución
+> [!solution1]- Solución
 > Sexan x e y os números buscados sabemos que $x^{2} , y^{2} \equiv 0$ (mod 4) ou $x^{2} , y^{2} \equiv 1$ (mod 4). Polo tanto $x^{2} + y^{2} \equiv x$ (mod 4) con $x\in \{0,1,2\}$ pero $2003\equiv 3$ (mod 4). Polo tanto non é posible para ningunha combinación de x e y.
 
 

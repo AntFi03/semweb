@@ -21,7 +21,7 @@ $3n$ (sendo $n$ un enteiro positivo) rapazas estudantes participaron nun campame
 ---
 
 ## Resolución
-> [!solution2] Solución
+> [!solution2]- Solución
 > Para o primeiro apartado, cando $n=3$, existe unha configuración que si que cumpre as condicións. Denotando ás rapazas cos números do 1 ao 9:
 > $$(1,2,3), (1,4,5), (1,6,7), (1,8,9),$$
 > $$(2,4,6), (2,7,8), (2,5,9), (3,4,8),$$

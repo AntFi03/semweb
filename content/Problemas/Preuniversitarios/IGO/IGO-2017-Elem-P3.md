@@ -19,7 +19,7 @@ No pentágono regular $ABCDE$, a perpendicular en $C$ de $CD$ corta $AB$ en $F$.
 
 ## Resolución
 
-> [!solution2] Solución
+> [!solution2]- Solución
 > Supón que $P$ é a intersección de $AE$ e $FC$. Sabemos que: 
 > $$\angle ECD = 36^\circ \Rightarrow \angle ECD = 54^\circ , \angle AEC = 72^\circ \Rightarrow \angle EPC = 54^\circ $$
 > Así, $CE= PE$. Por outra banda, $\angle ECB = \angle EBC = 72^\circ$. Polo tanto, $BE= CE = PE$. Tamén temos que $\angle EAB = 108^\circ$ así $\angle AFP = \angle APF = 54^\circ$. O que significa que $AF = AP$.

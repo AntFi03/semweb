@@ -18,7 +18,7 @@ Atopar todas as funcións $f: \mathbb{R} \longrightarrow \mathbb{R}$ continuas t
 ---
 
 ## Resolución
-> [!solution2] Solución
+> [!solution2]- Solución
 > Por inducción temos $f(x)=f(\cos^n x)$ para todo $n\in \mathbb{N}^*$. Sabemos que $\lim_{n \to \infty} \cos ^n x = x_0$ con $x_0$ o único punto fixo do coseno para calquera $x \in \mathbb{R}$ de partida . Así,
 >         
 >         $$f(x_0) = f(\lim \cos^n x) = \lim f(\cos^n x) = f(x) $$

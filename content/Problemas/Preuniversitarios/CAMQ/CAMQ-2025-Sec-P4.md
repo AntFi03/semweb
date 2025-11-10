@@ -18,7 +18,7 @@ O xogo vólvese monótono rapidamente porque un dos dous ten unha estratexia ga�
 ---
 
 ## Resolución
- > [!solution1] Solución
+ > [!solution1]- Solución
 > Albert ten catro movementos posíbeis e, para cada un deles, Bertrand pode xogar de xeito que a suma dos seus dous movementos sexa 8. Polo tanto, Bertrand pode facer o seu primeiro movemento para que a suma sexa 8, despois o seu segundo movemento pata que sexa 16, e así sucesivamente até o seu quinto, o que resulta nunha suma de 40 (que é un múltiplo de 8). Polo tanto, ten a certeza de gañar se xoga ben.
 
 

@@ -17,7 +17,7 @@ Unha caixiña de bombóns contén 4 trozos de chocolate colocados un ao lado dou
 ---
 
 ## Resolución
-  > [!solution1] Solución
+  > [!solution1]- Solución
 > Sexa S o número de sabores dispoñíbeis, ao haber 4 chocolates, temos 3 lugares onde se tocan. Posto que a probabilidade de que dous chocolates non sexan do mesmo sabor é de $\frac{S-1}{S}$, entón a probabilidade golbal será:
 >    $$P= (\frac{S-1}{S})^3$$
 >    Polo qu aplicando a desigualdade:
