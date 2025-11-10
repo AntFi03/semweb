@@ -18,7 +18,6 @@ date:
 - Doado: [[AHSMC-2014-II-P4]]
 ####  Xeometría
 - Doado:
-- Complicado:
 #### Xogos de lóxica
 - Doado: [[BAMO-2014-P1]]
 - Complicado: [[OME-1999-P3]]
