@@ -21,10 +21,10 @@ Sexan $h:\mathbb{R}^{+}\to\mathbb{R}^{+}$ continua e $f:\mathbb{R}^{+}\times\mat
 
 ## Resolución
 
-> [!pista]-
+> [!pista]- 1ª Pista
 > Intenta calcular $h(t^n)$ en función de $h(t)$.
 
-> [!pista2]- Pista
+> [!pista]- 2ª Pista
 > Podes reducir a ecuación funcional sobre $h$ á ecuación funcional de Cauchy ou a unha delas?
 
 > [!solution2]- Solución
