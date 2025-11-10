@@ -17,7 +17,7 @@ date:
 #### Teoría de números / álxebra
 - Doado: [[AHSMC-2014-II-P4]]
 ####  Xeometría
-- Doado:
+- Doado: [[IGO-2017-Elem-P3]]
 #### Xogos de lóxica
 - Doado: [[BAMO-2014-P1]]
 - Complicado: [[OME-1999-P3]]
