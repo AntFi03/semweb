@@ -2,7 +2,7 @@
 title: CAMQ-2022-Col-P1
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
   - Problema
