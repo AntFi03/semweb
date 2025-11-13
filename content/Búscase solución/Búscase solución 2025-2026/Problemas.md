@@ -5,7 +5,7 @@ comments: false
 draft: true
 enableToc: true
 tags:
-  - Seminario
+  - Concurso
 date:
 ---
 ## Primerio cuadrimestre
