@@ -18,3 +18,5 @@ date:
 ### Sesión 5
 ### Sesión 6
 - [[FEHTST-E2_12_7]]
+### Sesión 7
+- [[BKT_Sholapurkar_3_1]]
