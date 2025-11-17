@@ -10,8 +10,9 @@ date:
 ---
 ## Primerio cuadrimestre
 ### Sesión 1
-- [[YT-SohilRathi-27092025]]
+- [[YT-PolyaMath-21082025]]
 ### Sesión 2
+- [[YT-SohilRathi-27092025]]
 ### Sesión 3
 ### Sesión 4
 - [[FEHTST-E2_12_8']]
