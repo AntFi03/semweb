@@ -2,7 +2,7 @@
 title: Búscase solución 2025-2026, xornada 3
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
   - Concurso
