@@ -15,12 +15,12 @@ date:
 - [[CGMO-2003-I-P2]]
 ### Sesión 3
 - [[AHSMC-2024-II-P4]]
-## Sesión 4
+### Sesión 4
 - [[BAMO-2014-P1]]
-## Sesión 5
+### Sesión 5
 - [[MSCAK-P1]]
 - [[CAMQ-2022-Col-P1]]
 - [[BrMO-2022-P1]]
-## Sesión 7
+### Sesión 7
 - [[OME-1976-P4]]
 - [[CAMQ-2022-Col-P2]]
