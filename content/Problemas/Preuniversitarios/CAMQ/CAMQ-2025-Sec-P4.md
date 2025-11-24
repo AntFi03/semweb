@@ -25,4 +25,4 @@ O xogo vólvese monótono rapidamente porque un dos dous ten unha estratexia ga�
 ---
 
 ## Dúbidas & Comentarios
-Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar un man!
+Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar unha man!

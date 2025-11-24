@@ -28,4 +28,4 @@ Demostra que se $2^n+1$ é primo entón $n$ é potencia de 2.
 ---
 
 ## Dúbidas & Comentarios
-Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar un man!
+Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar unha man!

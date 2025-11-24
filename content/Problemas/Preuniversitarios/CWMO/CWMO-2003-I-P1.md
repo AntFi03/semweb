@@ -28,4 +28,4 @@ Coloca os números do 1 ao 8 nun cubo tal que a suma de calesquera tres números
 ---
 
 ## Dúbidas & Comentarios
-Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar un man!
+Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar unha man!

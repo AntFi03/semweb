@@ -32,4 +32,4 @@ O cal non funciona para $y \neq 0$, polo que non hai ningunha solución posíbel
 ---
 
 ## Dúbidas & Comentarios
-Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar un man!
+Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar unha man!

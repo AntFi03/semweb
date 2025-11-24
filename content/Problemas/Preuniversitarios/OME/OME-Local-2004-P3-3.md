@@ -25,4 +25,4 @@ Atopa todas as posibles formas de expresar 2003 como suma de dous cadrados perfe
 ---
 
 ## Dúbidas & Comentarios
-Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar un man!
+Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar unha man!

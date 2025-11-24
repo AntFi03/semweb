@@ -5,6 +5,13 @@ draft: true
 comments: false
 tags:
 ---
+## Problemas sen solución
+```dataview
+TABLE draft, date, notas
+FROM #Problema 
+WHERE without-solution = true
+```
+## Problemas por revisar
 ### Revisar enunciado 
 ```dataview
 TABLE draft, date, notas

@@ -10,6 +10,7 @@ tags:
   - Fácil
   - XogosDeEstratexia
 date: 2025-09-25
+without-solution: true
 ---
 ## Enunciado
 
@@ -29,4 +30,4 @@ Demostra que independentemente do número de gasolineiras e do reparto da gasoli
 ---
 
 ## Dúbidas & Comentarios
-Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar un man!
+Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar unha man!
