@@ -10,6 +10,7 @@ tags:
   - Fácil
   - XogosDeEstratexia
 date: 2025-09-25
+without-solution: true
 ---
 ## Enunciado
 
