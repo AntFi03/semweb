@@ -5,6 +5,7 @@ draft: true
 comments: false
 tags:
 ---
+
 ```dataviewjs
 // Collect all pages that have an 'author' field
 const pages = dv.pages().where(p => p.author);
