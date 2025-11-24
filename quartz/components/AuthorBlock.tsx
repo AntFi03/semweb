@@ -7,7 +7,7 @@ const AuthorBlock: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) =
 
   return (
     <aside class="author-block">
-      <p class="author-label">{i18n(cfg.locale).pages?.authorLabel ?? "Problema proposto por:"}</p>
+      <p class="author-label">{i18n(cfg.locale).pages?.authorLabel ?? "Problema aportado por:"}</p>
       <p class="author-name">{author}</p>
     </aside>
   )
