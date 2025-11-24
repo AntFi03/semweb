@@ -30,4 +30,4 @@ Sexa $f \in\mathcal{C}([0,1])$. Calcular $$\lim_{ n \to \infty }\int_{0}^{1}nt^n
 ---
 
 ## Dúbidas & Comentarios
-Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar un man!
+Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar unha man!
