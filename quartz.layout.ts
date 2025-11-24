@@ -67,6 +67,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
     Component.TableOfContents(),
     Component.Backlinks(),
+    Component.AuthorBlock(),
     // Component.RecentNotes(),
   ],
 }

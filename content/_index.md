@@ -10,7 +10,7 @@ tags:
 Nesta web poderás atopar distintos **recursos** que fumos creando ao longo dos anos. Destaca a nosa colección de problemas de olimpíadas matemáticas traducidos ao galego.
 
 ## Colección de problemas de olimpíadas matemáticas
-Na carpeta de [[Problemas/_index|Problemas]] pódense atopar unha recua de enunciados (coas correspondentes solucións) de diversas olimpíadas matemáticas. Cada problema atópase nunha páxina individual. Ao final da páxina de cada un deles hai unha sección de comentarios na que é posible plasmar as dúbidas que poidades ter resolvendo os problemas, ou mesmo onde poder compartir as vosas propias solucións dos mesmos.
+Na carpeta de <a href="https://sementeira.maega.gal/Problemas/">Problemas</a> pódense atopar unha recua de enunciados (coas correspondentes solucións) de diversas olimpíadas matemáticas. Cada problema atópase nunha páxina individual. Ao final da páxina de cada un deles hai unha sección de comentarios na que é posible plasmar as dúbidas que poidades ter resolvendo os problemas, ou mesmo onde poder compartir as vosas propias solucións dos mesmos.
 
 %% Os problemas clasifícanse en dous grupos segundo as ferramentas matemáticas que precisan para resolverse:
 
