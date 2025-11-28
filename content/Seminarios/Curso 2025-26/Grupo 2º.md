@@ -21,9 +21,9 @@ date:
 - [[FEHTST-E2_12_7]]
 ### Sesión 7
 - [[BKT_Sholapurkar_3_1]]
-### Sesión 8
+### %% Sesión 8
 - [[Primos]]
-- [[Matemáticas na rúa]]
-### Sesión 7
+- [[Matemáticas na rúa]] %%
+### %% Sesión 7
 - [[Cadrado perfecto]]
-- [[Liga sen contas]]
+- [[Liga sen contas]] %%
