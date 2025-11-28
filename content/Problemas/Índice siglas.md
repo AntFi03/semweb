@@ -55,6 +55,7 @@ date: 2025-09-21
 - [MSE: Math Stack Exchange](https://math.stackexchange.com/)
 - MTCU: $\textit{Matemática para todos y códigos ultrasecretos}$ por Martin Gardner.
 - [MUSAJMO:AoPS Mock United States of America Junior Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/Mock_USAJMO)
+- [MNR: Matemáticas na rúa](https://matematicasnarua.blogspot.com/)
 ## N
 - [NMC: Nordic Mathematical Contest](https://www.georgmohr.dk/nmcperm/)
 - NPM: $\textit{Novos pasatempos matemáticos}$ por Martin Gardner.

@@ -10,6 +10,7 @@ tags:
   - Preuniversitario
 date: 2025-10-02
 notas: https://www.youtube.com/watch?v=y8HZ4MeW4NM
+author: Inácio Suárez Camiña
 ---
 ## Enunciado
 

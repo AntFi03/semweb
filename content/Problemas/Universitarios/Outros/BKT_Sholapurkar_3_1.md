@@ -8,6 +8,7 @@ tags:
   - Problema
 date: 2025-11-13
 notas: https://www.ias.ac.in/public/Volumes/reso/029/10/1359-1371.pdf
+author: Inácio Suárez Camiña
 ---
 ## Enunciado
 
