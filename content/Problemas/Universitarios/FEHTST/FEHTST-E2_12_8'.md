@@ -11,6 +11,7 @@ tags:
   - Análise
   - Xeneralización
 date: 2025-10-16
+author: Inácio Suárez Camiña
 ---
 ## Enunciado
 

@@ -12,6 +12,7 @@ tags:
   - Preuniversitario
 date: 2025-11-06
 notas: "Functional\r Equations and How\r to Solve Them, Christopher G. Small, páxina 50"
+author: Inácio Suárez Camiña
 ---
 ## Enunciado
 

@@ -5,7 +5,7 @@ draft: true
 comments: false
 tags:
 ---
-
+Para ver correctamente a seguinte táboa automática tendes que activar a opción `Enable JavaScript Queries` do plugin *Dataview*.
 ```dataviewjs
 // Collect all pages that have an 'author' field
 const pages = dv.pages().where(p => p.author);

@@ -10,6 +10,7 @@ tags:
   - Fácil
   - EcuaciónsFuncionais
 date: 2025-10-03
+author: Inácio Suárez Camiña
 ---
 ## Enunciado
 
