@@ -52,6 +52,21 @@ export function byDateAndAlphabeticalFolderFirst(cfg: GlobalConfiguration): Sort
   }
 }
 
+export function byAlphabeticalFolderFirst(cfg: GlobalConfiguration): SortFn {
+  return (f1, f2) => {
+    // folders first
+    const f1IsFolder = isFolderPath(f1.slug ?? "")
+    const f2IsFolder = isFolderPath(f2.slug ?? "")
+    if (f1IsFolder && !f2IsFolder) return -1
+    if (!f1IsFolder && f2IsFolder) return 1
+
+    // both same type: compare by title (locale-aware, numeric, base sensitivity)
+    const f1Title = f1.frontmatter?.title ?? ""
+    const f2Title = f2.frontmatter?.title ?? ""
+    return f1Title.localeCompare(f2Title, undefined, { numeric: true, sensitivity: "base" })
+  }
+}
+
 type Props = {
   limit?: number
   sort?: SortFn

@@ -1,7 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
 import style from "../styles/listPage.scss"
-import { PageList, SortFn } from "../PageList"
+import { PageList, SortFn, byAlphabeticalFolderFirst } from "../PageList"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
@@ -92,7 +92,8 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const classes = cssClasses.join(" ")
     const listProps = {
       ...props,
-      sort: options.sort,
+      // Use explicit alphabetical folder-first ordering for folder pages by default
+      sort: options.sort ?? byAlphabeticalFolderFirst(cfg),
       allFiles: allPagesInFolder,
     }
 
