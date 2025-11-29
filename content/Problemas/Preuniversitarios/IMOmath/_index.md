@@ -1,5 +1,5 @@
 ---
-title: IMO
+title: IMOmath
 draft: false
 comments: false
 tags:

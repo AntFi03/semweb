@@ -7,6 +7,8 @@ enableToc: true
 tags:
   - Problema
   - Universitario
+  - Álxebra
+  - Asequible
 date: 2025-11-13
 notas: https://imomath.com/index.cgi?page=arithmeticGaussianIntegers
 ---
