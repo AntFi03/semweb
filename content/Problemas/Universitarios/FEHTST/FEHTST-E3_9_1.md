@@ -11,6 +11,7 @@ tags:
   - Fácil
 date: 2025-11-06
 notas: revisar enunciado
+author: Ibai Otero Gómez
 ---
 ## Enunciado
 Atopar todas as funcións $f: \mathbb{R} \longrightarrow \mathbb{R}$ continuas tal que $f(\cos x)=f(x)$ para todo $x\in\mathbb{R}$.
