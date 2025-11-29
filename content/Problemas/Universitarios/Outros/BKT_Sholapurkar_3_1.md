@@ -24,8 +24,13 @@ Sexa $f \in\mathcal{C}([0,1])$. Calcular $$\lim_{ n \to \infty }\int_{0}^{1}nt^n
 
 > [!solution2]- Solución
 > Sabemos que $\lim_{ n \to \infty } \frac{n}{n+1}f(1)=f(1)$ e que $\int_{0}^{1}nt^{n}\,\text{d}t=\frac{n}{n+1}$, polo que vexamos que $\lim_{ n \to \infty }\int_{0}^{1}nt^{n}f(t)\,\text{d}t-\frac{n}{n+1}f(1)=0$.
-> $$\lim_{ n \to \infty }\int_{0}^{1}nt^{n}f(t)\,\text{d}t-\frac{n}{n+1}f(1)=\lim_{ n \to \infty }\int_{0}^{1}nt^{n}f(t)\,\text{d}t-\int_{0}^{1}nt^{n}f(1)\,\text{d}t=\lim_{ n \to \infty }\int_{0}^{1}nt^{n}(f(t)-f(1))\,\text{d}t$$
-> Como $f$ é continua en $[0,1]$, $\forall\varepsilon>0,\exists \delta>0 / |f(t)-f(1)|<\varepsilon,\forall t\in(1-\delta,1]$ e $\exists M>0/|f(t)|\leq M,\forall t \in[0,1]$. Así: $$\lim_{ n \to \infty }\left\lvert \int_{0}^{1}nt^{n}(f(t)-f(1))\,\text{d}t \right\rvert \leq \lim_{ n \to \infty }\int_{0}^{1}\left\lvert nt^{n}(f(t)-f(1))\right\rvert\,\text{d}t=\lim_{ n \to \infty } \int_{0}^{1-\delta} nt^{n}\left\lvert f(t)-f(1)\right\rvert\,\text{d}t+\int_{\delta}^{1} nt^{n}\left\lvert f(t)-f(1)\right\rvert\,\text{d}t < \lim_{ n \to \infty }2M\int_{0}^{1-\delta} nt^{n}\,\text{d}t+\int_{\delta}^{1} nt^{n}\varepsilon\,\text{d}t =\lim_{ n \to \infty } 2M \frac{n}{n+1}(1-\delta)^{n}+\varepsilon \frac{n}{n+1}= \varepsilon, \forall\varepsilon>0$$
+> 
+> $$\lim_{ n \to \infty }\int_{0}^{1}nt^{n}f(t)\,\text{d}t-\frac{n}{n+1}f(1)=\lim_{ n \to \infty }\int_{0}^{1}nt^{n}f(t)\,\text{d}t-\int_{0}^{1}nt^{n}f(1)\,\text{d}t=\lim_{ n \to \infty }\int_{0}^{1}nt^{n}(f(t)-f(1))\,\text{d}t$$.
+> 
+> Como $f$ é continua en $[0,1]$, $\forall\varepsilon>0,\exists \delta>0 / |f(t)-f(1)|<\varepsilon,\forall t\in(1-\delta,1]$ e $\exists M>0/|f(t)|\leq M,\forall t \in[0,1]$. Así:
+> 
+> $$\lim_{ n \to \infty }\left\lvert \int_{0}^{1}nt^{n}(f(t)-f(1))\,\text{d}t \right\rvert \leq \lim_{ n \to \infty }\int_{0}^{1}\left\lvert nt^{n}(f(t)-f(1))\right\rvert\,\text{d}t=\lim_{ n \to \infty } \int_{0}^{1-\delta} nt^{n}\left\lvert f(t)-f(1)\right\rvert\,\text{d}t+\int_{\delta}^{1} nt^{n}\left\lvert f(t)-f(1)\right\rvert\,\text{d}t < \lim_{ n \to \infty }2M\int_{0}^{1-\delta} nt^{n}\,\text{d}t+\int_{\delta}^{1} nt^{n}\varepsilon\,\text{d}t =\lim_{ n \to \infty } 2M \frac{n}{n+1}(1-\delta)^{n}+\varepsilon \frac{n}{n+1}= \varepsilon, \forall\varepsilon>0$$
+> 
 > Polo tanto, $\lim_{ n \to \infty }\int_{0}^{1}nt^{n}f(t)\,\text{d}t-\frac{n}{n+1}f(1)=0$ e $\lim_{ n \to \infty }\int_{0}^{1}nt^{n}f(t)\,\text{d}t=\lim_{ n \to \infty } \frac{n}{n+1}f(1)=f(1)$.
 
 > [!solution3]- Solución 2
