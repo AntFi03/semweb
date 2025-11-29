@@ -1,0 +1,29 @@
+---
+title: HDRM-PP57-D
+description:
+comments: true
+draft: false
+enableToc: true
+tags:
+  - Problema
+  - Preuniversitario
+date: 2025-10-03
+notas:
+without-solution: true
+---
+## Enunciado
+
+Demostrar para $a, b\in \mathbb{N}$ que sendo $M$ o seu mínimo común múltiplo e $D$ o seu máximo común divisor, entón:
+$$MD = ab.$$
+
+---
+
+## Resolución
+
+
+
+
+---
+
+## Dúbidas & Comentarios
+Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar unha man!
