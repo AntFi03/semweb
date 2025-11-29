@@ -65,6 +65,7 @@ date: 2025-09-21
 - OIMU: Olimpíada Iberoamericada de Matemática Universitaria.
 - OMCC: Olimpíada Matemática de Centroamérica e O Caribe.
 - [OME: Olimpíada Matemática Española](https://www.rsme.es/olimpiada-matematica-espanola/)
+- [OMFG: Olimpíada Matemática Feminina Galega](https://www.usc.gal/olympia/omfg/omfg_difusion.html)
 - [OMG: Olimpíada Matemática Galega](https://www.usc.es/olympia/index.html)
 - [OMOUS: Open Mathematical Olympiad for University Students (Turkmenistán)](https://iuhd.edu.tm/competition/45)
 - [OPM: Olimpiadas Portuguesas da Matematica](https://olimpiadas.spm.pt/index.php?id=5&tipo=1)
