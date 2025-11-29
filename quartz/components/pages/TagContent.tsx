@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 import style from "../styles/listPage.scss"
-import { PageList, SortFn } from "../PageList"
+import { PageList, SortFn, byAlphabeticalFolderFirst } from "../PageList"
 import { FullSlug, getAllSegmentPrefixes, resolveRelative, simplifySlug } from "../../util/path"
 import { QuartzPluginData } from "../../plugins/vfile"
 import { Root } from "hast"
@@ -64,6 +64,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
               const listProps = {
                 ...props,
                 allFiles: pages,
+                sort: options.sort ?? byAlphabeticalFolderFirst(cfg),
               }
 
               const contentPage = allFiles.filter((file) => file.slug === `tags/${tag}`).at(0)
@@ -99,7 +100,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
                         </>
                       )}
                     </p>
-                    <PageList limit={options.numPages} {...listProps} sort={options?.sort} />
+                    <PageList limit={options.numPages} {...listProps} />
                   </div>
                 </div>
               )
@@ -112,6 +113,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
       const listProps = {
         ...props,
         allFiles: pages,
+        sort: options.sort ?? byAlphabeticalFolderFirst(cfg),
       }
 
       return (
@@ -120,7 +122,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
             <div>
-              <PageList {...listProps} sort={options?.sort} />
+              <PageList {...listProps} />
             </div>
           </div>
         </div>
