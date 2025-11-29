@@ -13,7 +13,6 @@ date: 2025-09-25
 without-solution: true
 author: Antón Figueroa Martínez
 ---
-## Enunciado
 
 Os asistentes á Asemblea Xeneral da ANEM (AGANEM) queren facer un percorrido turístico circular en autobús pola ciudad, o problema é que xustamente o bus quedou sen gasolina.
 
