@@ -11,6 +11,7 @@ tags:
   - XogosDeEstratexia
   - Asequible
 date: 2025-10-03
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
  $3n$ (sendo $n$ un enteiro positivo) rapazas estudantes participaron nun campamento de verán. Houbo 3 rapazas facendo garda cada día. Cando rematou o campamento, descubriuse que calquera dúas rapazas das $3n$ só estiveron de garda á vez un día.

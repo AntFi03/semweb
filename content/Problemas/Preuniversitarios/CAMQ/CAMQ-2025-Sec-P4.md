@@ -10,6 +10,7 @@ tags:
   - Fácil
   - XogosDeEstratexia
 date: 2025-10-08
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
 Albert e Bertrand xogan o seguinte xogo. Por quendas, comezando por Albert, cada xogador debe coller 2,3,5 ou 6 fichas dun montón que inicialmente contén 40 fichas. O último xogador en coller gaña o xogo, o que ocorre cando só queda 0 ou unha ficha no montón despois da súa quenda.

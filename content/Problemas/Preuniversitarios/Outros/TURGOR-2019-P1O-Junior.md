@@ -10,6 +10,7 @@ tags:
   - XogosDeEstratexia
   - Fácil
 date: 2025-10-03
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
 

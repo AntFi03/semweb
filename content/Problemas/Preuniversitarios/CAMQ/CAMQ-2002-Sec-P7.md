@@ -10,6 +10,7 @@ tags:
   - Fácil
   - XogosDeEstratexia
 date: 2025-10-08
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
 Rempraza as letras por número do 0 ao 9 na seguinte ecuación: $$JEUDI \cdot 13 = SEMAINE$$De forma que cada letra teña unha cifra diferente (se é a mesma letra ten o mesmo valor, é dicir, todos os E teñen o mesmo valor) e o número non pode comezar por 0.

@@ -10,6 +10,7 @@ tags:
   - Intrincado
   - TeoríaDeNúmeros
 date: 2025-10-03
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
   Determina todos os enteiros positivos $n$ menores a 2024 tal que para todos os enteiros positivos $x$, o máximo común divisor de $9x+1$ e $nx+1$ é 1.

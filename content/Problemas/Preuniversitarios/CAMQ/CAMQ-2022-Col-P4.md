@@ -10,6 +10,7 @@ tags:
   - Fácil
   - EcuaciónsFuncionais
 date: 2025-10-08
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
 Consideremos a función polinomial $f(x)=2x^2-1$. Avalía e simplifica a seguinte expresión:

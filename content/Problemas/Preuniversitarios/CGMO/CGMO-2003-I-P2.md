@@ -10,6 +10,7 @@ tags:
   - XogosDeEstratexia
   - Asequible
 date: 2025-10-03
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
 Hai 47 estudantes nunha clase cos asentos colocados en 6 filas x 8 columnas, onde o asento na fila $i$ e na columna $j$ é denotado por $(i,j)$. Agora, unha recolocación dos estudantes é feita no inicio do novo curso. Para un estudante co asento orixinal $(i,j)$, se o seu novo asento é $(m,n)$, dicimos que se moveu $[a,b]= [i-m, j-n]$ e definimos o valor da posición do estudante coma $a+b$. Denotaremos coma $S$ a suma dos valores das posicións de todos os estudantes. Determina a diferenza entre o maior e o menor posíbel valor de $S$.
