@@ -2,7 +2,7 @@
 title: BKT_Sholapurkar_3_1
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
   - Problema
