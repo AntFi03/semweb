@@ -6,6 +6,7 @@ comments: false
 tags:
 ---
 Para ver correctamente a seguinte táboa automática tendes que activar a opción `Enable JavaScript Queries` do plugin *Dataview*.
+
 ```dataviewjs
 // Collect all pages that have an 'author' field
 const pages = dv.pages().where(p => p.author);
@@ -29,7 +30,7 @@ const authors = Array.from(map.entries())
 
 // Output a table for each author
 for (const a of authors) {
-    dv.header(3, `${a.author} (${a.count} notes)`);
+    dv.header(3, `${a.author} (${a.count} problemas)`);
 
     // Sort each author's pages by file name
     const sortedPages = a.pages.sort((x, y) =>
@@ -37,12 +38,12 @@ for (const a of authors) {
     );
 
     dv.table(
-        ["File", "Draft", "Date", "Notes"],
+        ["File", "Draft", "Data", "Notas"],
         sortedPages.map(p => [
             p.file.link,
             p.draft ?? "",
             p.date ?? "",
-            p.notes ?? ""
+            p.notas ?? ""
         ])
     );
 }

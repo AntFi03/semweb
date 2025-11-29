@@ -10,6 +10,7 @@ tags:
   - Fácil
   - Álxebra
 date: 2025-10-08
+author: Carla Dopazo Pavón
 ---
 
 ## Enunciado   

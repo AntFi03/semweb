@@ -10,6 +10,7 @@ tags:
   - Asequible
   - Xeometría
 date: 2025-10-08
+author: Carla Dopazo Pavón
 ---
 
 ## Enunciado   

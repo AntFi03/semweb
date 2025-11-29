@@ -11,6 +11,7 @@ tags:
   - XogosDeEstratexia
 date: 2025-10-08
 notas: revisar solución
+author: Carla Dopazo Pavón
 ---
 
 ## Enunciado   

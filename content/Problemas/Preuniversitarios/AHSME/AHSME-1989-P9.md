@@ -10,6 +10,7 @@ tags:
   - Fácil
   - Combinatoria
 date: 2025-09-23
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
 

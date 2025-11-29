@@ -10,6 +10,7 @@ tags:
   - Intrincado
   - TeoríaDeNúmeros
 date: 2025-09-25
+author: Javier Polo Noche
 ---
 ## Enunciado
 
