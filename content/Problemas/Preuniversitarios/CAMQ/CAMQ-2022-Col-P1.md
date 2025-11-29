@@ -10,6 +10,7 @@ tags:
   - Fácil
   - Álxebra
 date: 2025-10-08
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
 Demostra que todo número primo maior que 3 é igual a un múltiplo de 6 máis un ou menos un.

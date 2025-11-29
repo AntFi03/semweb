@@ -10,6 +10,7 @@ tags:
   - Desigualdades
   - Asequible
 date: 2025-10-03
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
 Sexan $x,y$ números reais postivos con $x^3+y^3=x-y$. Proba que $x^2+4y^2<1$.

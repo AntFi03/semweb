@@ -10,6 +10,7 @@ tags:
   - Combinatoria
   - Fácil
 date: 2025-10-08
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
 Unha caixiña de bombóns contén 4 trozos de chocolate colocados un ao lado doutro en fila. Hai varias seleccións de sabores para os bombóns. Cada caixa faise seleccionando ao chou o sabor de cada bombón. Calcula o número mínimo de sabores que garante que haxa polo menos unha probabilidade de 0.512 de que non haxa dous bombóns do mesmo sabor tocándose. 

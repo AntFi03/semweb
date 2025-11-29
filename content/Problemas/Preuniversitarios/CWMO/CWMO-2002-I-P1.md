@@ -11,6 +11,7 @@ tags:
   - Combinatoria
 date: 2025-10-03
 notas: Proposto por Liu Jiangfeng.
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
 

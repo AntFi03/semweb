@@ -8,6 +8,7 @@ tags:
   - Problema
   - Preuniversitario
 date: 2025-10-03
+author: Carla Dopazo Pavón
 ---
 ## Enunciado
 Determina o menor número real L tal que: 
