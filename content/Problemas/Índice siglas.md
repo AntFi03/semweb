@@ -45,6 +45,7 @@ date: 2025-09-21
 - [IMC: International Mathematical Competition](https://www.imc-math.org.uk/)
 - [IMO: International Mathematical Olympiad](http://www.imo-official.org/) 
 - [IMOMATH: IMOmath training](https://imomath.com/index.cgi)
+- [IOM: Italian Olympiads of Mathematics](https://olimpiadi.dm.unibo.it/)
 - [IrMO: Irish Mathematical Olympiad](http://www.irmo.ie/)
 - [IZHO: International Zhautykov Olympiad](https://izho.kz/)
 ## L

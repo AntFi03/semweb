@@ -9,6 +9,7 @@ tags:
   - Preuniversitario
   - Fácil
   - EcuaciónsFuncionais
+  - Seminario
 date: 2025-10-03
 author: Inácio Suárez Camiña
 ---

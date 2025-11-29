@@ -22,8 +22,8 @@ date:
 ### Sesión 7
 - [[BKT_Sholapurkar_3_1]]
 ### Sesión 8
-%% - [[Primos]] %%
 - [[MNR-151125]]
+- [[SID-2526-P1]] 
 ### Sesión 9
-%% - [[Cadrado perfecto]] %%
+- [[IOM-1991]] 
 - [[ANEM-LM-2526-Desig-P1]]

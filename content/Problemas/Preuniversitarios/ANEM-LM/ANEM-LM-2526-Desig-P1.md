@@ -9,6 +9,7 @@ tags:
   - Preuniversitario
   - Asequible
   - Desigualdades
+  - Seminario
 date: 2025-11-27
 author: Inácio Suárez Camiña
 ---
