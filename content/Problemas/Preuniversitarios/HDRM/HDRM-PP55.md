@@ -10,7 +10,7 @@ tags:
   - Fácil
   - Análise
 date: 2025-10-03
-notas: Pon draft na base vella
+notas: revisar solución
 ---
 ## Enunciado
 
