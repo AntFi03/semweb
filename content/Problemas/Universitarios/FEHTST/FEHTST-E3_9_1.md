@@ -1,29 +1,34 @@
 ---
-title: FEHTST-E3_9_1
+title: FEHTST-E3_9_3
 description:
 comments: true
 draft: false
 enableToc: true
 tags:
   - Problema
-  - Preuniversitario
-  - Análise
+  - Universitario
   - Fácil
-date: 2025-11-06
+  - Análise
+date: 2025-10-03
 notas: revisar enunciado
 author: Ibai Otero Gómez
 ---
 ## Enunciado
+
 Atopar todas as funcións $f: \mathbb{R} \longrightarrow \mathbb{R}$ continuas tal que $f(\cos x)=f(x)$ para todo $x\in\mathbb{R}$.
 
 ---
 
 ## Resolución
-> [!solution2]- Solución
-> Por inducción temos $f(x)=f(\cos^n x)$ para todo $n\in \mathbb{N}^*$. Sabemos que $\lim_{n \to \infty} \cos ^n x = x_0$ con $x_0$ o único punto fixo do coseno para calquera $x \in \mathbb{R}$ de partida . Así,
->         
->         $$f(x_0) = f(\lim \cos^n x) = \lim f(\cos^n x) = f(x) $$
->         
+
+> [!pista]-
+> Usar o método de punto fixo.
+
+> [!solution1]- Solución
+> Por inducción temos $f(x)=f(\cos^n x)$ para todo $n\in \mathbb{N}^*$. Sabemos que $\lim_{n \to \infty} \cos ^n x = x_0$ con $x_0$ o único punto fixo do coseno para calquera $x \in \mathbb{R}$ de partida (comprobar). Así,
+> $$
+> f(x_0) = f(\lim \cos^n x) = \lim f(\cos^n x) = f(x)
+> $$
 > polo que $f$ é unha función constante.
 
 

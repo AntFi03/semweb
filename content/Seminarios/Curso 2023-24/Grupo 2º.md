@@ -19,7 +19,7 @@ date:
 - [[ANEM-LM-2324-TNum-P1]]
 ### Sesión 5
 - [[EKC-1934-P3]]
-- [[FEHTST-E3_9_3]]
+- [[FEHTST-E3_9_1]]
 ### Sesión 6
 - [[BMC-2020-P1]]
 - [[FEHTST-E2_12_8]]

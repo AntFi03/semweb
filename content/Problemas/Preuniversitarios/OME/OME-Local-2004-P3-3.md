@@ -10,6 +10,7 @@ tags:
   - TeoríaDeNúmeros
   - Fácil
 date: 2025-10-03
+author:
 ---
 ## Enunciado
 Atopa todas as posibles formas de expresar 2003 como suma de dous cadrados perfectos.
