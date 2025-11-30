@@ -1,6 +1,6 @@
 ---
 title: Escolares (<2º ESO)
-draft: true
+draft: false
 comments: false
 tags:
   - Lista

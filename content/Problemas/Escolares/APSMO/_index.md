@@ -1,6 +1,6 @@
 ---
 title: APSMO
-draft: true
+draft: false
 comments: false
 tags:
   - Lista
