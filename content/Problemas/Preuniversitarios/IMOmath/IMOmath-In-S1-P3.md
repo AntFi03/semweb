@@ -14,7 +14,9 @@ date: 2025-10-03
 ## Enunciado
 
  Sexan $a,b,c\in\mathbb{R}^+$. Sabendo que $a^2+b^2+c^2=1$, atopar o valor mínimo de
-    $$\frac{a^2b^2}{c^2}+\frac{a^2c^2}{b^2}+\frac{b^2c^2}{a^2}.$$
+$$
+\frac{a^2b^2}{c^2}+\frac{a^2c^2}{b^2}+\frac{b^2c^2}{a^2}.
+$$
 
 ---
 

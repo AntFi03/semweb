@@ -33,8 +33,8 @@ author: Carla Dopazo Pavón
 >       $$n=9+m = 9+3^k \text{ ou } 9-3^k$$
 >   Os enteiros positivos desta forma menores de 2024 son: 6,8,10,12,18,36,90,252,738.\\
 >   Para amosar que todos funcionan, asumimos $n=9 \pm 3^k$ e $g=mcd(9x+1,nx+1)$. Xa que $9x+1$ non é múltiplo de 3, g non é múltiplo de 3. Aínda así,
->       $$g\space |\space (nx+1)-(9x+1)=\pm 3^k$$
->       Os únicos divisores desta forma son 1 e -1. Así $g=1$ para calquera $n=9 \pm 3^k$
+>  $$g\space |\space (nx+1)-(9x+1)=\pm 3^k$$
+>  Os únicos divisores desta forma son 1 e -1. Así $g=1$ para calquera $n=9 \pm 3^k$
 
 ---
 

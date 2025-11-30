@@ -11,6 +11,7 @@ tags:
   - Fácil
 date: 2025-11-20
 without-solution: false
+author: Iván Castro Sánchez
 ---
 ## Enunciado
  Javi e Chisco xogan a un xogo. Ao inicio hai 9 moedas distribuídas en filas de 2, 3 e 4 moedas. Cada ronda cada un deles pode coller o número de moedas que queira sempre que estean na mesma columna.

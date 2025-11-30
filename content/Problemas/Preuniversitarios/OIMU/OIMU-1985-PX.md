@@ -11,6 +11,7 @@ tags:
   - TeoríaDeNúmeros
 date: 2025-10-03
 notas: revisar enunciado
+author: Iván Castro Sánchez
 ---
 ## Enunciado
 Atopa todas as ternas de números naturais ($a,b,c$), tales que:
