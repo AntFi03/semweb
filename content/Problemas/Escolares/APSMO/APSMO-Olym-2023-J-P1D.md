@@ -7,7 +7,7 @@ enableToc: true
 tags:
   - Problema
   - Escolar
-  - Asequible
+  - Accesible
   - TeoríaDeNúmeros
 date: 2025-10-08
 author: Carla Dopazo Pavón

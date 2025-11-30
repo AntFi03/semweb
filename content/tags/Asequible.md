@@ -1,5 +1,5 @@
 ---
-title: Problemas Asequibles (2/5)
+title: Problemas Accesibles (2/5)
 description:
 draft: false
 comments: false

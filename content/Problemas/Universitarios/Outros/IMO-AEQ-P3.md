@@ -8,7 +8,7 @@ tags:
   - Problema
   - Universitario
   - Álxebra
-  - Asequible
+  - Accesible
 date: 2025-11-13
 notas: https://imomath.com/index.cgi?page=arithmeticGaussianIntegers
 author: Javier Polo Noche

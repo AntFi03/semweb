@@ -7,7 +7,7 @@ enableToc: true
 tags:
   - Problema
   - Preuniversitario
-  - Asequible
+  - Accesible
   - TeoríaDeNúmeros
 date: 2025-09-25
 author: Javier Polo Noche

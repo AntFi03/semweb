@@ -6,7 +6,7 @@ draft: false
 enableToc: true
 tags:
   - Problema
-  - Asequible
+  - Accesible
   - Preuniversitario
   - Xeometría
 date: 2025-10-02

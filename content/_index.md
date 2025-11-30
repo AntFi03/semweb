@@ -20,7 +20,7 @@ Na carpeta de <a href="https://sementeira.maega.gal/Problemas/">Problemas</a> p�
 | *Preuniversitarios* | Entre 3º de ESO e 2º de Bacharelato  |
 | *Universitarios*    | Grao en Matemáticas/Física/Enxeñería |
 
-Para cada un dos grupos anteriores temos problemas máis ou menos complexos. En particular, pódese dar o caso no que para un mesmo problema temos solucións con distinto grao de dificultade. Polo tanto, clasificamos a dificultade das diferentes solucións do 1 ao 5, así como a complexidade orientativa dos mesmos (1:Fácil, 2:Asequible, 3:Intrincado, 4:Difícil, 5:Imposible).
+Para cada un dos grupos anteriores temos problemas máis ou menos complexos. En particular, pódese dar o caso no que para un mesmo problema temos solucións con distinto grao de dificultade. Polo tanto, clasificamos a dificultade das diferentes solucións do 1 ao 5, así como a complexidade orientativa dos mesmos (1:Fácil, 2:Accesible, 3:Intrincado, 4:Difícil, 5:Imposible).
 
 Por último, tamén clasificamos os problemas segundo a súa temática, é dicir, en función da parte das matemáticas ás que fan referencia. Na seguinte táboa podemos ver a poboación de problemas cos que contamos: %%
 

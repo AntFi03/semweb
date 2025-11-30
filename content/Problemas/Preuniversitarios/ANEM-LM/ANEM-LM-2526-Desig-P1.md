@@ -7,7 +7,7 @@ enableToc: true
 tags:
   - Problema
   - Preuniversitario
-  - Asequible
+  - Accesible
   - Desigualdades
   - Seminario
 date: 2025-11-27

@@ -8,7 +8,7 @@ tags:
   - Problema
   - Escolar
   - Xeometría
-  - Asequible
+  - Accesible
 date: 2025-10-08
 author: Carla Dopazo Pavón
 ---

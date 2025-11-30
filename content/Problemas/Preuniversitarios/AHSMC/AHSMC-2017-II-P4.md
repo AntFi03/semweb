@@ -7,7 +7,7 @@ enableToc: true
 tags:
   - Problema
   - Preuniversitario
-  - Asequible
+  - Accesible
   - Xeometría
 date: 2025-10-08
 author: Carla Dopazo Pavón

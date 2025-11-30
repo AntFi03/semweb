@@ -7,7 +7,7 @@ enableToc: true
 tags:
   - Problema
   - Preuniversitario
-  - Asequible
+  - Accesible
   - Desigualdades
 date: 2025-09-25
 author: Inácio Suárez Camiña

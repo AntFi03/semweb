@@ -8,7 +8,7 @@ tags:
   - Problema
   - Preuniversitario
   - XogosDeEstratexia
-  - Asequible
+  - Accesible
 date: 2025-11-20
 without-solution: false
 author: Héctor Folgar Cameán
