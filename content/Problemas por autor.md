@@ -5,7 +5,11 @@ draft: true
 comments: false
 tags:
 ---
-Para ver correctamente a seguinte táboa automática tendes que activar a opción `Enable JavaScript Queries` do plugin *Dataview*.
+
+> [!warning]+ Ollo!
+> Para ver correctamente a seguinte táboa automática tendes que activar a opción `Enable JavaScript Queries` do plugin *Dataview*. Pode ser que teñades que ir un pouco para abaixo na páxina para que vos compile a táboa, tamén vale se poñedes modo lectura (`Alt+E`).
+
+Actualmente hai **`$= dv.pages('#Problema').length-1`** problemas na web, dos cales **`$= dv.pages("#Problema").where(p => p.draft == false).length`** están visibles para o público. Noraboa a todos e a seguir sementando!!
 
 ```dataviewjs
 // Función auxiliar para convertir el número de posición a formato ordinal ("1º", "2º", etc.)
@@ -104,7 +108,7 @@ if (pagesWithoutAuthor.length > 0) {
 }
 // --- FIN SECCIÓN A ---
 
-dv.paragraph("");
+dv.paragraph('<div style="margin-top:50px;"></div>');
 dv.paragraph("<hr>");
 
 // --- SECCIÓN B: PROBLEMAS AGRUPADOS POR AUTOR (CON DOBLE CALLOUT) ---
@@ -160,10 +164,11 @@ for (let i = 0; i < authors.length; i++) {
         renderCalloutTable(sortedPagesRecent, `Problemas de ${authorName} (por data de creación)`, "INFO")
     );
     
-    dv.paragraph("");
+    dv.paragraph('<div style="margin-top:50px;"></div>');
 }
 // --- FIN SECCIÓN B ---
 
+dv.paragraph('<div style="margin-top:50px;"></div>');
 dv.paragraph("<hr>");
 
 // =========================================================================
