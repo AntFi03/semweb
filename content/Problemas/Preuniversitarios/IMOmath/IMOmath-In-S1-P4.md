@@ -10,6 +10,7 @@ tags:
   - Desigualdades
   - Accesible
 date: 2025-10-03
+author: Martín García Cebeiro
 ---
 ## Enunciado
 
