@@ -8,6 +8,7 @@ tags:
   - Problema
   - Preuniversitario
   - Fácil
+  - XogosDeEstratexia
 date: 2025-11-20
 without-solution: false
 author: Iván Castro Sánchez
