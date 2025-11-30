@@ -16,6 +16,7 @@ date: 2025-09-21
 - [AMO: Austrian Mathematical Olympiad](https://www.math.aau.at/OeMO/problems/)
 - ANEMLM: Liga Matemática Universitaria da ANEM.
 - [APMC: Austrian-Polish Mathematical Competition. Individual Competition](https://imomath.com/index.cgi?page=collectionApo)
+- [APSMO: Australasian Problem Solving Mathematical Olympiads](https://apsmo.edu.au/)
 ## B
 - [BAMO: Bay Area Mathematical Olympiad](https://www.bamo.org/)
 - BMC: Barcelona Mathematics Competition
