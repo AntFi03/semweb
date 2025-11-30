@@ -10,6 +10,7 @@ tags:
 date: 2025-10-03
 notas:
 without-solution: true
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
 

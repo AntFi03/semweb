@@ -10,6 +10,7 @@ tags:
   - Fácil
 date: 2025-11-20
 without-solution: false
+author: Iván Castro Sánchez
 ---
 ## Enunciado
 Os seguintes cadrados (conformados polos números entre o 1 e o 9) cumpren dúas condicións distintas. O primeiro é unha suma, sendo as dúas primeiras filas os sumandos e a terceira o resultado. No segundo cadrado podes pasar de cada número ao seguinte dando un paso vertical ou horizontal. Escribe, se é posible, un cadrado que cumpra ambas cousas.

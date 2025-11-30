@@ -9,6 +9,9 @@ tags:
 date: 2025-09-21
 ---
 ## Primeiro cuadrimestre
+### Sesión 1
+- [[ANEM-LM-2526-Desig-P1]]
+- [[NPM-01]]
 ### Sesión 2
 - [[ANEM-LM-2324-Desig-P1]]
 - [[IMO-1985-LL-VIE-P3]]

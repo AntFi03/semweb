@@ -18,6 +18,11 @@ date:
 - [[IMC-2004-D2-P1]]
 ### Sesión 4
 - [[EKC-1934-P3]]
+- [[AIME-1998-P7]]
+### Sesión 7
+- [[APMC-2000-P6]]
+- [[EKC-1939-P1]]
+- [[NMC-35th-P4]]
 ## Segundo cuadrimestre
 ### Sesión 4
 - [[AIME-1998-P7]]

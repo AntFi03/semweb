@@ -11,6 +11,7 @@ tags:
   - Intrincado
 date: 2025-11-20
 without-solution: false
+author: Héctor Folgar Cameán
 ---
 ## Enunciado
 Sexan $A,B,C,D$ puntos nunha circunferencia $\omega$. Supoñamos que $AB$ e $CD$ intersecan nun punto $E$ e $BD$ e $AC$ intersecan en $F$. Sexa $X \neq D$ tal que $x \in \omega$ e $DX$ e $EF$ sexan paralelas. Por último, sexa $Y$ a reflexión de $D$ a través de $EF$.

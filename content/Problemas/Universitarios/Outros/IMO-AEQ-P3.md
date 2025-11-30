@@ -11,6 +11,7 @@ tags:
   - Asequible
 date: 2025-11-13
 notas: https://imomath.com/index.cgi?page=arithmeticGaussianIntegers
+author: Javier Polo Noche
 ---
 ## Enunciado
  Atopa todas as solucións enteiras da ecuación $x^5-1=y^2$.

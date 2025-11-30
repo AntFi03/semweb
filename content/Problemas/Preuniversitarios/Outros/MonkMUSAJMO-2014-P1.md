@@ -1,5 +1,5 @@
 ---
-title: MUSAJMO-2014-P1
+title: MonkMUSAJMO-2014-P1
 description:
 comments: true
 draft: false
@@ -11,6 +11,7 @@ tags:
   - Asequible
 date: 2025-11-20
 without-solution: false
+author: Héctor Folgar Cameán
 ---
 ## Enunciado
  Alice e Bob xogan un xogo. Hai un montón de $n \geq 1$ pedras. En cada turno, o respectivo xogador pode quita pedras do montón. Alice pode quitar potencias de 2 ($\{1,2,4,8,\dots\}$) e Bob, potencias de 4 ($\{1,4,16,\dots\}$). A persoa que quita a última pedra gaña. Se Alice xoga o primeiro turno, ¿quen ten unha estratexia gañadora?

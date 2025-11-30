@@ -11,6 +11,7 @@ tags:
   - Análise
 date: 2025-10-03
 notas: revisar solución
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
 
