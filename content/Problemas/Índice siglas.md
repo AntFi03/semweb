@@ -78,6 +78,7 @@ date: 2025-09-21
 - [PPPJMM: Páxina de Preparación e Problemas por José Miguel Manzano](https://wpd.ugr.es/~jmmanzano/preparacion/index.php).
 - PSS: $\textit{Problem Solving Strategies}$ por Arthur Engel.
 - [PUTNAM: William Lowell Putnam Mathematical Competition](https://kskedlaya.org/putnam-archive/).
+## Q
 ## R
 ## S
 - SEM: Problemas propostos polos membros de $\textit{Sementeira}$.
