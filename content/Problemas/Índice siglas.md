@@ -28,19 +28,19 @@ date: 2025-09-21
 - CDR: Copa Danubio $\textit{Cupa Dunării}$, Romanía.
 - CGMO: China Girls' Mathematical Olympiad
 - [CMO: Canadian Mathematical Olympiad](https://cms.math.ca/competitions/cmo/)
-- COMGEP: $\textit{Cuadernos de Olimpiadas Matemáticas. Geometría: Ejercicios y problemas}$ por Radmila Dulajich e José Antonio Gómez.
+- COMGEP: _Cuadernos de Olimpiadas Matemáticas. Geometría: Ejercicios y problemas_ por Radmila Dulajich e José Antonio Gómez.
 - [CPMSOC: UNSW Competitive Programming and Mathematics Society](https://www.unswcpmsoc.com/)
-- CTMB: $\textit{Critical Thinking}$ por Max Black.
+- CTMB: _Critical Thinking_ por Max Black.
 - CWMO: China Western Mathematical Olympiad
 ## D
 ## E
 - [EGMO: European Girls' Mathematical Olympiad](https://www.egmo.org/)
 - [EKC: Eötvös-Kürschák Competitions organized by János Bolyai Mathematical Society](http://www.batmath.it/matematica/raccolte_es/ek_competitions/ek_competitions.pdf)
 ## F
-- FEHTST: $\textit{Functional equations and how to solve them}$ por Small, Christopher G.
+- FEHTST: _Functional equations and how to solve them_ por Small, Christopher G.
 ## G
 ## H
-- HDRM: $\textit{Cómo hablar, demostrar y resolver en Matemáticas}$ por Miguel de Guzmán.
+- HDRM: _Cómo hablar, demostrar y resolver en Matemáticas_ por Miguel de Guzmán.
 ## I
 - [IGO: Iranian Geometry Olympiad](https://igo-official.com/?lang=en)
 - [IMC: International Mathematical Competition](https://www.imc-math.org.uk/)
@@ -55,12 +55,12 @@ date: 2025-09-21
 - MonkAIME: $\textit{Monk}$ American Invitational Mathematics Exam
 - [MSCAK: Mathnity Sunday Challenge por Andrzej Kukla](https://www.instagram.com/mathinity_sunday_challenge/)
 - [MSE: Math Stack Exchange](https://math.stackexchange.com/)
-- MTCU: $\textit{Matemática para todos y códigos ultrasecretos}$ por Martin Gardner.
+- MTCU: _Matemática para todos y códigos ultrasecretos_ por Martin Gardner.
 - [MUSAJMO:AoPS Mock United States of America Junior Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/Mock_USAJMO)
 - [MNR: Matemáticas na rúa](https://matematicasnarua.blogspot.com/)
 ## N
 - [NMC: Nordic Mathematical Contest](https://www.georgmohr.dk/nmcperm/)
-- NPM: $\textit{Novos pasatempos matemáticos}$ por Martin Gardner.
+- NPM: _Novos pasatempos matemáticos_ por Martin Gardner.
 - [NZMO: New Zealand Maths Olympiad](https://www.mathsolympiad.org.nz/)
 ## O
 - ODPI: Olimpíada do Día de $\pi$ da ANEM.
@@ -76,19 +76,19 @@ date: 2025-09-21
 - [PAMO: Pan African Mathematics Olympiad](https://www.africamathunion.org/AMU-pamo-official.php).
 - [PPFRJ: Páxina de Persoal de Fernándo Revilla Jiménez](https://fernandorevilla.es).
 - [PPPJMM: Páxina de Preparación e Problemas por José Miguel Manzano](https://wpd.ugr.es/~jmmanzano/preparacion/index.php).
-- PSS: $\textit{Problem Solving Strategies}$ por Arthur Engel.
+- PSS: _Problem Solving Strategies_ por Arthur Engel.
 - [PUTNAM: William Lowell Putnam Mathematical Competition](https://kskedlaya.org/putnam-archive/).
 ## Q
 ## R
 ## S
 - SEM: Problemas propostos polos membros de $\textit{Sementeira}$.
 - SID: "Sen ID", Problemas sen identificar.
-- SPGISMOC: $\textit{Solving Problems in Geometry: Insights and Strategies for}$ $\textit{Mathematical Olympiad and Competitions}$ por Kim, H. H. e Haibin, W.
+- SPGISMOC: _Solving Problems in Geometry: Insights and Strategies for Mathematical Olympiad and Competitions_ por Kim, H. H. e Haibin, W.
 ## T
-- TRPC: $\textit{Taller de Resolución de Problemas de Concurso}$, Universidade de Puerto Rico, Colexio Universitario de Cayey polo Dr. David A. Santos.
+- TRPC: _Taller de Resolución de Problemas de Concurso_, Universidade de Puerto Rico, Colexio Universitario de Cayey polo Dr. David A. Santos.
 - [TURGOR: International Mathematical Tournament of Towns](https://www.turgor.ru/en/).
 ## U
-- UOPB: The USSR Olympiad Problem Book} por Shklarsky, Chentzov e Yaglom.
+- UOPB: _The USSR Olympiad Problem Book_ por Shklarsky, Chentzov e Yaglom.
 - [USAMO:United States of America Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/USAMO_Problems_and_Solutions).
 - USCGrao: Exercicios de Probas do Grao en Matemáticas da USC.
 ## X
