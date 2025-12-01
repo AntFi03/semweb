@@ -11,4 +11,4 @@ Coa intención de ser transparentes e de analizar o progreso deste proxecto, po�
 
 ![[Line.png]]
 
-No pasado mes de outubro de 2025 chegamos aos 191 usuarios mensuais, realizando estes en total 356 visitas á web.
+O récord de uso acadouse o pasado mes de outubro de 2025. Chegamos aos 191 usuarios mensuais, realizando estes en total 356 visitas á web.

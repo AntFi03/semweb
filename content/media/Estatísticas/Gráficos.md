@@ -24,6 +24,12 @@ data:
   - label: 2025-10
     serie: Usuarios
     value: 191
+  - label: 2025-11
+    serie: Visitas
+    value: 282
+  - label: 2025-11
+    serie: Usuarios
+    value: 129
 
 options:
   xField: label

@@ -18,7 +18,7 @@ Actualmente hai **`$= dv.pages('#Problema').length-1`** problemas na web, dos ca
 >     if (n === 1) return "🥇";
 >     if (n === 2) return "🥈";
 >     if (n === 3) return "🥉";
->     return n + "º";
+>     return n + "º -";
 > }
 > 
 > // Función auxiliar para mostrar el estado de publicación
@@ -104,7 +104,7 @@ Actualmente hai **`$= dv.pages('#Problema').length-1`** problemas na web, dos ca
 >     const rank = getOrdinal(i + 1); 
 >     
 >     // 1. Cabecera (Siempre visible)
->     dv.header(3, `${rank} - ${a.author} (${a.count} problemas)`);
+>     dv.header(3, `${rank} ${a.author} (${a.count} problemas)`);
 > 
 >     const authorPages = a.pages.filter(p => p && p.file);
 > 
