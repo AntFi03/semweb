@@ -9,10 +9,7 @@ tags:
 date:
 ---
 ## Primerio cuadrimestre
-### Sesión 1
-### Sesión 2
-
-### Sesión 10
+### Sesión 9
 - [[OME-1973-P4]].
 - [[OME-1974-P4]].
 - [[OME-1987-P5]].
