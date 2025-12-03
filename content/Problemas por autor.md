@@ -145,7 +145,7 @@ Actualmente hai **`$= dv.pages('#Problema').length-1`** problemas na web, dos ca
 > // =========================================================================
 > 
 > // 1. Calcular la fecha de hace 2 meses
-> const twoMonthsAgo = dv.date("1 weeks ago");
+> const twoMonthsAgo = dv.date("3 days ago");
 > 
 > // 2. Recoger todas las páginas con la etiqueta #Problema
 > const allProblems = dv.pages("#Problema").filter(p => excludeSelf(p));
@@ -234,5 +234,4 @@ Actualmente hai **`$= dv.pages('#Problema').length-1`** problemas na web, dos ca
 > }
 > // --- FIN SECCIÓN A ---
 > ```
-> 
-> 
+
