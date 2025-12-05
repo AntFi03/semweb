@@ -22,7 +22,7 @@ O Sr. e a Sra. Zeta quérenlle poñer un nome composto ao seu bebé Zeta. Quére
 
 > [!solution1]- Solución
 > 
-> *Nota.* Consideramos un alfabeto de 26 letras, o argumento é análogo cun número de letras distinto.
+> *Nota.* Consideramos un alfabeto de 26 letras, o argumento é análogo con un número de letras distinto.
 > 
 > Como para cada conxunto de dúas letras distintas de Z, só hai unha forma de ordealas alfabeticamente, a resposta sería:
 > $$
