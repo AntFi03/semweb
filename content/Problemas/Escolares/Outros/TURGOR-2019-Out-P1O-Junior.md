@@ -6,9 +6,9 @@ draft: false
 enableToc: true
 tags:
   - Problema
-  - Preuniversitario
   - XogosDeEstratexia
   - Fácil
+  - Escolar
 date: 2025-10-03
 author: Carla Dopazo Pavón
 ---
