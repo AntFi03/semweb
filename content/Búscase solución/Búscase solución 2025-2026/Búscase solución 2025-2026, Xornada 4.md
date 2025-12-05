@@ -28,6 +28,7 @@ Tamén vos informamos de que esta será a última xornada ata rematado o períod
 >$$\int_{a}^{b}\int_{a}^{\xi}\alpha(x)-c_{0}-c_{1}x-c_{2}x^2-c_{3}x^3\,\text{d}x\,\text{d}\xi=0$$
 >  
 >$$\int_{a}^{b}\int_{a}^{\xi}\int_{a}^{x}\alpha(y)-c_{0}-c_{1}y-c_{2}y^2-c_{3}y^3\,\text{d}y\,\text{d}x\,\text{d}\xi=0$$
+>  
 >  $$\int_{a}^{b}\int_{a}^{\xi}\int_{a}^{x}\int_{a}^{y}\alpha(z)-c_{0}-c_{1}z-c_{2}z^2-c_{3}z^3\,\text{d}z\,\text{d}y\,\text{d}x\,\text{d}\xi=0$$
 
 >[!solution5]- Nivel 3
