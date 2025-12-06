@@ -83,6 +83,7 @@ date: 2025-09-21
 ## S
 - SEM: Problemas propostos polos membros de $\textit{Sementeira}$.
 - SID: "Sen ID", Problemas sen identificar.
+- [SMO: Switzerland Mathematical Olympiad.](https://mathematical.olympiad.ch/en/)
 - SPGISMOC: _Solving Problems in Geometry: Insights and Strategies for Mathematical Olympiad and Competitions_ por Kim, H. H. e Haibin, W.
 ## T
 - TRPC: _Taller de Resolución de Problemas de Concurso_, Universidade de Puerto Rico, Colexio Universitario de Cayey polo Dr. David A. Santos.
