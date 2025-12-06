@@ -18,7 +18,7 @@ Recordámosvos tamén que o de Nivel 3 da Xornada 3 segue sen resolver, polo que
 Tamén vos informamos de que esta será a última xornada ata rematado o período de exames na USC. Avisaremos a todos os inscritos cando continúe o concurso.
 
 > [!solution2]- Nivel 1
-> Sexa $n\geq 3$ un enteiro. Se debuxamos un círculo de raio $1$ e sobre este debuxamos $n$ círculos menores (do mesmo raio) de xeito que estes son tanxentes entre eles e tódolos seus centros están na circunferencia do círculo orixinal, cal é a área total da intersección do círculo orixinal cos outros círculos?
+> Sexa $n\geq 3$ un enteiro. Se debuxamos un círculo de raio $1$ e sobre este debuxamos $n$ círculos menores (do mesmo raio) de xeito que estes son tanxentes cos círculos contiguos e tódolos seus centros están na circunferencia do círculo orixinal, cal é a área total da intersección do círculo orixinal cos outros círculos?
 
 >[!solution3]- Nivel 2
 > Sexan $a,b\in\mathbb{R}$, $a<b,$ e $\alpha:[a,b]\to\mathbb{R}$ continua. Cantos $c_{0},c_{1},c_{2},c_{3}\in\mathbb{R}$ existen tales que:
