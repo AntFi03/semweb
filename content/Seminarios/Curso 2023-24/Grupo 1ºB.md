@@ -19,6 +19,8 @@ date:
 ### Sesión 3
 - [[BrMO-2000-P2]]
 - [[PSS-S1-E11]]
+### Sesión 4
+- [[SEM-2324-4]]
 ### Sesión 5
 - [[ANEM-LM-2324-TNum-P1]]
 ### Sesión 7
@@ -28,6 +30,8 @@ date:
 - [[AIME-1987-P5]]
 - [[BrMO-2005-P1]]
 - [[CDR-Junior-2013-E2-P3]]
+### Sesión 2
+- [[PUTNAM-2000-P1]]
 ### Sesión 4
 - [[AHSME-1983-P16]]
 - [[AHSME-1988-P18]]
@@ -39,6 +43,7 @@ date:
 - [[AMC12-2001-P16]]
 ### Sesión 6
 - [[SEM-2324-2]]
+- [[PUTNAM-1947-A2]]
 ### Sesión 7
 - [[ANEM-DdP-2021-P1]]
 - [[IrMO-2009-P5]]

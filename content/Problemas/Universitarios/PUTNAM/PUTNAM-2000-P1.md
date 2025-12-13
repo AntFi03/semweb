@@ -8,11 +8,11 @@ tags:
   - Problema
   - Universitario
   - Intrincado
-  - TeoríaDeNúmeros
+  - Álxebra
 date: 2025-12-13
 without-solution: false
 notas: revisar solución
-author:
+author: Martín García Cebeiro
 ---
 ## Enunciado
 Sexa $f$ un polinomio con coeficientes enteiros. Definamos a sucesión $\{a_n\}_{n\in\mathbb{N}}$ como $a_0=0$ e $a_{n+1}=f(a_n)$, $\forall n \in\mathbb{N}$. Proba que se existe $m\in\mathbb{Z}^+$ tal que $a_m=0$, entón $a_1=0$ ou $a_2=0$.

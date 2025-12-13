@@ -11,6 +11,7 @@ date: 2025-09-22
 ## Primeiro cuadrimestre
 ### Sesión 1
 - [[OSMG-2021-P4A]]
+- [[SEM-2425-1]]
 ### Sesión 2
 - [[BrMO-2000-P2]]
 - [[NPM-01]]

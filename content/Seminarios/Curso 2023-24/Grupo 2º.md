@@ -14,6 +14,8 @@ date:
 ### Sesión 2
 - [[OME-1984-P4]]
 - [[PAMO-2008-P1]]
+- [[PUTNAM-2013-B1]]
+- [[SEM-2324-5]]
 ### Sesión 3
 - [[MSE-2324-01]]
 ### Sesión 4
@@ -38,6 +40,7 @@ date:
 - [[AMO-2017-Final-R1-P4]]
 - [[EGMO-2020-P4]]
 - [[IZHO-2022-D1-P1]]
+- [[SEM-2324-1]]
 ### Sesión 4
 - [[IZHO-2023-D2-P4]]
 - [[OME-1995-P3]]

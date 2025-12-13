@@ -12,7 +12,7 @@ tags:
 date: 2025-12-13
 without-solution: false
 notas: revisar solución
-author:
+author: Ibai Otero Gómez
 ---
 ## Enunciado
 
