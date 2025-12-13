@@ -13,6 +13,7 @@ date:
 - [[IMO-1985-LL-VIE-P3]]
 - [[OMG-2022-P4]]
 - [[OSMG-2021-P4A]]
+- [[PSS-S1-E3]]
 ### Sesión 2
 - [[ANEM-DdP-2023-P1]]
 ### Sesión 3

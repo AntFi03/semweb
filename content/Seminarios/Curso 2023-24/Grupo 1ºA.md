@@ -12,6 +12,7 @@ date:
 ### Sesión 1
 - [[IMO-1985-LL-VIE-P3]]
 - [[OSMG-2021-P4A]]
+- [[PSS-S1-E3]]
 ### Sesión 2
 - [[BrMO-2022-P1]]
 - [[IMC-2022-D1-P1]]

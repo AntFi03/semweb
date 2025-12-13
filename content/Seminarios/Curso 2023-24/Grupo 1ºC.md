@@ -11,6 +11,7 @@ date:
 ## Primeiro cuadrimestre
 ### Sesión 1
 - [[IMO-1985-LL-VIE-P3]]
+- [[PSS-S1-E3]]
 ## Sesión 2
 - [[BAMO-2014-P1]]
 ### Sesión 3
