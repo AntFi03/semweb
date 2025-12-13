@@ -37,7 +37,7 @@ date:
 - [[AMO-2017-Final-R1-P4]]
 - [[AMC12-2001-P16]]
 ### Sesión 6
-- [[SEM-2324-1]]
+- [[SEM-2324-2]]
 ### Sesión 7
 - [[ANEM-DdP-2021-P1]]
 - [[IrMO-2009-P5]]
