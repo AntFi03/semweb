@@ -74,6 +74,7 @@ date: 2025-09-21
 - OSMG: Oposicións de Secundaria da Xunta de Galicia. Especialidade de Matemáticas
 ## P
 - [PAMO: Pan African Mathematics Olympiad](https://www.africamathunion.org/AMU-pamo-official.php).
+- [PMO: Philippine Mathematical Olympiad](https://pmo.ph/)
 - [PPFRJ: Páxina de Persoal de Fernándo Revilla Jiménez](https://fernandorevilla.es).
 - [PPPJMM: Páxina de Preparación e Problemas por José Miguel Manzano](https://wpd.ugr.es/~jmmanzano/preparacion/index.php).
 - PSS: _Problem Solving Strategies_ por Arthur Engel.
