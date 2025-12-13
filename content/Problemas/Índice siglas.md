@@ -14,6 +14,7 @@ date: 2025-09-21
 - AIME: American Invitational Mathematics Exam
 - [AMC12: American Mathematics Contest 12](https://maa.org/math-competitions/american-mathematics-contest-12-amc-12)
 - [AMO: Austrian Mathematical Olympiad](https://www.math.aau.at/OeMO/problems/)
+- ANEM-Ddp: Olimpíada do Día de $\pi$ da ANEM.
 - ANEMLM: Liga Matemática Universitaria da ANEM.
 - [APMC: Austrian-Polish Mathematical Competition. Individual Competition](https://imomath.com/index.cgi?page=collectionApo)
 - [APSMO: Australasian Problem Solving Mathematical Olympiads](https://apsmo.edu.au/)
@@ -63,7 +64,6 @@ date: 2025-09-21
 - NPM: _Novos pasatempos matemáticos_ por Martin Gardner.
 - [NZMO: New Zealand Maths Olympiad](https://www.mathsolympiad.org.nz/)
 ## O
-- ODPI: Olimpíada do Día de $\pi$ da ANEM.
 - OIMU: Olimpíada Iberoamericada de Matemática Universitaria.
 - OMCC: Olimpíada Matemática de Centroamérica e O Caribe.
 - [OME: Olimpíada Matemática Española](https://www.rsme.es/olimpiada-matematica-espanola/)
