@@ -9,10 +9,11 @@ tags:
   - Preuniversitario
   - Imposible
   - Análise
+  - Invariantes
 date: 2025-12-13
 without-solution: false
 notas:
-author:
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
  Dado un punto de $(x_0,y_0) \in \mathbb{R}^{2}$ tal que $0<x_0<y_0$. Defínese a recurrencia:

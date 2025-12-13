@@ -9,10 +9,11 @@ tags:
   - Preuniversitario
   - XogosDeEstratexia
   - Accesible
+  - Invariantes
 date: 2025-12-13
 without-solution: false
 notas:
-author:
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
  No parlamento de Sikinia, cada parlamentario ten, como moito, 3 inimigos. Probar que os parlamentarios se poden separar en dous grupos, conseguindo que cada un deles teña, como moito, un inimigo no seu grupo.

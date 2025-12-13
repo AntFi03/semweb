@@ -9,10 +9,11 @@ tags:
   - Preuniversitario
   - XogosDeEstratexia
   - Accesible
+  - Invariantes
 date: 2025-12-13
 without-solution: false
 notas: Quen é Hugo?
-author:
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
 Un círculo divídese en 6 seccións. Entón, escríbense os números naturais $1,0,1,0,0,0$ nos 6 sectores que se formaron. Tes unha operación que se permite incrementar o valor de dous sectores contiguos en $1$. É posible chegar a que tódolos números sexan iguais, só aplicando a operación anterior?

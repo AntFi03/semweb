@@ -11,6 +11,7 @@ date:
 ## Primeiro cuadrimestre
 ### Sesión 1
 - [[IMO-1985-LL-VIE-P3]]
+- [[OSMG-2021-P4A]]
 ### Sesión 2
 - [[BrMO-2022-P1]]
 - [[IMC-2022-D1-P1]]
@@ -19,6 +20,9 @@ date:
 ### Sesión 5
 - [[BrMO-2000-P2]]
 - [[IMC-2004-D2-P1]]
+- [[OSMG-2021-P4B]]
+### Sesión 6
+- [[PPPJMM-P93]]
 ## Segundo cuadrimestre
 ### Sesión 1
 - [[AIME-1987-P5]]

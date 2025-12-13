@@ -9,10 +9,11 @@ tags:
   - Preuniversitario
   - Accesible
   - XogosDeEstratexia
+  - Invariantes
 date: 2025-12-13
 without-solution: false
 notas:
-author:
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
 

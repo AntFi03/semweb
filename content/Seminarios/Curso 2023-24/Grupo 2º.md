@@ -13,6 +13,7 @@ date:
 - [[IMC-2004-D1-P1]]
 ### Sesión 2
 - [[OME-1984-P4]]
+- [[PAMO-2008-P1]]
 ### Sesión 3
 - [[MSE-2324-01]]
 ### Sesión 4
@@ -20,6 +21,7 @@ date:
 ### Sesión 5
 - [[EKC-1934-P3]]
 - [[FEHTST-E3_9_1]]
+- [[OSMG-2021-P4B]]
 ### Sesión 6
 - [[BMC-2020-P1]]
 - [[FEHTST-E2_12_8]]

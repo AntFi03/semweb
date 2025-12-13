@@ -9,10 +9,11 @@ tags:
   - Preuniversitario
   - Fácil
   - XogosDeEstratexia
+  - Invariantes
 date: 2025-12-13
 without-solution: false
 notas:
-author:
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
  Sexa $n \in \mathbb{Z}$ impar. Un alumno escribe os enteiros $1, 2, \dots, 2n$ na pizarra. Entón elixe dous en particular, $a$ e $b$, bórraos, e escribe no seu lugar $|a-b|$ (unha única vez, non na posición de $a$ e na de $b$). Probar que, ao repetir o proceso ata que só quede un número na pizarra, quedaranos un número impar.
