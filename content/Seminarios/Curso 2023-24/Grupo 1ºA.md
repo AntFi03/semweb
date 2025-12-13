@@ -41,6 +41,8 @@ date:
 - [[AIME-1991-P5]]
 ### Sesión 10
 - [[IMO-1985-P4+]]
+### Sesión 11
+- [[OMOUS-2022-Teams-P9+]]
 ### Sesión 12
 - [[COMGEP-S2-P19]]
 - [[OME-1964-P3]]
