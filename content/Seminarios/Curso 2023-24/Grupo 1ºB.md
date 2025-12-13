@@ -18,6 +18,7 @@ date:
 - [[ANEM-DdP-2023-P1]]
 ### Sesión 3
 - [[BrMO-2000-P2]]
+- [[PSS-S1-E11]]
 ### Sesión 5
 - [[ANEM-LM-2324-TNum-P1]]
 ### Sesión 7
