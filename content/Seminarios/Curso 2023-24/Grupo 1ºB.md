@@ -48,10 +48,12 @@ date:
 ### Sesión 6
 - [[SEM-2324-2]]
 - [[PUTNAM-1947-A2]]
+- [[SID-2324-P7]]
 ### Sesión 7
 - [[ANEM-DdP-2021-P1]]
 - [[IrMO-2009-P5]]
 - [[OIMU-2016-P1]]
+- [[SID-2324-P6]]
 ### Sesión 8
 - [[AIME-1991-P5]]
 ### Sesión 10
