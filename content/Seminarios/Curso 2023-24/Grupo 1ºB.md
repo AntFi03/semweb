@@ -30,6 +30,7 @@ date:
 - [[AIME-1987-P5]]
 - [[BrMO-2005-P1]]
 - [[CDR-Junior-2013-E2-P3]]
+- [[SID-2324-P1]]
 ### Sesión 2
 - [[PUTNAM-2000-P1]]
 ### Sesión 4
@@ -37,10 +38,13 @@ date:
 - [[AHSME-1988-P18]]
 - [[AHSME-1989-P9]]
 - [[AMC12-2001-P16]]
+- [[SID-2324-P2]]
 ### Sesión 5
 - [[AMO-2017-Final-R1-P4]]
 - [[ANEM-LM-2324-TNum-P1]]
 - [[AMC12-2001-P16]]
+- [[SID-2324-P3]]
+- [[SID-2324-P4]]
 ### Sesión 6
 - [[SEM-2324-2]]
 - [[PUTNAM-1947-A2]]
