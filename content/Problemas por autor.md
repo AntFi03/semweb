@@ -1,6 +1,6 @@
 ---
 title: Problemas por autor
-description: Ficheiro onde podedes ver os problemas que propuxestes cada un de vos. Para etiquetar os problemas tal que os subíchedes vos só tendes que poñer o voso nome o apartado "author" das propiedades.
+description: Ficheiro onde podedes ver os problemas que propuxestes cada un de vós. Para etiquetar os problemas tal que os subíchedes vós só tedes que poñer o voso nome no apartado "author" das propiedades.
 draft: true
 comments: false
 tags:
