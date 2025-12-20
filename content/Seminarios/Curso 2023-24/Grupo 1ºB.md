@@ -23,6 +23,7 @@ date:
 - [[Th-Gersonides]]
 ### Sesión 4
 - [[SEM-2324-4]]
+- [[USCGrao-Continuidade-01]]
 ### Sesión 5
 - [[ANEM-LM-2324-TNum-P1]]
 ### Sesión 7
@@ -36,6 +37,7 @@ date:
 ### Sesión 2
 - [[PUTNAM-2000-P1]]
 - [[USAMO-1974-P1]]
+- [[USCGrao-Álxebra-01]]
 ### Sesión 4
 - [[AHSME-1983-P16]]
 - [[AHSME-1988-P18]]

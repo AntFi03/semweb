@@ -26,6 +26,7 @@ date:
 - [[IMC-2004-D2-P1]]
 - [[OSMG-2021-P4B]]
 - [[SEM-2324-4]]
+- [[USCGrao-Continuidade-01]]
 ### Sesión 6
 - [[PPPJMM-P93]]
 ## Segundo cuadrimestre
@@ -36,7 +37,8 @@ date:
 - [[SID-2324-P1]]
 ### Sesión 2
 - [[PUTNAM-2000-P1]]
-- [[usamo]]
+- [[USAMO-1974-P1]]
+- [[USCGrao-Álxebra-01]]
 ### Sesión 4
 - [[AHSME-1983-P16]]
 - [[AHSME-1988-P18]]
