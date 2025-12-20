@@ -18,6 +18,7 @@ date:
 - [[SEM-2324-5]]
 ### Sesión 3
 - [[MSE-2324-01]]
+- [[CPMSOC-Geom-Work2-Week5-Term3-2021]]
 ### Sesión 4
 - [[ANEM-LM-2324-TNum-P1]]
 ### Sesión 5

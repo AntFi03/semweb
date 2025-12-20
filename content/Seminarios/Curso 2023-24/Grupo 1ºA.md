@@ -18,6 +18,7 @@ date:
 - [[IMC-2022-D1-P1]]
 ### Sesión 3
 - [[OIMU-2021-P2]]
+- [[Th-Gersonides]]
 ### Sesión 4
 - [[SEM-2324-3]]
 ### Sesión 5
@@ -35,6 +36,7 @@ date:
 - [[SID-2324-P1]]
 ### Sesión 2
 - [[PUTNAM-2000-P1]]
+- [[usamo]]
 ### Sesión 4
 - [[AHSME-1983-P16]]
 - [[AHSME-1988-P18]]

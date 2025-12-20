@@ -16,9 +16,11 @@ date:
 - [[PSS-S1-E3]]
 ### Sesión 2
 - [[ANEM-DdP-2023-P1]]
+- [[UOPB-P2]]
 ### Sesión 3
 - [[BrMO-2000-P2]]
 - [[PSS-S1-E11]]
+- [[Th-Gersonides]]
 ### Sesión 4
 - [[SEM-2324-4]]
 ### Sesión 5
@@ -33,6 +35,7 @@ date:
 - [[SID-2324-P1]]
 ### Sesión 2
 - [[PUTNAM-2000-P1]]
+- [[USAMO-1974-P1]]
 ### Sesión 4
 - [[AHSME-1983-P16]]
 - [[AHSME-1988-P18]]

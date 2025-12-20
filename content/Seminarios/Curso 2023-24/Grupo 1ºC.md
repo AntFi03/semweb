@@ -14,6 +14,7 @@ date:
 - [[PSS-S1-E3]]
 ## Sesión 2
 - [[BAMO-2014-P1]]
+- [[CPMSOC-Geom-Work2-Week5-Term3-2021]]
 ### Sesión 3
 - [[EKC-1939-P1]]
 - [[IMC-2004-D2-P1]]
