@@ -12,7 +12,7 @@ tags:
 date: 2025-12-20
 without-solution: true
 notas:
-author:
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
 Entre 20 moedas hai 1 falsa. Non sabemos se a moeda falsa pesa máis ou menos que unha moeda normal. Usando 3 pesadas nunha balanza romana de dous pratos, como se pode identificar a moeda falsa, determinando no proceso se pesa máis ou menos que unha moeda regular?

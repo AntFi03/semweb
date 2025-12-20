@@ -12,7 +12,7 @@ tags:
 date: 2025-12-20
 without-solution: false
 notas:
-author:
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
  No xadrez, é posible ir cun cabalo (con movementos legais) dende a esquina inferior esquerda do taboleiro á esquina superior dereita do taboleiro pasando no proceso por cada unha das casillas só unha vez.

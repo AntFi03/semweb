@@ -12,7 +12,7 @@ tags:
 date: 2025-12-20
 without-solution: true
 notas:
-author:
+author: Antón Figueroa Martínez
 ---
 ## Enunciado
 Temos 20 bloques de metal. Algúns de aluminio e outros de ferro, que pesa máis. Usando como moito 11 pesadas nunha balanza romana de dous pratos, como podemos determinar cantos bloques de aluminio hai?

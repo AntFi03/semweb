@@ -12,7 +12,7 @@ tags:
 date: 2025-12-20
 without-solution: false
 notas:
-author:
+author: Martín García Cebeiro
 ---
 ## Enunciado
 
