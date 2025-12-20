@@ -84,6 +84,7 @@ date: 2025-09-21
 ## S
 - SEM: Problemas propostos polos membros de $\textit{Sementeira}$.
 - SID: "Sen ID", Problemas sen identificar.
+- [SK: Skolornas matematiktävling](http://www.mattetavling.se/)
 - [SMO: Switzerland Mathematical Olympiad.](https://mathematical.olympiad.ch/en/)
 - SPGISMOC: _Solving Problems in Geometry: Insights and Strategies for Mathematical Olympiad and Competitions_ por Kim, H. H. e Haibin, W.
 ## T
