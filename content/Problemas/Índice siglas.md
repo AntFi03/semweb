@@ -32,7 +32,7 @@ date: 2025-09-21
 - COMGEP: _Cuadernos de Olimpiadas Matemáticas. Geometría: Ejercicios y problemas_ por Radmila Dulajich e José Antonio Gómez.
 - [CPMSOC: UNSW Competitive Programming and Mathematics Society](https://www.unswcpmsoc.com/)
 - CTMB: _Critical Thinking_ por Max Black.
-- CWMO: China Western Mathematical Olympiad
+- CWMO: China Western Mathematical Olympiad.
 ## D
 ## E
 - [EGMO: European Girls' Mathematical Olympiad](https://www.egmo.org/)
@@ -88,7 +88,7 @@ date: 2025-09-21
 - [SMO: Switzerland Mathematical Olympiad.](https://mathematical.olympiad.ch/en/)
 - SPGISMOC: _Solving Problems in Geometry: Insights and Strategies for Mathematical Olympiad and Competitions_ por Kim, H. H. e Haibin, W.
 ## T
-- TRPC: _Taller de Resolución de Problemas de Concurso_, Universidade de Puerto Rico, Colexio Universitario de Cayey polo Dr. David A. Santos.
+- TRPC: _Taller de Resolución de Problemas de Concurso_, Universidade de Porto Rico, Colexio Universitario de Cayey polo Dr. David A. Santos.
 - [TURGOR: International Mathematical Tournament of Towns](https://www.turgor.ru/en/).
 ## U
 - UOPB: _The USSR Olympiad Problem Book_ por Shklarsky, Chentzov e Yaglom.
