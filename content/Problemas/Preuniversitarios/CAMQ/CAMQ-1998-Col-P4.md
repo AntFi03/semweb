@@ -21,9 +21,9 @@ author: Carla Dopazo Pavón
 
 > [!solution1]- Solución
 > Sexa $q=1-p$, e $D_1, D_2, D_3$ as tres decisións dos xuíces (o do "cara ou cruz" será o terceiro). Cada $D_i$ será ou un E (éxito) ou F (fracaso), polo que a decisión será correcta se e só se 
-$$(D_1,D_2,D_3) \in \{(E,E,E), (E,E,F), (E,F,E), (F,E,E)\}.$$
-Entón a probabilidade de tomar unha boa decisión é
-$$P = pp\frac{1}{2}+pp\frac{1}{2}+pq\frac{1}{2}+qp\frac{1}{2} = p^2 +pq = p(p+q) = p.$$
+> $$(D_1,D_2,D_3) \in \{(E,E,E), (E,E,F), (E,F,E), (F,E,E)\}.$$
+> Entón a probabilidade de tomar unha boa decisión é
+> $$P = pp\frac{1}{2}+pp\frac{1}{2}+pq\frac{1}{2}+qp\frac{1}{2} = p^2 +pq = p(p+q) = p.$$
 
 ---
 

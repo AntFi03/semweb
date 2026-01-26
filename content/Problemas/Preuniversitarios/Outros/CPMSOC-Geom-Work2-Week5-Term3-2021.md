@@ -16,7 +16,7 @@ author: Héctor Folgar Cameán
 ---
 ## Enunciado
 
- Dado $\triangle ABC$, definimos os puntos $D,E \in BC$ tal que $AD$ é unha altura e $AE$ a bisectriz do ángulo $A$. Definimos ademáis $M \in AE$ tal que $BM$ é perpendicular a $AE$ e $N \in AC$ tal que $EN$ é perpendicular a $AC$.
+Dado $\triangle ABC$, definimos os puntos $D,E \in BC$ tal que $AD$ é unha altura e $AE$ a bisectriz do ángulo $A$. Definimos ademáis $M \in AE$ tal que $BM$ é perpendicular a $AE$ e $N \in AC$ tal que $EN$ é perpendicular a $AC$.
 Demostra que os puntos $D,M,N$ son colineais.
 
 ---
