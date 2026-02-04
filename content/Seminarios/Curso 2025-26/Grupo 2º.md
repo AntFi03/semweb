@@ -8,7 +8,7 @@ tags:
   - Seminario
 date:
 ---
-## Primeiro cuadrimestre
+## Primerio cuadrimestre
 ### Sesión 1
 - [[YT-PolyaMath-21082025]]
 ### Sesión 2
