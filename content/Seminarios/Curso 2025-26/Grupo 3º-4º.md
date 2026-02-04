@@ -8,7 +8,7 @@ tags:
   - Seminario
 date:
 ---
-## Primerio cuadrimestre
+## Primeiro cuadrimestre
 ### Sesión 9
 - [[OME-1973-P4]].
 - [[OME-1974-P4]].
