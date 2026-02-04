@@ -8,7 +8,7 @@ tags:
   - Seminario
 date:
 ---
-## Primerio cuadrimestre
+## Primeiro cuadrimestre
 ### Sesión 1
 - [[CTMB-1964-P1]]
 ### Sesión 2
@@ -29,3 +29,6 @@ date:
 - [[APSMO-Olym-2023-S-P1B]]
 - [[APSMO-Olym-2023-J-P1D]]
 - [[OMFG-2025-P1]]
+## Segundo cuadrimestre
+### Sesión 1
+- [[OMFG-2025-P2]]

@@ -1,5 +1,5 @@
 ---
-title: Título
+title: Boletín CDP (Exemplo)
 description:
 draft: true
 comments: false
