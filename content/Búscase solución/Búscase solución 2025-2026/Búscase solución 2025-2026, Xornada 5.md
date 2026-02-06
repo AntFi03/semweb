@@ -32,7 +32,7 @@ Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de in
 > - $\mathbb{S}^{1}=\mathbb{R}/\sim$, con $x\sim y\iff x-y=2k\pi,k\in\mathbb{Z}$, coa operación $+$ habitual de $\mathbb{R}$ trasladada ao cociente.
 
 >[!solution5]- Nivel 3, Problema 1
-> Sexa $X=\mathbb{R}^{{n}}$, $n\geq{2}$ coa topoloxía habitual e $U\subset X$ un aberto conexo. Se $B\subset X$ é numerable, demostra que $U\setminus B$ é conexo por camiños.
+> Sexa $X=\mathbb{R}^{{n}}$, $n\geq{2}$, coa topoloxía habitual e $U\subset X$ un aberto conexo. Se $B\subset X$ é numerable, demostra que $U\setminus B$ é conexo por camiños.
 
 >[!solution5]- Nivel 3, Problema 2
 > Se $U$ é un aberto limitado de $\mathbb{R}^{n}$, consideramos $M$ como o supremo de $\{r>0 / \exists a\in U / B(a,r)\subset U\}$ e $R=\frac{M}{100}$.
