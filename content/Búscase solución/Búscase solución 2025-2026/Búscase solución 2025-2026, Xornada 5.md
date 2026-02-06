@@ -2,7 +2,7 @@
 title: Búscase solución 2025-2026, xornada 5
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
   - Concurso
@@ -22,7 +22,7 @@ Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de in
 > Demostra que $F_{n+1}F_{n-1}-F_{n}^2=(-1)^{n}$, onde $F_{n}$ é o $n$-ésimo número de Fibonacci, $F_{0}=0$ e $F_{1}=1$.
 
 >[!solution3]-  Nivel 2, Problema 1
- >Sexa $M\in\mathcal{M}_{2025\times2025}(\mathbb{R})$ tal que $|m_{i,j}|\leq 2^-(i+j)$ e que $m_{i,j}+m_{i+1,j}+m_{i,j+1}+m_{i+1,j+1}=0,\forall1\leq i,j\leq2024$. Proba que $\sum_{i,j=1}^{2025}m_{i,j}\leq \frac{1}{3}$.
+ >Sexa $M\in\mathcal{M}_{2025\times2025}(\mathbb{R})$ tal que $|m_{i,j}|\leq 2^-(i+j)$ e que $m_{i,j}+m_{i+1,j}+m_{i,j+1}+m_{i+1,j+1}=0,\forall1\leq i,j\leq2024$. Proba que $\sum_{i,j=1}^{2025}m_{i,j}\leq \frac{1}{3}$. Podes probar que $\sum_{i,j=1}^{2025}m_{i,j}\leq \frac{1}{2^{{2000}}}$ dunha forma distinta?
 
 >[!solution3]- Nivel 2, Problema 2
 > Sexa $(\mathbb{S}^{1},+)$ a circunferencia unidade coa estrutura de grupo habitual. Atopa tódalas aplicacións continuas $f:\mathbb{S}^{1}\to\mathbb{S}^{1}$ tales que $f(x+y)=f(x)+f(y)$.
@@ -32,7 +32,7 @@ Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de in
 > - $\mathbb{S}^{1}=\mathbb{R}/\sim$, con $x\sim y\iff x-y=2k\pi,k\in\mathbb{Z}$, coa operación $+$ habitual de $\mathbb{R}$ trasladada ao cociente.
 
 >[!solution5]- Nivel 3, Problema 1
-> Sexa $(X,\tau)$ un espazo topolóxico e $U\subset X$ un aberto conexo. Se $B\subset X$ é numerable, demostra que $U\setminus B$ é conexo por camiños.
+> Sexa $X=\mathbb{R}^{{n}}$ coa topolixía habitual e $U\subset X$ un aberto conexo. Se $B\subset X$ é numerable, demostra que $U\setminus B$ é conexo por camiños.
 
 >[!solution5]- Nivel 3, Problema 2
 > Se $U$ é un aberto limitado de $\mathbb{R}^{n}$, consideramos $M$ como o supremo de $\{r>0 / \exists a\in U / B(a,r)\subset U\}$ e $R=\frac{M}{100}$.
