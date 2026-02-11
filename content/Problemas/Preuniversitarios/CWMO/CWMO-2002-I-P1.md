@@ -10,7 +10,7 @@ tags:
   - Accesible
   - Combinatoria
 date: 2025-10-03
-notas: Proposto por Liu Jiangfeng.
+notas:
 author: Carla Dopazo Pavón
 ---
 ## Enunciado
