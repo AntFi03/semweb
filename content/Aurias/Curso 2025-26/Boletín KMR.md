@@ -1,7 +1,7 @@
 ---
 title: Título
 description:
-draft: true
+draft: false
 comments: false
 tags:
   - Lista
