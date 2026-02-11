@@ -1,5 +1,5 @@
 ---
-title: Título
+title: Boletín KMR
 description:
 draft: false
 comments: false
