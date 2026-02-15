@@ -2,13 +2,13 @@
 title: TURGOR-2019-P1O-Junior
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
   - Problema
-  - Preuniversitario
   - XogosDeEstratexia
   - Fácil
+  - Escolar
 date: 2025-10-03
 author: Carla Dopazo Pavón
 ---

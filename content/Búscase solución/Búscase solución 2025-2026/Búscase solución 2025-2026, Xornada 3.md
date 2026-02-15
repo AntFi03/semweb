@@ -19,10 +19,10 @@ Recordámosvos tamén que o de Nivel 3 da Xornada 2 segue sen resolver, polo que
 > Despois da OMFG, as rapazas votan que problema foi máis difícil, se o $1$ ou o $2$. Pero as nosas $2n$ rapazas empatan ao votar. Cal é a probabilidade de que durante o reconto só empatasen una vez antes do final?
 
 >[!solution3]- Nivel 2
-> Atopar tódolos $n,k\in\mathbb{Z}^{+}$ tales que $n$ é un cadrado perfecto que se escribe como $11111$ en base $k$.
+> Atopa tódolos $n,k\in\mathbb{Z}^{+}$ tales que $n$ é un cadrado perfecto que se escribe como $11111$ en base $k$.
 
 >[!solution5]- Nivel 3
-> Atopar tódalas $f:\mathbb{R}\to\mathbb{R}$ analíticas tales que $f(f(x))=x^{2}+x+1$. 
+> Atopa tódalas $f:\mathbb{R}\to\mathbb{R}$ analíticas tales que $f(f(x))=x^{2}+x+1$. 
 
 ***"Que gane o mellor!"***
 

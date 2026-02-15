@@ -13,7 +13,7 @@ date: 2025-10-08
 author: Carla Dopazo Pavón
 ---
 
-## Enunciado   
+## Enunciado    
 
  Sexa $p(x)$ un polinomio con coeficientes enteiros tal que $p(1)=5$ e $p(-1)=11$.
  1) Pon un exemplo de $p(x)$ que teña unha raíz enteira.

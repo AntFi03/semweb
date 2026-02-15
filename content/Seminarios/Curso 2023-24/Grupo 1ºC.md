@@ -11,11 +11,14 @@ date:
 ## Primeiro cuadrimestre
 ### Sesión 1
 - [[IMO-1985-LL-VIE-P3]]
+- [[PSS-S1-E3]]
 ## Sesión 2
 - [[BAMO-2014-P1]]
+- [[CPMSOC-Geom-Work2-Week5-Term3-2021]]
 ### Sesión 3
 - [[EKC-1939-P1]]
 - [[IMC-2004-D2-P1]]
+- [[PPPJMM-P93]]
 ### Sesión 4
 - [[EKC-1934-P3]]
 - [[AIME-1998-P7]]

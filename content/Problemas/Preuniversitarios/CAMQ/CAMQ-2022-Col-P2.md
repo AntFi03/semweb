@@ -9,6 +9,7 @@ tags:
   - Preuniversitario
   - Combinatoria
   - Fácil
+  - Probabilidade
 date: 2025-10-08
 author: Carla Dopazo Pavón
 ---

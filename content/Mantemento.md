@@ -5,7 +5,7 @@ draft: true
 comments: false
 tags:
 ---
-## Problemas sen solución
+## Problemas sen solución 
 ```dataview
 TABLE draft, date, notas
 FROM #Problema 

@@ -10,13 +10,13 @@ tags:
   - Accesible
   - Combinatoria
 date: 2025-10-03
-notas: Proposto por Liu Jiangfeng.
+notas:
 author: Carla Dopazo Pavón
 ---
 ## Enunciado
 
 $3n$ (sendo $n$ un enteiro positivo) rapazas estudantes participaron nun campamento de verán. Houbo 3 rapazas facendo garda cada día. Cando rematou o campamento, descubriuse que calquera dúas rapazas das $3n$ só estiveron de garda á vez un día.
--  Cando $n=3$, hai algunha configuración de gardas que o faga posíbel? 
+- Cando $n=3$, hai algunha configuración de gardas que o faga posíbel? 
 - Proba que $n$ é impar.
 
 ---
@@ -28,9 +28,9 @@ $3n$ (sendo $n$ un enteiro positivo) rapazas estudantes participaron nun campame
 > $$(2,4,6), (2,7,8), (2,5,9), (3,4,8),$$
 > $$(3,5,7), (3,6,9), (4,7,9), (5,6,8).$$
 > Para o segundo apartado, colleremos unha rapaza aleatoria. Como só comparte garda unha vez con cada unha do resto de rapazas, e hai tres persoas na garda cada día, todas as demais rapazas poden ser emparelladas de dúas en dúas. Así,
-> $$2 | 3n-1$$,
+> $$2 | 3n-1,$$
 > polo que $n$ é impar.
-
+%%  %%
 
 ---
 

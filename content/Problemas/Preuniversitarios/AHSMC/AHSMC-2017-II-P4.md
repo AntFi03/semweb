@@ -15,7 +15,7 @@ author: Carla Dopazo Pavón
 
 ## Enunciado   
 
-$ABCD$ é un cuadrilátero convexo tal que $\angle BAC=15º, \angle CAD=30º, \angle ADB= 90º \text{ e } \angle BDC=45º$. Acha $\angle ACB$
+$ABCD$ é un cuadrilátero convexo tal que $\angle BAC=15^{\circ}, \angle CAD=30^{\circ}, \angle ADB= 90^{\circ} \text{ e } \angle BDC=45^{\circ}$. Acha $\angle ACB$.
 
 ---
 
