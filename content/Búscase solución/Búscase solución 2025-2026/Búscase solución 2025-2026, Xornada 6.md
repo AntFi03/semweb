@@ -2,7 +2,7 @@
 title: Búscase solución 2025-2026, xornada 6
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
   - Concurso
@@ -13,7 +13,7 @@ Benvido, cazador. Se aínda non estás rexistrado no **Gremio de Cazarrecompensa
 
 Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de inscribirvos ao [correo (mestrecazador@gmail.com)](mailto::mestrecazador@gmail.com) poñendo como asunto "Xornada6.NivelX". Un correo por problema.
 
-Recordámosvos tamén que o Problema 2 de Nivel 2 e o Problema 2 de Nivel 3 da Xornada 6 seguen sen resolver, polo que a súa puntuación aumenta nun punto adicional.
+Recordámosvos tamén que o Problema 2 de Nivel 2 e o Problema 2 de Nivel 3 da Xornada 6 seguen sen resolver, polo que a súa puntuación aumenta nun punto adicional. 
 
 > [!solution2]- Nivel 1
 > Temos un cadrado taboleiro dividido en celas cadradas negras e brancas, de tamaño $2026\times2026$. Sabemos que o bordo deste taboleiro está composto só por celas negras e que non hai ningún cadrado de celas contiguas $2\times2$ no que todas teñan a mesma cor. 
