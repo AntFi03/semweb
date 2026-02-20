@@ -20,12 +20,13 @@ Hai 47 estudantes nunha clase cos asentos colocados en 6 filas x 8 columnas, ond
 ## Resolución
 
 > [!solution2]- Solución
-> Engadimos un estudante virtual $A$ para que todos os sitios estean ocupados por exactamente un estudante. Denotemos $S'$ a suma dos valores da posición nesta situación. Fixémonos en que o intercambio de dous estudantes de asentos adxacentes non varía o valor de $S'$. 
-> Todos os estudantes poden volver ao seu asento orixinal cun número finito de intercambios con estudantes adxacentes. Así, $S'=0$. 
-> Dende que $S'= S +a_A+b_A$, onde $a_A+b_A$ é o valor da posición do estudante $A$, entón temos que $S$ é maior cando o estudante $A$ ocupa o asento $(1,1)$, e $S$ é menor cando o ocupa o $(6,8)$. Así a diferenza entre o maior e o menor valor de $S$ é 12. 
+> Engadimos un estudante virtual $A$ para que todos os sitios estean ocupados por exactamente un estudante. Denotemos $S'$ a suma dos valores da posición nesta situación. Fixémonos en que o intercambio de dous estudantes de asentos adxacentes non varía o valor de $S'$.
+> Todos os estudantes poden volver ao seu asento orixinal cun número finito de intercambios con estudantes adxacentes. Así, $S'=0$.
+> Dende que $S'= S +a_A+b_A$, onde $a_A+b_A$ é o valor da posición do estudante $A$, entón temos que $S$ é maior cando o estudante $A$ ocupa o asento $(1,1)$, e $S$ é menor cando o ocupa o $(6,8)$. Así a diferenza entre o maior e o menor valor de $S$ é 12.
 > $\textit{Nota: Na solución oficial pón 14}$.
 
 ---
 
 ## Dúbidas & Comentarios
+
 Nesta sección pódesnos deixar as túas dúbidas e comentarios a cerca do problema anterior. Non teñas teima en preguntar, estamos aí para botar unha man!
