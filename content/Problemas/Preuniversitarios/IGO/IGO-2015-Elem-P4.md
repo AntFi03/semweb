@@ -16,7 +16,7 @@ author: Carla Dopazo Pavón
 ---
 ## Enunciado
 
-Temos dúas circunferencias de centros $O_{1}, O_{2}$ inscritas nunha circunferencia $\omega$ de forma que son tanxentes á maior. A corda $AB$ de $\omega$ é tanxente ás circunferencias con centros $O_{1}, O_{2},$ de forma que cada unha estea nun lado da corda. Proba que $\angle O_{1}AO_{2} + \angle O_{1}AO_{2} > 90^\circ.$
+Temos dúas circunferencias de centros $O_{1}, O_{2}$ inscritas nunha circunferencia $\omega$ de forma que son tanxentes á maior. A corda $AB$ de $\omega$ é tanxente ás circunferencias con centros $O_{1}, O_{2},$ de forma que cada unha estea nun lado da corda. Proba que $\angle O_{1}AO_{2} + \angle O_{1}BO_{2} > 90^\circ.$
 
 ---
 
