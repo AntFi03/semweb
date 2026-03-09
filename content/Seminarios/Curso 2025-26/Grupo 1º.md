@@ -32,5 +32,5 @@ date:
 ## Segundo cuadrimestre
 ### Sesión 1
 - [[OMFG-2025-P2]]
-### Sesión 2
+### Sesión 3
 - [[IGO-2017-Mid-P2]]
