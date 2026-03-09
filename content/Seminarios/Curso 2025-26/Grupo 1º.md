@@ -35,6 +35,8 @@ date:
 ### Sesión 2
 - [[IGO-2017-Mid-P2]]
 ### Sesión 3
-- [[IGO-2015-Elem-P4]]
+- [[IGO-2018-Elem-P4]]
 ### Sesión 5
 - [[SMO-2025-Sec-C1]]
+- [[AIME-1991-P5]]
+- [[TRPC-P1]]
