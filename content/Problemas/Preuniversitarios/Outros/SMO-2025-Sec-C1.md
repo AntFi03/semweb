@@ -16,7 +16,7 @@ author: Carla Dopazo Pavón
 ---
 ## Enunciado 
 
-Sexa $n$ un enteiro positivo. Pingo o pingüín e os seus $n$ amigos pingüíns están pescando salmóns. Todo pingüín ten como moito $n$ salmóns, e non hai dous pingüíns co mesmo número de salmóns. De cantas formas poden os $n+1$ pingüíns  formar grupos de tamaño arbitrario tal que en cada grupo haza exactamente $n$ salmóns?
+Sexa $n$ un enteiro positivo. Pingo o pingüín e os seus $n$ amigos pingüíns están pescando salmóns. Todo pingüín ten como moito $n$ salmóns, e non hai dous pingüíns co mesmo número de salmóns. De cantas formas poden os $n+1$ pingüíns  formar grupos de tamaño arbitrario tal que en cada grupo haxa exactamente $n$ salmóns?
 
 ---
 
