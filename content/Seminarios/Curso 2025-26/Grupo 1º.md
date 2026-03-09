@@ -34,3 +34,5 @@ date:
 - [[OMFG-2025-P2]]
 ### Sesión 3
 - [[IGO-2017-Mid-P2]]
+### Sesión 4
+- [[SMO-2025-Sec-C1]]
