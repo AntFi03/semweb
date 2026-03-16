@@ -65,6 +65,7 @@ date: 2025-09-21
 - [NZMO: New Zealand Maths Olympiad](https://www.mathsolympiad.org.nz/)
 ## O
 - OIMU: Olimpíada Iberoamericada de Matemática Universitaria.
+- OFEM: Olimpíada Feminina Española de Matemáticas
 - OMCC: Olimpíada Matemática de Centroamérica e O Caribe.
 - [OME: Olimpíada Matemática Española](https://www.rsme.es/olimpiada-matematica-espanola/)
 - [OMFG: Olimpíada Matemática Feminina Galega](https://www.usc.gal/olympia/omfg/omfg_difusion.html)
