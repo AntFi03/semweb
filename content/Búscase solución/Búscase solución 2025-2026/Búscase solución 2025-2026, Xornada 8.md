@@ -26,15 +26,21 @@ Recordámosvos tamén que o Problema 2 de Nivel 3 da Xornada 5, o problemas de N
 
 >[!solution5]- Nivel 3
 > Temos un cubo de tamaño $(2n+1)\times(2n+1)\times(2n+1)$, que imos encher usando os seguintes tipos de pezas:
+> 
 > 	-Pezas tipo L: Consiste en tres cubos $1\times1\times1$ de xeito que non están aliñados.
+> 	
 > 	-Pezas tipo C: Consiste nun cubo formado por lados de dous cubos $1\times1\times1$.
+> 	
 > 	-Pezas tipo S: Consiste nunha peza tipo C que cortamos pola metade e desprazamos unha desas metades unha unidade unha dirección do plano do corte que sexa perpendicular a unha das caras do cubo. Nota que a peza segue sendo conexa, xa que non podes levantar, ao non ser esa unha dirección do plano do corte.
 >
 >a) Supoñendo que é posible encher o cubo con estas pezas, cantas pezas tipo L necesitamos como mínimo?
 >
 >Agora queremos xeneralizar o resultado a $k$ dimensións. O hipercubo pasa a ter tamaño $(2n+1)\times \overset{k)}{\dots} \times(2n+1)$. Agora, as nosas novas hiperpezas son:
+>
 >	-Hiperpezas tipo L: Consiste en tres hipercubos $1\times\overset{k)}{\dots}\times1$ de xeito que non están aliñados.
+>	
 >	-Hiperpezas tipo C: Consiste nun hipercubo formado por lados de dous hipercubos $1\times\overset{k)}{\dots}\times1$.	
+>	
 >	-Hiperpezas tipo S: Consiste nunha peza tipo C que cortamos pola metade e desprazamos unha desas metades unha unidade unha dirección do hiperplano do corte que sexa perpendicular a unha das caras do hipercubo. Nota que a peza segue sendo conexa, xa que non podes levantar, ao non ser esa unha dirección do hiperplano do corte.
 >	
 >b) Supoñendo que é posible encher o hipercubo con estas pezas, cantas hiperpezas tipo L necesitamos como mínimo?
