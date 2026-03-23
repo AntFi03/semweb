@@ -13,7 +13,7 @@ date:
 - 1 combinatoria: [[AHSME-1989-P9]]
 - 1 probabilidade: [[CAMQ-1998-Col-P4]]
 #### Ecuacións funcionais
-- 1: [[AHSMC-2024-II-P4]]
+- 1: [[AHSMC-2024-II-P1]]
 - 2:  [[MSCAK-P1]]
 #### Teoría de números / álxebra
 - 1 polinomios: [[AHSMC-2014-II-P4]]
