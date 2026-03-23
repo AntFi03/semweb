@@ -2,7 +2,7 @@
 title: Boletín inicial
 description:
 comments: false
-draft: true
+draft: false
 enableToc: true
 tags:
   - Seminario
