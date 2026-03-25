@@ -19,7 +19,8 @@ date:
 - 1 polinomios: [[AHSMC-2014-II-P4]]
 - 1: [[CAMQ-2015-Col-P1]]
 ####  Xeometría
-- 1: [[IGO-2017-Elem-P3]]
+- 1: [[IGO-2025-Elem-P1]]
+- 2: [[IGO-2017-Elem-P3]]
 #### Xogos de lóxica
 - 1: [[BAMO-2014-P1]]
 - 3: [[OME-1999-P3]]
