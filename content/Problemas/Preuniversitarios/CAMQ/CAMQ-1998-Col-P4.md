@@ -13,7 +13,7 @@ date: 2025-10-08
 author: Carla Dopazo Pavón
 ---
 ## Enunciado
- Un xurado está conformado por tres xuíces. Dous deles son igualmente competentes: tenhen unha probabilidade de $p>\frac{1}{2}$ de tomar a decisión correcta (condenar ao culpábel ou absolver ao inocente). O terceiro xuíz é un ''cara ou cruz'': establece a súa decisión en función do resultado do lanzamento dun céntimo. A decisión do xurado é a da maioría simple (2 a 1 ou 3 a 0). Cal é a probabilidade de que o xurado tome unha boa decisión? 
+ Un xurado está conformado por tres xuíces. Dous deles son igualmente competentes: teñen unha probabilidade de $p>\frac{1}{2}$ de tomar a decisión correcta (condenar ao culpábel ou absolver ao inocente). O terceiro xuíz é un ''cara ou cruz'': establece a súa decisión en función do resultado do lanzamento dun céntimo. A decisión do xurado é a da maioría simple (2 a 1 ou 3 a 0). Cal é a probabilidade de que o xurado tome unha boa decisión? 
 
 ---
 
