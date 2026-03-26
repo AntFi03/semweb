@@ -33,11 +33,7 @@ author: Carla Dopazo Pavón
 > - $f(0)+f(1)=4$ con $f(x) = 2$
 > - $f(0)+f(1)=-6$ con $f(x) = -3$
 > - $f(0)+f(1)=-1$ con, por exemplo:
-> $$f(x) = \begin{cases}  
-  -3 & \text{if } x \neq 0 \\
-2 & \text{if }x =0
-\end{cases}
-$$
+> <p style="text-align: center;"><em>f</em>(<em>x</em>) = –3, se <em>x</em> ≠ 0<br><em>f</em>(<em>x</em>) = 2, se <em>x</em> = 0</p> 
 
 
 
