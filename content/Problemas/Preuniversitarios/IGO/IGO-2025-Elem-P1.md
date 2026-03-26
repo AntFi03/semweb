@@ -32,7 +32,7 @@ Un anaco do teselado da mesquita da cidade de Isfahan é mostrado abaixo. A figu
 > $$y = 360^\circ-(108^\circ+108^\circ).$$
 > Por último, sabendo que a suma dos ángulos dun hexágono vale $720^\circ$, obtemos o valor de $z$:
 > $$2z + 4y = 720^\circ \Rightarrow z= 72^\circ.$$
-> ![[Pasted image 20260325230909.png]]
+> ![[IGO-2025-Elem-P1 2.png]]
 > 
 > 
 
