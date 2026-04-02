@@ -11,7 +11,7 @@ date: 2026-04-03
 
 Benvido, cazador. Se aínda non estás rexistrado no **Gremio de Cazarrecompensas**, preme na seguinte **[ligazón](https://sementeira.maega.gal/B%C3%BAscase-soluci%C3%B3n/B%C3%BAscase-soluci%C3%B3n-2025-2026/B%C3%BAscase-soluci%C3%B3n-2025-2026)**. Se xa estás rexistrado, le as instrucións que veñen a continuación.
 
-Esta xornada eu, Presa Atrapalladora, superei a seguridade de Mestre Cazador e tomei o control de Búscase Solución, poñendo os meus propios problemas, cun pouco de [diversión](https://gl.wikipedia.org/wiki/D%C3%ADa_dos_enganos).
+Esta xornada eu, Presa Atrapalladora, superei a seguridade de Mestre Cazador e tomei o control de Búscase Solución, poñendo os meus propios problemas (cun pouco de [diversión](https://gl.wikipedia.org/wiki/D%C3%ADa_dos_enganos)).
 
 Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de inscribirvos ao [correo (mestrecazador@gmail.com)](mailto::mestrecazador@gmail.com) poñendo como asunto "Xornada9.NivelX". Un correo por problema.
 
