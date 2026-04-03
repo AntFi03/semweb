@@ -39,11 +39,11 @@ Non vos recordo que problemas seguen sen resolverse, pero si vos digo que os pro
 >
 >Nota: Dada $d: \mathbb{R}^{n}\times\mathbb{R}^{n} \to \mathbb{R}$, dicimos que $d$ é unha distancia sobre as rectas de $\mathbb{R}^{n}$ se cumpre as tres seguintes propiedades:
 >
-	> • $d(x,y) \geq 0$ para $x,y \in \mathbb{R}^{n}$, onde $d(x,y)=0$ se e só se $x=y$.
-	> 
-	> • $d(x,y)=d(y,x)$ para $x,y \in \mathbb{R}^{n}$.
-	> 
-	> • $d(x,y)+d(y,z) \geq d(x,z)$ para $x,y,z \in \mathbb{R}^{n}$ que estean aliñados, é dicir, $x,y,z \in \mathbb{R}^{n}$ para os cales existe $\lambda\in\mathbb{R}$ tal que $z-y=\lambda(y-x)$.
+> • $d(x,y) \geq 0$ para $x,y \in \mathbb{R}^{n}$, onde $d(x,y)=0$ se e só se $x=y$.
+> 
+> • $d(x,y)=d(y,x)$ para $x,y \in \mathbb{R}^{n}$.
+> 
+> • $d(x,y)+d(y,z) \geq d(x,z)$ para $x,y,z \in \mathbb{R}^{n}$ que estean aliñados, é dicir, $x,y,z \in \mathbb{R}^{n}$ para os cales existe $\lambda\in\mathbb{R}$ tal que $z-y=\lambda(y-x)$.
 >
 >$\mathfrak{f}=\mathbb{N}$.
 
