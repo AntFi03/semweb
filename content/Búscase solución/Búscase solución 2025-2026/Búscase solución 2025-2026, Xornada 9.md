@@ -1,8 +1,8 @@
 ---
-title: Búscase solución 2025-2026, xornada 8
+title: Búscase solución 2025-2026, xornada 9
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
   - Concurso
