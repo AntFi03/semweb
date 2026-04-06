@@ -40,3 +40,9 @@ date:
 - [[SMO-2025-Sec-C1]]
 - [[AIME-1991-P5]]
 - [[TRPC-P1]]
+### Sesión 7
+- [[CAMQ-2003-Col-P1]]
+- [[CAMQ-2022-Col-P4]]
+### Sesión 8
+- [[CAMQ-2025-Col-P5]]
+- [[CGMO-2006-D1-P1]]
