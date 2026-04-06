@@ -15,7 +15,7 @@ notas:
 author: Carla Dopazo Pavón
 ---
 ## Enunciado
-A función $f(x) = x+x^2 + 3x^3$ ten inversa, a cal denotamos por $f^{-1}.$ Calcula os seguintes valores:
+A función $f(x) = x+2x^2 + 3x^3$ ten inversa, a cal denotamos por $f^{-1}.$ Calcula os seguintes valores:
 - $f^{-1}(0).$
 - $\frac{d(f^{-1})}{dx} (0).$
 - $\frac{d(f^{-1})}{dx} (6).$
