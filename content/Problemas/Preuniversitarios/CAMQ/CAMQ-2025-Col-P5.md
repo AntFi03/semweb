@@ -34,12 +34,15 @@ A función $f(x) = x+2x^2 + 3x^3$ ten inversa, a cal denotamos por $f^{-1}.$ Cal
 > [!solution1]- Solución
 > a) Pode verse que $x=0$ é raíz, polo que 
 > $$f^{-1}(0)=0.$$
+> 
 > b) Se derivamos a expresión da pista, obtemos
 > $$\frac{d(f^{-1})}{dx} (f(x)) \cdot f'(x)=1.$$
 > Tomando $x=0$,
 > $$\frac{d(f^{-1})}{dx} (0)=1.$$
+> 
 > c) Como $f(1)=6$, substituíndo por $x=1$ na expresión da derivada obtida en b):
 > $$\frac{d(f^{-1})}{dx} (6)=\frac{1}{14}.$$
+> 
 > d) Derivando a expresión obtida en b),
 > $$\frac{d^2(f^{-1})}{dx^2} (f(x)) \cdot (f'(x))^2 + \frac{d(f^{-1})}{dx} (f(x)) \cdot f''(x) =0.$$
 > Se tomamos $x=1$ nesta expresión, obtemos
