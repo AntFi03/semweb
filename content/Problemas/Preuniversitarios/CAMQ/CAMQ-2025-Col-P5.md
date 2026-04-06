@@ -19,7 +19,7 @@ A función $f(x) = x+2x^2 + 3x^3$ ten inversa, a cal denotamos por $f^{-1}.$ Cal
 - $f^{-1}(0).$
 - $\frac{d(f^{-1})}{dx} (0).$
 - $\frac{d(f^{-1})}{dx} (6).$
-- $\frac{d^2(f^{-1})}{dx^2} (0).$
+- $\frac{d^2(f^{-1})}{dx^2} (6).$
 
 ---
 
