@@ -21,11 +21,13 @@ Unha caixiña de bombóns contén 4 trozos de chocolate colocados un ao lado dou
 ## Resolución
 
 
-Sexa S o número de sabores dispoñíbeis, ao haber 4 chocolates, temos 3 lugares onde se tocan. Posto que a probabilidade de que dous chocolates non sexan do mesmo sabor é de $\frac{S-1}{S}$, entón a probabilidade global será:
-$$P= (\frac{S-1}{S})^3$$
-
-  Polo que aplicando a desigualdade:
-  $$P\geq 0.512 \Longrightarrow (\frac{S-1}{S})^3 \geq \frac{64}{125} \Longrightarrow 1-\frac{1}{S} \geq \frac{4}{5} \Longrightarrow S \geq 5$$
+> [!solution1]- Solución
+> Sexa S o número de sabores dispoñíbeis, ao haber 4 chocolates, temos 3 lugares onde se tocan. Posto que a probabilidade de que dous chocolates non sexan do mesmo sabor é de $\frac{S-1}{S}$, entón a probabilidade global será:
+> $$P= (\frac{S-1}{S})^3$$
+> 
+>   Polo que aplicando a desigualdade:
+>   $$P\geq 0.512 \Longrightarrow (\frac{S-1}{S})^3 \geq \frac{64}{125} \Longrightarrow 1-\frac{1}{S} \geq \frac{4}{5} \Longrightarrow S \geq 5$$
+> 
 
 ---
 
