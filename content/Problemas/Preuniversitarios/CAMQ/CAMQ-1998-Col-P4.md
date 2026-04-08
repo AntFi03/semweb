@@ -7,8 +7,9 @@ enableToc: true
 tags:
   - Problema
   - Preuniversitario
-  - Combinatoria
   - Fácil
+  - Probabilidade
+  - Combinatoria
 date: 2025-10-08
 author: Carla Dopazo Pavón
 ---
