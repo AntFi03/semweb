@@ -32,6 +32,7 @@ date: 2025-09-21
 - [CMO: Canadian Mathematical Olympiad](https://cms.math.ca/competitions/cmo/)
 - COMGEP: _Cuadernos de Olimpiadas Matemáticas. Geometría: Ejercicios y problemas_ por Radmila Dulajich e José Antonio Gómez.
 - [CPMSOC: UNSW Competitive Programming and Mathematics Society](https://www.unswcpmsoc.com/)
+- [CSO: Caribean STEM Olimpiads](https://caribbeanscience.org/cso/)
 - CTMB: _Critical Thinking_ por Max Black.
 - CWMO: China Western Mathematical Olympiad.
 ## D
