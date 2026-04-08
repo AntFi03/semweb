@@ -1,5 +1,5 @@
 ---
-title: CSO-Sample-2025-L1-1.4-P2
+title: CSO-Sample-1.4-P2
 description:
 comments: true
 draft: false
@@ -8,7 +8,7 @@ tags:
   - Exercicio
 date: 2026-04-08
 without-solution: false
-notas: https://caribbeanscience.org/wp-content/uploads/2025/11/CSO_Math_Olympiad_Sample_Questions_18Nov26.pdf
+notas:
 author: Carla Dopazo Pavón
 ---
 ## Enunciado
