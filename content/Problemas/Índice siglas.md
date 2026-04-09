@@ -14,7 +14,7 @@ date: 2025-09-21
 - AIME: American Invitational Mathematics Exam
 - [AMC12: American Mathematics Contest 12](https://maa.org/math-competitions/american-mathematics-contest-12-amc-12)
 - [AMO: Austrian Mathematical Olympiad](https://www.math.aau.at/OeMO/problems/)
-- ANY2ESO: _Matemáticas 2º ESO_ por J. Colera Jiménez, I. Gaztelu Albero, R. Colera Cañas.
+- ANY2ESO: _Matemáticas 2º ESO_ por J. Colera Jiménez, I. Gaztelu Albero, R. Colera Cañas publicado por Anaya en $2016$.
 - ANEM-Ddp: Olimpíada do Día de $\pi$ da ANEM.
 - ANEM-LM: Liga Matemática Universitaria da ANEM.
 - [APMC: Austrian-Polish Mathematical Competition. Individual Competition](https://imomath.com/index.cgi?page=collectionApo)
