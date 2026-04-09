@@ -17,7 +17,7 @@ author: Carla Dopazo Pavón
 ## Enunciado
 
 Hai dúas cestas idénticas. Unha contén catro mazás vermellas e tres mazás verdes; a outra contén dúas vermellas e tres verdes. Alguén escolle unnha cesta ao chou. Sacas unha mazá da cesta.
-- a) Cal é a probabilidade de que sexa unha mazá vermella?ç
+- a) Cal é a probabilidade de que sexa unha mazá vermella?
 
 Miras a mazá que sacasches e ves que é vermella. Ten moi boa pinta. Cómela; efectivamente, está deliciosa. A continuación, sacas unha segunda mazá da mesma cesta.
 - b) Cal é a probabilidade de que sexa unha mazá vermella?
