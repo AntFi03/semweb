@@ -2,7 +2,7 @@
 title: CAMQ-2008-Col-P4
 description:
 comments: true
-draft: false
+draft: true
 enableToc: true
 tags:
   - Problema
@@ -11,7 +11,7 @@ tags:
   - Probabilidade
 date: 2026-04-09
 without-solution: false
-notas:
+notas: revisar solución
 author: Carla Dopazo Pavón
 ---
 ## Enunciado
