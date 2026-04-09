@@ -56,6 +56,7 @@ date: 2025-09-21
 ## L
 ## M
 - [MDC: Mathematical Danube Competition](https://pregatirematematicaolimpiadejuniori.wordpress.com/mathematical-danube-competition/)
+- MPACC: _Mathematical Puzzles: A Connoisseur's Collection_ por Peter Winker.
 - MonkAIME: $\textit{Monk}$ American Invitational Mathematics Exam
 - [MSCAK: Mathnity Sunday Challenge por Andrzej Kukla](https://www.instagram.com/mathinity_sunday_challenge/)
 - [MSE: Math Stack Exchange](https://math.stackexchange.com/)
