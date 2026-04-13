@@ -46,3 +46,5 @@ date:
 ### Sesión 8
 - [[CAMQ-2025-Col-P5]]
 - [[CGMO-2006-D1-P1]]
+### Sesión 9 
+- [[PAMO-2018-P2]]
