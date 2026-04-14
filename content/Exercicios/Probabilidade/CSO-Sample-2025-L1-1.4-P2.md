@@ -8,7 +8,7 @@ tags:
   - Exercicio
 date: 2026-04-08
 without-solution: false
-notas:
+notas: https://caribbeanscience.org/wp-content/uploads/2025/11/CSO_Math_Olympiad_Sample_Questions_18Nov26.pdf
 author: Carla Dopazo Pavón
 ---
 ## Enunciado
