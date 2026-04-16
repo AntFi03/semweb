@@ -15,7 +15,7 @@ Para enviar os problemas, facédelo dende o correo que puxéchedes á hora de in
 
 Recordámosvos tamén que o Problema 2 de Nivel 3 da Xornada 5, o problema de Nivel 1 da Xornada 6, o problema de Nivel 2 da Xornada 7, o problema de Nivel 3 da xornada 8 e tódolos problemas da xornada 9 seguen sen resolver, polo que a súa puntuación aumenta nun punto adicional.
 
-Ademais, informámosvos de que a seguinte xornada será a última desta edición de Búscase Solución. Esperamos que desfrutárades moito ese ano deste concurso e que sigades participando o ano que vén. Ánimo, que esta é a recta final da cacería de problemas!
+Ademais, informámosvos de que a seguinte xornada será a última desta edición de Búscase Solución. Esperamos que desfrutárades moito ese ano deste concurso e que sigades participando o ano que vén. Ánimo, que esta é a recta final da cacería de problemas! Ah, tamén dicirvos que a Presa Atrapalladora xa non ten o control do concurso.
 
 > [!solution2]- Nivel 1
 > Dicimos que $n\in\mathbb{Z}^+$ con $m$ cifras en base $10$ é un número $k$-automórfico ($k\in\mathbb{Z}^+$) se as últimas $m$ cifras de $n^k$ en base $10$ coinciden con $n$. 
