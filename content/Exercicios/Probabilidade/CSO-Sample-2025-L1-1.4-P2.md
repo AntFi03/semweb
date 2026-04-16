@@ -26,7 +26,7 @@ Unha moeda sen trucar é tirada dúas veces. Cal é a probabilidade de obter pol
 >  $$\{(C,C),(C,T), (T,C), (T,T) \}.$$
 >  Polo tanto o número de casos posíbeis son $4$.
 >  *Casos favorábeis:* Agora temos que mirar no conxunto anterior, todos os casos que cumpren con "obter polo menos unha cara", os cales son todos menos $(T,T).$ Así o número de casos favorábeis son 3.
->  Polo tanto, a $\mathbb{P}(\text{"obter polo menos unha cara"}) = \frac{3}{4.}$
+>  Polo tanto, a $\mathbb{P}(\text{``obter polo menos unha cara"}) = \frac{3}{4.}$
 
  
 ---
