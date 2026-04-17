@@ -48,7 +48,7 @@ Ademais, informámosvos de que a seguinte xornada será a última desta edición
 >\end{pmatrix}.$$
 
 >[!solution5]- Nivel 3
-> Enunciado. 
+> Sexa $n\in\mathbb{Z}^+$. Dado un taboleiro $n\times n$, pintamos a celda superior esquerda de negro e o resto de branco. Agora podemos aplicar unha operación, que consiste en seleccionar un cadrado $2\times2$ cunha única celda negra e pintar o resto de negro. Para que $n$ podemos pintar todo o cadrado de negro?
 
 ***"Que gane o mellor!"***
 
