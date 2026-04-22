@@ -12,7 +12,8 @@ date: 2025-09-21
 - [AHSMC: Alberta High School Math Competition](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/outreach/alberta-high-school-math-competition/index.html)
 - [AHSME: American High School Mathematics Examination](https://artofproblemsolving.com/wiki/index.php/American_High_School_Mathematics_Examination)
 - AIME: American Invitational Mathematics Exam
-- [AMC12: American Mathematics Contest 12](https://maa.org/math-competitions/american-mathematics-contest-12-amc-12)
+- [AMC10: American Mathematics Contest 10](https://maa.org/student-programs/amc/)
+- [AMC12: American Mathematics Contest 12](https://maa.org/student-programs/amc/)
 - [AMO: Austrian Mathematical Olympiad](https://www.math.aau.at/OeMO/problems/)
 - ANY2ESO: _Matemáticas 2º ESO_ por J. Colera Jiménez, I. Gaztelu Albero, R. Colera Cañas publicado por Anaya en $2016$.
 - ANY4ESO: _Matemáticas 4º ESO_ por J. Colera Jiménez, Mª. J. Oliveira González, I. Gaztelu Albero, R. Colera Cañas publicado por Anaya en $2016$.
