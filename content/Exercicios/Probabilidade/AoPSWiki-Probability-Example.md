@@ -6,7 +6,7 @@ draft: false
 enableToc: true
 tags:
   - Exercicio
-date:
+date: 2026-04-22
 without-solution: false
 notas:
 author: Carla Dopazo Pavón

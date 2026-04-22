@@ -18,4 +18,5 @@ tags:
 - [[ANY4ESO-Pax259-P4]]
 - [[AMC10-B-2006-P17]]
 - [[MPACC-P1]]
-- 
+- [[AoPSWiki-Probability-Example]]
+- [[AHSME-1996-P16]]
