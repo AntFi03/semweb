@@ -48,3 +48,5 @@ date:
 - [[CGMO-2006-D1-P1]]
 ### Sesión 9 
 - [[PAMO-2018-P2]]
+### Sesión 10
+- [[MPACC-P1]]

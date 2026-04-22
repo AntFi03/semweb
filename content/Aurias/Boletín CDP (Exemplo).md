@@ -12,4 +12,10 @@ tags:
 - [[CAMQ-2025-Sec-P4]]
 
 ### Sesión 2
-- [[sem-2324-xeo-002-1.jpeg]]
+- [[ANY4ESO-Pax261-P4]]
+- [[ANY4ESO-Pax261-P3]]
+- [[ANY4ESO-Pax259-P1]]
+- [[ANY4ESO-Pax259-P4]]
+- [[AMC10-B-2006-P17]]
+- [[MPACC-P1]]
+- 
