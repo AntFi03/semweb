@@ -23,7 +23,7 @@ Extráense $3$ cartas con reemplazamento. Acha:
 
 ## Resolución
 
-> [!solution1]- Solución
+> [!solution1]- Solución por Carla Dopazo Pavón.
 > Para a resolución destes apartados imos empregar que se só realizamos unha extracción, a $\mathbb{P}[\text{"sacar un as"}] = \frac{1}{10}$ e $\mathbb{P}[\text{"sacar unha figura"}]= \frac{3}{10}$ e que ao extraer as cartas *con* reemprazamento, ambos son sucesos son independentes. 
 > - a) $\mathbb{P}[\text{"As na 1ª e unha figura na 2ª e 3ª"}] = \frac{1}{10} \cdot \frac{3}{10} \cdot \frac{3}{10} = \frac{9}{1000}.$
 > - b) $\mathbb{P}[\text{"3 ases"}] = \frac{3}{10} \cdot \frac{3}{10} \cdot \frac{3}{10} = \frac{27}{1000}.$
