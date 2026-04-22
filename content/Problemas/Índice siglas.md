@@ -19,6 +19,7 @@ date: 2025-09-21
 - ANY4ESO: _Matemáticas 4º ESO_ por J. Colera Jiménez, Mª. J. Oliveira González, I. Gaztelu Albero, R. Colera Cañas publicado por Anaya en $2016$.
 - ANEM-Ddp: Olimpíada do Día de $\pi$ da ANEM.
 - ANEM-LM: Liga Matemática Universitaria da ANEM.
+- [AoPSWiki:  Art of Problem Solving Wiki](https://artofproblemsolving.com/wiki/)
 - [APMC: Austrian-Polish Mathematical Competition. Individual Competition](https://imomath.com/index.cgi?page=collectionApo)
 - [APMO: Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/)
 - [APSMO: Australasian Problem Solving Mathematical Olympiads](https://apsmo.edu.au/)
