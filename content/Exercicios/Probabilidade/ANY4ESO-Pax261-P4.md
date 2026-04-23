@@ -14,8 +14,8 @@ author: Carla Dopazo Pavón
 ## Enunciado
 
 Extráense, unha tras outra, $3$ cartas dunha baralla. Cal é a probabilidade de obter bastos as tres veces?
-a) Supón que se extraen sen remprazamento.
-b) Supón que se extraen con reemprazamento.
+a) Supón que se extraen con remprazamento.
+b) Supón que se extraen sen reemprazamento.
 
 ---
 

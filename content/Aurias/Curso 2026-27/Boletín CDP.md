@@ -14,6 +14,13 @@ tags:
 - [[ANY2ESO- Pax301- P5]]
 - [[ANY2ESO- Pax303- P3]]
 - [[CSO-Sample-2025-L1-1.4-P2]]
+### Sesión 3
+- [[ANY4ESO-Pax259-P1]]
+- [[ANY4ESO-Pax259-P4]]
+- [[ANY4ESO-Pax261-P3]]
+- [[ANY4ESO-Pax261-P4]]
+- [[AHSME-1996-P16]]
+- [[AMC10-B-2006-P17]]
 
 
 
