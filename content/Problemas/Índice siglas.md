@@ -15,8 +15,9 @@ date: 2025-09-21
 - [AMC10: American Mathematics Contest 10](https://maa.org/student-programs/amc/)
 - [AMC12: American Mathematics Contest 12](https://maa.org/student-programs/amc/)
 - [AMO: Austrian Mathematical Olympiad](https://www.math.aau.at/OeMO/problems/)
-- ANY2ESO: _Matemáticas 2º ESO_ por J. Colera Jiménez, I. Gaztelu Albero, R. Colera Cañas publicado por Anaya en $2016$.
-- ANY4ESO: _Matemáticas 4º ESO_ por J. Colera Jiménez, Mª. J. Oliveira González, I. Gaztelu Albero, R. Colera Cañas publicado por Anaya en $2016$.
+- ANY2ESO: _Matemáticas 2º ESO_ por J. Colera Jiménez, I. Gaztelu Albero e R. Colera Cañas publicado por Anaya en $2016$.
+- ANY2BAC: _Matemáticas II_ por J. Colera Jiménez, Mª. J. Oliveira González, e R. Colera Cañas publicado por Anaya en $2016$.
+- ANY4ESO: _Matemáticas 4º ESO_ por J. Colera Jiménez, Mª. J. Oliveira González, I. Gaztelu Albero e R. Colera Cañas publicado por Anaya en $2016$.
 - ANEM-Ddp: Olimpíada do Día de $\pi$ da ANEM.
 - ANEM-LM: Liga Matemática Universitaria da ANEM.
 - [AoPSWiki:  Art of Problem Solving Wiki](https://artofproblemsolving.com/wiki/)
