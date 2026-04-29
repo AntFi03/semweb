@@ -28,6 +28,8 @@ Se queres incribirte, podes facelo a través [deste enlace](https://docs.google.
 3. En menos dunha semana, a túa madriña se poñerá en contacto contigo para concretar un horario.
 4. Desfrutarás das sesións.
 
+Se aínda non estás en 3º da ESO, podes reservar praza cubrindo o seguinte [formulario.](https://docs.google.com/forms/d/e/1FAIpQLSeC4y8nW_12Xlu1EDz9EWl5_7tmz9uO7uPeyloF_CpelATxMA/viewform?usp=publish-editor)  Terás máxima prioridade cando comecemos o curso de Aurias (febreiro-marzo) e esteas en 3º da ESO.
+
 Para poder garantir a praza, será necesario responder aos correos en, como máximo, unha semana. Se tes calquera dúbida, podes contactarnos a través do correo [auriasmat@gmail.com](mailto:auriasmat@gmail.com).
 ![[Logo_Aurias_fondo_branco.png]]
 
