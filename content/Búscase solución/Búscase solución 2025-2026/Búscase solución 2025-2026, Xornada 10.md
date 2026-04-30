@@ -27,25 +27,7 @@ Ademais, informámosvos de que a seguinte xornada será a última desta edición
 >[!solution3]- Nivel 2
 > Dados $p_1,p_2...,p_n$ números naturais coprimos dous a dous, probade se existen algúns $i$ e $n$ maiores ou iguais a 1 e tales que $\det(A_{i,n})=0$. Cales?
 > 
-> $$A_{i,n} =
->    \begin{pmatrix}
->	\left(\frac{1}{p_1}\right)^i &
->	\left(\frac{1}{p_1p_2}\right)^i &
->	\cdots &
->	\left(\frac{1}{p_1p_2\cdots p_n}\right)^i \\[6pt]
->		
->	\left(\frac{1}{p_1p_2}\right)^i &
->	\left(\frac{1}{p_1p_2p_3}\right)^i &
->	\cdots &
->	\left(\frac{1}{p_1p_2\cdots p_{n+1}}\right)^i \\[6pt]
->	
->	\vdots & \vdots & \ddots & \vdots \\[6pt]
->	
->	\left(\frac{1}{p_1p_2\cdots p_n}\right)^i &
->	\left(\frac{1}{p_1p_2\cdots p_{n+1}}\right)^i &
->	\cdots &
->	\left(\frac{1}{p_1p_2\cdots p_{2n-1}}\right)^i
->\end{pmatrix}.$$
+> $$A_{i,n} =\begin{pmatrix}\left(\frac{1}{p_1}\right)^i & \left(\frac{1}{p_1p_2}\right)^i &\cdots &\left(\frac{1}{p_1p_2\cdots p_n}\right)^i \\ \left(\frac{1}{p_1p_2}\right)^i & \left(\frac{1}{p_1p_2p_3}\right)^i & \cdots & \left(\frac{1}{p_1p_2\cdots p_{n+1}}\right)^i \\ \vdots & \vdots & \ddots & \vdots \\ \left(\frac{1}{p_1p_2\cdots p_n}\right)^i & \left(\frac{1}{p_1p_2\cdots p_{n+1}}\right)^i & \cdots & \left(\frac{1}{p_1p_2\cdots p_{2n-1}}\right)^i \end{pmatrix}.$$
 
 >[!solution5]- Nivel 3
 > Sexa $n\in\mathbb{Z}^+$. Dado un taboleiro $n\times n$, pintamos a celda superior esquerda de negro e o resto de branco. Agora podemos aplicar unha operación, que consiste en seleccionar un cadrado $2\times2$ cunha única celda negra e pintar o resto de negro. Para que $n$ podemos pintar todo o cadrado de negro?
