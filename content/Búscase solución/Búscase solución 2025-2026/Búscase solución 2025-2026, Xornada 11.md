@@ -51,7 +51,7 @@ Esta é a última xornada desta edición de Búscase Solución, pero tranquilos,
 > 
 >Sendo esta a ecuación de paso entre tempo $t$ e $t+1$:
 >
-$$x_{t+1}(v)=d\,x_t(v)+\sum_{u \sim v}\frac{(1-d)\,x_t(u)}{\deg(u)},$$
+>$$x_{t+1}(v)=d\,x_t(v)+\sum_{u \sim v}\frac{(1-d)\,x_t(u)}{\deg(u)},$$
 >
 >onde $\sim$ indica adxacencia.
 >
