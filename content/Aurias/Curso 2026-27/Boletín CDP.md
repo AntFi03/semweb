@@ -21,6 +21,10 @@ tags:
 - [[ANY4ESO-Pax261-P4]]
 - [[AHSME-1996-P16]]
 - [[AMC10-B-2006-P17]]
+### Sesión 4
+- [[ANY4ESO-Pax241-P1]]
+- [[ANY4ESO-Pax244-Faino ti-P1]]
+- [[AHSME-1989-P9]]
 
 
 
