@@ -35,7 +35,7 @@ Equipo 1 de Grace Chisholm Young (IES Eduardo Pondal), formado por Alex Calvo Sa
 *Equipo 6 de Irene Maria Quintanilha Coelho Da Fonseca* (IES Nº 1, O Carballiño), formado por Daniel Costa Carballo, Miguel González Fernández e Erea Hortass de la Fuente.
 
 **Premio beleza problema 1:** 
-*Equipo 3 de Martha Euphemia Lofton Haynes* (CPR Santa María, os Maristas), formado por Carlota Fariñas Cortés, Paula Pérez Prieto e Lucía Núñez Fernández.
+*Equipo 3 de Martha Euphemia Lofton Haynes* (CPR Santa María), formado por Carlota Fariñas Cortés, Paula Pérez Prieto e Lucía Núñez Fernández.
 
 ### Categoría Bacharelato:
 **Equipo gañador:** 
