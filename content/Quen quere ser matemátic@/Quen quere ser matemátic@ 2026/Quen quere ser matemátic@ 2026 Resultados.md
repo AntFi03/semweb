@@ -16,9 +16,8 @@ Mandarémoslle a cada centro instrucións para entregar os premios e un diploma 
 
 **Premio beleza problema 1:** 
 *Equipo 3 de Grace Chisholm Young* (IES Eduardo Pondal), formado por Lucas Doval Penabad, Diego Rodríguez Romero e Arón Toja Pensado.
-
-**Premio beleza problema 2:** 
-*Equipo 1 de Grace Chisholm Young* (IES Eduardo Pondal), formado por Alex Calvo Sanjurjo e Daniel Quintáns Barca.
+Premio beleza problema 2: 
+Equipo 1 de Grace Chisholm Young (IES Eduardo Pondal), formado por Alex Calvo Sanjurjo e Daniel Quintáns Barca.
 
 ### Categoría de 2º ESO:
 **Equipo gañador:** 
