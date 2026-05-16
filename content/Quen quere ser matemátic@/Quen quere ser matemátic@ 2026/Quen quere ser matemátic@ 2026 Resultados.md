@@ -33,7 +33,7 @@ Mandarémoslle a cada centro instrucións para entregar os premios e un diploma 
 
 ### Categoría de 4º ESO:
 **Equipo gañador:** 
-*Equipo 6 de Irene Maria Quintanilha Coelho Da Fonseca* (IES Nº 1, O Carballiño), formado por Daniel Costa Carballo, Miguel González Fernández e Erea Hortass de la Fuente.
+*Equipo 6 de Irene Maria Quintanilha Coelho Da Fonseca* (IES Nº 1, O Carballiño), formado por Daniel Costa Carballo, Miguel González Fernández e Erea Hortas de la Fuente.
 
 **Premio beleza problema 1:** 
 *Equipo 3 de Martha Euphemia Lofton Haynes* (CPR Santa María), formado por Carlota Fariñas Cortés, Paula Pérez Prieto e Lucía Núñez Fernández.
