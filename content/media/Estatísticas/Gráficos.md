@@ -38,10 +38,34 @@ data:
     value: 162
   - label: 2026-01
     serie: Visitas
-    value: 60
+    value: 89
   - label: 2026-01
     serie: Usuarios
-    value: 47
+    value: 65
+  - label: 2026-02
+    serie: Visitas
+    value: 198
+  - label: 2026-02
+    serie: Usuarios
+    value: 105
+  - label: 2026-03
+    serie: Visitas
+    value: 551
+  - label: 2026-03
+    serie: Usuarios
+    value: 435
+  - label: 2026-04
+    serie: Visitas
+    value: 412
+  - label: 2026-04
+    serie: Usuarios
+    value: 289
+  - label: 2026-05
+    serie: Visitas
+    value: 167
+  - label: 2026-05
+    serie: Usuarios
+    value: 114
 
 options:
   xField: label
