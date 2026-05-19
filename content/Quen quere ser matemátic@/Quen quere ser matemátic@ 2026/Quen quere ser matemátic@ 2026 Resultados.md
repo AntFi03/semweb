@@ -2,7 +2,7 @@
 title: Quen quere ser matemátic@ 2026 Resultados
 description:
 comments: true
-draft: false
+draft: true
 enableToc: true
 tags:
   - Concurso
