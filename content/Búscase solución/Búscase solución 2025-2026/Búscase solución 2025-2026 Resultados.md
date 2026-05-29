@@ -13,9 +13,9 @@ Benvidos, cazadores, aos resultados desta primeira entrega de Búscase Solución
 
 | Posición |   Participante    | Puntos |
 | :------: | :---------------: | :----: |
-|    🥇    |      Cazador      |   51   |
-|    🥈    | A Fonsagrada<br>  |   48   |
-|    🥉    | CLE03 de Complexa |  28,5  |
+|    🥇    |   A Fonsagrada    |  53,5  |
+|    🥈    |    Cazador<br>    |  51,5  |
+|    🥉    | CLE03 de Complexa |   29   |
 |    4     |       Lucho       |   7    |
 |    5     |       CdxĪ        |  5,5   |
 |    6     |         ∅         |  2,5   |
@@ -35,7 +35,7 @@ Benvidos, cazadores, aos resultados desta primeira entrega de Búscase Solución
 
 
 Ademais, quedan as outras dúas categorías.
-- *O cazador máis veloz foi:*
-- *O cazdor con solucións máis belas foi:*
+- *O cazador máis veloz foi:* Cazador
+- *O cazdor con solucións máis belas foi:* Cazador
 
 Se tedes algunha dúbida, podedes contactar á organización empregando o seguinte [correo (mestrecazador@gmail.com)](mailto::mestrecazador@gmail.com).
