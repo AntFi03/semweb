@@ -13,8 +13,8 @@ Benvidos, cazadores, aos resultados desta primeira entrega de Búscase Solución
 
 | Posición |   Participante    | Puntos |
 | :------: | :---------------: | :----: |
-|    🥇    |   A Fonsagrada    |  53,5  |
-|    🥈    |    Cazador<br>    |  51,5  |
+|    🥇    |      Cazador      |  54,5  |
+|    🥈    | A Fonsagrada<br>  |  53,5  |
 |    🥉    | CLE03 de Complexa |   29   |
 |    4     |       Lucho       |   7    |
 |    5     |       CdxĪ        |  5,5   |
