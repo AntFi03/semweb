@@ -23,6 +23,7 @@ Benvidos, cazadores, aos resultados desta primeira entrega de Búscase Solución
 |    8     |    Tarasca<br>    |   1    |
 |    9     | Andrés Macarrones |   0    |
 |    9     |    Dani Mates     |   0    |
+|    9     |     El Chapas     |   0    |
 |    9     |    Keyser Söze    |   0    |
 |    9     |      Marcos       |   0    |
 |    9     |    melendi.out    |   0    |
@@ -31,7 +32,7 @@ Benvidos, cazadores, aos resultados desta primeira entrega de Búscase Solución
 |    9     |      Sergio       |   0    |
 |    9     |      Srx321       |   0    |
 |    9     |       Vazey       |   0    |
-|    9     |     El Chapas     |   0    |
+
 
 
 Ademais, quedan as outras dúas categorías.
