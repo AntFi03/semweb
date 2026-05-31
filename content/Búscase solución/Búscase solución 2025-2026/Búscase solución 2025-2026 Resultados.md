@@ -2,14 +2,14 @@
 title: Búscase solución 2025-2026
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
   - Concurso
 date: 2026-06-01
 ---
 
-Benvidos, cazadores, aos resultados desta primeira entrega de Búscase Solución. Moitas grzas a todos por participar e esperamos que o pasarades todos moi ben participando e desfrutásedes os problemas. A continuación, tedes a táboa clasificatoria.
+Benvidos, cazadores, aos resultados desta primeira entrega de Búscase Solución. Moitas grazas a todos por participar e esperamos que o pasarades todos moi ben participando e desfrutásedes os problemas. A continuación, tedes a táboa clasificatoria.
 
 | Posición |   Participante    | Puntos |
 | :------: | :---------------: | :----: |
