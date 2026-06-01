@@ -2,7 +2,7 @@
 title: Búscase solución 2025-2026, resultados
 description:
 comments: true
-draft: true
+draft: false
 enableToc: true
 tags:
   - Concurso
