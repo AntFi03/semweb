@@ -12,11 +12,7 @@ tags:
 - [[CAMQ-2025-Sec-P4]]
 
 ### Sesión 2
-- [[ANY4ESO-Pax261-P4]]
-- [[ANY4ESO-Pax261-P3]]
-- [[ANY4ESO-Pax259-P1]]
-- [[ANY4ESO-Pax259-P4]]
-- [[AMC10-B-2006-P17]]
-- [[MPACC-P1]]
-- [[AoPSWiki-Probability-Example]]
-- [[AHSME-1996-P16]]
+- [[SMO-2025-Sec-C1]]
+- [[OME-2014-P1]]
+- [[OMFG-2025-P2]]
+- [[AHSME-1983-P16]]
