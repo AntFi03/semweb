@@ -26,5 +26,11 @@ tags:
 - [[ANY4ESO-Pax244-Faino ti-P1]]
 - [[AHSME-1989-P9]]
 
+### Sesión 5
+- [[SMO-2025-Sec-C1]]
+- [[OME-2014-P1]]
+- [[OMFG-2025-P2]]
+- [[AHSME-1983-P16]]
+
 
 
